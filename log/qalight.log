@@ -2652,3 +2652,709 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-15-03 15:38:52   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was ended.--------------
 2021-15-03 15:38:52   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClick
 2021-15-03 15:38:53   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-15-03 15:56:20   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-15-03 15:56:22   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
+2021-15-03 15:56:22   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-15-03 15:56:26   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-15-03 15:56:28  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 15:56:28  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 15:56:28  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 15:56:28  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 15:56:28  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 15:56:28  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 15:56:28  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 15:56:28  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 15:56:28  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 15:56:28  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 15:56:29   INFO [pages.LoginPage] : Login page was open.
+2021-15-03 15:56:29  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 15:56:29  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 15:56:29  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 15:56:30   INFO [pages.LoginPage] : orgvowk63wzokrwuzg48tiugvdkdqv was input in to element 'Input User Name In Register In' 
+2021-15-03 15:56:30  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 15:56:30  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 15:56:30  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 15:56:30   INFO [pages.LoginPage] : 20210315155628@ukr.net was input in to element 'Input Email In Register In' 
+2021-15-03 15:56:30  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 15:56:30  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 15:56:30  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 15:56:30   INFO [pages.LoginPage] : aHTxY2BPYTTNy68l09XuV5Ge7es0uGjC6TE3tkJCcRUdRAW7E5 was input in to element 'Input Pass Word In Register In' 
+2021-15-03 15:56:30  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 15:56:30  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 15:56:30   INFO [pages.LoginPage] : Password is not visible
+2021-15-03 15:56:30   INFO [pages.LoginPage] : Password is not copy.
+2021-15-03 15:56:30  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 15:56:41  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 15:56:41  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 15:56:41  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 15:56:41  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 15:56:43   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
+2021-15-03 15:56:43  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 15:56:43  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 15:56:43  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 15:56:43  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 15:56:45  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 15:57:16   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-15-03 15:57:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 15:57:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 15:57:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 15:57:16   INFO [pages.HomePage] : Text after registration on the top is visible - Hello orgvowk63wzokrwuzg48tiugvdkdqv, your feed is empty.
+2021-15-03 15:57:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 15:57:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 15:57:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 15:57:16   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-15-03 15:57:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 15:57:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 15:57:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 15:57:16   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-15-03 15:57:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 15:57:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 15:57:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 15:57:16   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-15-03 15:57:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 15:57:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 15:57:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 15:57:16   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-15-03 15:57:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 15:57:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 15:57:16   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was ended.--------------
+2021-15-03 15:57:16   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Finished test: regestrationTests.TestCase_2_ValidRegistrationPressEnterKey::validRegistrationByEnter
+2021-15-03 15:57:17   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was closed
+2021-15-03 16:05:43   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-15-03 16:05:46   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
+2021-15-03 16:05:46   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-15-03 16:05:50   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-15-03 16:05:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:05:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:05:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:05:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:05:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:05:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:05:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:05:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:05:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:05:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:05:53   INFO [pages.LoginPage] : Login page was open.
+2021-15-03 16:05:53  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:05:53  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:05:53  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:05:54   INFO [pages.LoginPage] : 8tpyl45kbrcvopfa2mxmerhvuze153 was input in to element 'Input User Name In Register In' 
+2021-15-03 16:05:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:05:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:05:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:05:54   INFO [pages.LoginPage] : 20210315160552@ukr.net was input in to element 'Input Email In Register In' 
+2021-15-03 16:05:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:05:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:05:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:05:54   INFO [pages.LoginPage] : iSGNMNOMekQvb4p0wPTVWlpFampYrLE52mSxzpPU232ppgURtt was input in to element 'Input Pass Word In Register In' 
+2021-15-03 16:05:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:05:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:05:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:05:55   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-15-03 16:05:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:05:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:05:55   INFO [pages.LoginPage] : Password is not visible
+2021-15-03 16:05:55   INFO [pages.LoginPage] : Password is not copy.
+2021-15-03 16:05:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:06:06  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:06:06  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:06:06  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:06:06  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:06:08   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-15-03 16:06:08  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:06:08  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:06:08  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:06:08  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:06:10  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:06:40   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-15-03 16:06:40  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:06:40  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:06:40  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:06:40   INFO [pages.HomePage] : Text after registration on the top is visible - Hello 8tpyl45kbrcvopfa2mxmerhvuze153, your feed is empty.
+2021-15-03 16:06:40  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:06:40  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:06:40  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:06:40   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-15-03 16:06:40  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:06:40  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:06:40  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:06:40   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-15-03 16:06:40  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:06:40  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:06:40  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:06:40   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-15-03 16:06:40  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:06:40  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:06:40  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:06:40   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-15-03 16:06:40  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:06:40  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:06:40   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was ended.--------------
+2021-15-03 16:06:40   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Finished test: regestrationTests.TestCase_2_ValidRegistrationPressEnterKey::validRegistrationByEnter
+2021-15-03 16:06:41   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was closed
+2021-15-03 16:07:29   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was started.------------
+2021-15-03 16:07:29   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-15-03 16:07:31   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
+2021-15-03 16:07:31   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-15-03 16:07:31   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
+2021-15-03 16:07:31   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-15-03 16:07:35   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
+2021-15-03 16:07:37   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-15-03 16:07:37   INFO [pages.LoginPage] : Login page was open.
+2021-15-03 16:07:38   INFO [pages.LoginPage] : 1kj was input in to element 'Input User Name In Register In' 
+2021-15-03 16:07:38   INFO [pages.LoginPage] : Login page was open.
+2021-15-03 16:07:38   INFO [pages.LoginPage] : 20210315160735@ukr.net was input in to element 'Input Email In Register In' 
+2021-15-03 16:07:39   INFO [pages.LoginPage] : od57dguefzqp00tjxbhwitiq4nzbiw was input in to element 'Input User Name In Register In' 
+2021-15-03 16:07:39   INFO [pages.LoginPage] : gko0gnKNlqCB was input in to element 'Input Pass Word In Register In' 
+2021-15-03 16:07:39   INFO [pages.LoginPage] : 20210315160737@ukr.net was input in to element 'Input Email In Register In' 
+2021-15-03 16:07:39   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-15-03 16:07:39   INFO [pages.LoginPage] : Password is not visible
+2021-15-03 16:07:39   INFO [pages.LoginPage] : Password is not copy.
+2021-15-03 16:07:40   INFO [pages.LoginPage] : AQjNEBDyfpOypumSIIQtnQz97bTRo6qYVXHQDqL0JPzy2xR7Si was input in to element 'Input Pass Word In Register In' 
+2021-15-03 16:07:40   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-15-03 16:07:40   INFO [pages.LoginPage] : Password is not visible
+2021-15-03 16:07:40   INFO [pages.LoginPage] : Password is not copy.
+2021-15-03 16:07:52   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-15-03 16:07:53   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-15-03 16:08:25   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-15-03 16:08:25   INFO [pages.HomePage] : Text after registration on the top is visible - Hello 1kj, your feed is empty.
+2021-15-03 16:08:25   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-15-03 16:08:25   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-15-03 16:08:25   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-15-03 16:08:25   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-15-03 16:08:25   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was ended.--------------
+2021-15-03 16:08:25   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClick
+2021-15-03 16:08:25   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-15-03 16:08:25   INFO [pages.HomePage] : Text after registration on the top is visible - Hello od57dguefzqp00tjxbhwitiq4nzbiw, your feed is empty.
+2021-15-03 16:08:26   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-15-03 16:08:26   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-15-03 16:08:26   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-15-03 16:08:26   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-15-03 16:08:26   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was ended.--------------
+2021-15-03 16:08:26   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Finished test: regestrationTests.TestCase_2_ValidRegistrationPressEnterKey::validRegistrationByEnter
+2021-15-03 16:08:26   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-15-03 16:08:27   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was closed
+2021-15-03 16:26:29   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-15-03 16:26:31   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
+2021-15-03 16:26:31   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-15-03 16:26:35   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-15-03 16:26:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:26:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:26:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:26:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:26:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:26:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:26:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:26:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:26:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:26:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:26:37   INFO [pages.LoginPage] : Login page was open.
+2021-15-03 16:26:37  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:26:37  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:26:37  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:26:38   INFO [pages.LoginPage] : nbpw9eg4kny4sj6gacyqnklwghgozf was input in to element 'Input User Name In Register In' 
+2021-15-03 16:26:38  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:26:38  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:26:38  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:26:38   INFO [pages.LoginPage] : 20210315162636@ukr.net was input in to element 'Input Email In Register In' 
+2021-15-03 16:26:38  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:26:38  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:26:38  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:26:38   INFO [pages.LoginPage] : yYVrvhy0DLsTRpSBS2VWOTQOq0twzHmKatOvpAoe2uuFKeNwAs was input in to element 'Input Pass Word In Register In' 
+2021-15-03 16:26:38  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:26:38  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:26:38  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:26:38   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-15-03 16:26:38  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:26:38  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:26:39   INFO [pages.LoginPage] : Password is not visible
+2021-15-03 16:26:39   INFO [pages.LoginPage] : Password is not copy.
+2021-15-03 16:26:39  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:26:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:26:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:26:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:26:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:26:52   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-15-03 16:26:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:26:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:26:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:26:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:26:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:27:24   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-15-03 16:27:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:27:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:27:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:27:24   INFO [pages.HomePage] : Text after registration on the top is visible - Hello nbpw9eg4kny4sj6gacyqnklwghgozf, your feed is empty.
+2021-15-03 16:27:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:27:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:27:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:27:24   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-15-03 16:27:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:27:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:27:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:27:25   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-15-03 16:27:25  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:27:25  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:27:25  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:27:25   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-15-03 16:27:25  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:27:25  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:27:25  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:27:25   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-15-03 16:27:25  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:27:25  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:27:25   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was ended.--------------
+2021-15-03 16:27:25   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Finished test: regestrationTests.TestCase_2_ValidRegistrationPressEnterKey::validRegistrationByEnter
+2021-15-03 16:27:25   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was closed
+2021-15-03 16:30:26   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-15-03 16:30:28   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
+2021-15-03 16:30:28   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-15-03 16:30:32   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-15-03 16:30:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:30:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:30:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:30:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:30:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:30:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:30:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:30:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:30:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:30:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:30:35   INFO [pages.LoginPage] : Login page was open.
+2021-15-03 16:30:35  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:30:35  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:30:35  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:30:35   INFO [pages.LoginPage] : 9farcryxwofeepxcysrmztvtn0ponb was input in to element 'Input User Name In Register In' 
+2021-15-03 16:30:35  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:30:35  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:30:35  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:30:36   INFO [pages.LoginPage] : 20210315163033@ukr.net was input in to element 'Input Email In Register In' 
+2021-15-03 16:30:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:30:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:30:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:30:36   INFO [pages.LoginPage] : xISKNTgx6sAjaoC3e4u5n3yZSm0HMKDImzRlrJDSatX77AOA7F was input in to element 'Input Pass Word In Register In' 
+2021-15-03 16:30:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:30:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:30:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:30:36   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-15-03 16:30:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:30:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:30:37   INFO [pages.LoginPage] : Password is not visible
+2021-15-03 16:30:38   INFO [pages.LoginPage] : Password is not copy.
+2021-15-03 16:30:38  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:30:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:30:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:30:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:30:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:30:50   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-15-03 16:30:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:30:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:30:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:30:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:30:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:31:23   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-15-03 16:31:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:31:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:31:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:31:23   INFO [pages.HomePage] : Text after registration on the top is visible - Hello 9farcryxwofeepxcysrmztvtn0ponb, your feed is empty.
+2021-15-03 16:31:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:31:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:31:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:31:23   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-15-03 16:31:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:31:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:31:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:31:23   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-15-03 16:31:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:31:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:31:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:31:23   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-15-03 16:31:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:31:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:31:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 16:31:23   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-15-03 16:31:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 16:31:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 16:31:23   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was ended.--------------
+2021-15-03 16:31:23   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Finished test: regestrationTests.TestCase_2_ValidRegistrationPressEnterKey::validRegistrationByEnter
+2021-15-03 16:31:24   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was closed
+2021-15-03 17:33:17   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-15-03 17:33:19   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
+2021-15-03 17:33:19   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-15-03 17:33:23   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-15-03 17:33:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:33:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:33:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:33:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:33:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:33:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:33:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:33:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:33:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:33:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:33:36   INFO [pages.LoginPage] : Login page was open.
+2021-15-03 17:33:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:33:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:33:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:33:36   INFO [pages.LoginPage] : esdoqgrybdqposjqa3clh7e3wsylgx was input in to element 'Input User Name In Register In' 
+2021-15-03 17:33:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:33:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:33:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:33:37   INFO [pages.LoginPage] : 20210315173324@ukr.net was input in to element 'Input Email In Register In' 
+2021-15-03 17:33:37  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:33:37  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:33:37  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:33:37   INFO [pages.LoginPage] : jrj2XgGnrukY1GFR4ORTLHmMeQOxCUAjEiYmkS2zqSKCKjhVZb was input in to element 'Input Pass Word In Register In' 
+2021-15-03 17:33:37  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:33:37  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:33:37  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:33:37   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-15-03 17:33:37  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:33:37  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:33:39   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-15-03 17:33:39   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-15-03 17:33:39   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-15-03 17:33:40   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-15-03 17:33:40   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-15-03 17:33:40   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-15-03 17:33:41   INFO [pages.LoginPage] : Password is not visible
+2021-15-03 17:33:41   INFO [pages.LoginPage] : Password is not copy.
+2021-15-03 17:33:41  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:33:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:33:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:33:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:33:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:33:54   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-15-03 17:33:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:33:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:33:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:33:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:33:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:34:26   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-15-03 17:34:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:34:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:34:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:34:26   INFO [pages.HomePage] : Text after registration on the top is visible - Hello esdoqgrybdqposjqa3clh7e3wsylgx, your feed is empty.
+2021-15-03 17:34:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:34:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:34:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:34:26   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-15-03 17:34:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:34:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:34:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:34:26   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-15-03 17:34:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:34:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:34:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:34:26   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-15-03 17:34:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:34:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:34:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:34:26   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-15-03 17:34:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:34:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:34:26   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was ended.--------------
+2021-15-03 17:34:26   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Finished test: regestrationTests.TestCase_2_ValidRegistrationPressEnterKey::validRegistrationByEnter
+2021-15-03 17:34:27   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was closed
+2021-15-03 17:35:07   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-15-03 17:35:09   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
+2021-15-03 17:35:09   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-15-03 17:35:13   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-15-03 17:35:14  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:35:14  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:35:14  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:35:14  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:35:14  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:35:14  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:35:14  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:35:14  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:35:14  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:35:14  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:35:16   INFO [pages.LoginPage] : Login page was open.
+2021-15-03 17:35:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:35:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:35:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:35:16   INFO [pages.LoginPage] : unloojbqauceoewdeyy5z5zgri0ske was input in to element 'Input User Name In Register In' 
+2021-15-03 17:35:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:35:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:35:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:35:17   INFO [pages.LoginPage] : 20210315173514@ukr.net was input in to element 'Input Email In Register In' 
+2021-15-03 17:35:17  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:35:17  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:35:17  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:35:17   INFO [pages.LoginPage] : Y3JMfhgMzq1RZRisPCnLBr20R7EcAMFryrJnj1KgNC1cXCjops was input in to element 'Input Pass Word In Register In' 
+2021-15-03 17:35:17  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:35:17  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:35:17  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:35:17   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-15-03 17:35:17  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:35:17  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:35:18   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-15-03 17:35:19   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-15-03 17:35:19   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-15-03 17:35:20   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-15-03 17:35:20   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-15-03 17:35:21   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-15-03 17:35:21   INFO [pages.LoginPage] : Password is not visible
+2021-15-03 17:35:21   INFO [pages.LoginPage] : Password is not copy.
+2021-15-03 17:35:21  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:35:32  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:35:32  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:35:32  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:35:32  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:35:33   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-15-03 17:35:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:35:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:35:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:35:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:35:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:35:57   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-15-03 17:35:59   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
+2021-15-03 17:35:59   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-15-03 17:36:04   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-15-03 17:36:05  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:36:05  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:36:05  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:36:05  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:36:05  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:36:05  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:36:05  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:36:05  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:36:05  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:36:05  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:36:06   INFO [pages.LoginPage] : Login page was open.
+2021-15-03 17:36:06  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:36:06  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:36:06  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:36:06   INFO [pages.LoginPage] : lftmpi49zrryagle7pfgvribwfffnz was input in to element 'Input User Name In Register In' 
+2021-15-03 17:36:06  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:36:06  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:36:06  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:36:07   INFO [pages.LoginPage] : 20210315173605@ukr.net was input in to element 'Input Email In Register In' 
+2021-15-03 17:36:07  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:36:07  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:36:07  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:36:07   INFO [pages.LoginPage] : zg7WB5hgmGxEipm73YgsHTii96lwVhpE0kUUkKU6OusVZRPKB2 was input in to element 'Input Pass Word In Register In' 
+2021-15-03 17:36:07  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:36:07  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:36:07  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:36:07   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-15-03 17:36:07  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:36:07  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:36:11   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-15-03 17:36:11   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-15-03 17:36:11   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-15-03 17:36:14   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-15-03 17:36:14   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-15-03 17:36:15   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-15-03 17:36:15   INFO [pages.LoginPage] : Password is not visible
+2021-15-03 17:36:15   INFO [pages.LoginPage] : Password is not copy.
+2021-15-03 17:36:15  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:36:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:36:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:36:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:36:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:36:28   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-15-03 17:36:28  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:36:28  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:36:28  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 17:36:28  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 17:36:30  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 17:37:02   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-15-03 17:37:02   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was started.------------
+2021-15-03 17:37:04   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
+2021-15-03 17:37:04   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-15-03 17:37:04   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
+2021-15-03 17:37:04   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-15-03 17:37:09   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
+2021-15-03 17:37:09   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-15-03 17:37:11   INFO [pages.LoginPage] : Login page was open.
+2021-15-03 17:37:11   INFO [pages.LoginPage] : Login page was open.
+2021-15-03 17:37:12   INFO [pages.LoginPage] : u1lec9juveymvbaojpqhbpip0afrep was input in to element 'Input User Name In Register In' 
+2021-15-03 17:37:12   INFO [pages.LoginPage] : v3c was input in to element 'Input User Name In Register In' 
+2021-15-03 17:37:12   INFO [pages.LoginPage] : 20210315173709@ukr.net was input in to element 'Input Email In Register In' 
+2021-15-03 17:37:12   INFO [pages.LoginPage] : 20210315173709@ukr.net was input in to element 'Input Email In Register In' 
+2021-15-03 17:37:13   INFO [pages.LoginPage] : LdLXLIG7pZ7a was input in to element 'Input Pass Word In Register In' 
+2021-15-03 17:37:13   INFO [pages.LoginPage] : zVzQcw6gbmzjSjKqfQ7L1Azr2FMkxiHhyzLQGK0Y4WPJ5TrcED was input in to element 'Input Pass Word In Register In' 
+2021-15-03 17:37:13   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-15-03 17:37:13   INFO [pages.LoginPage] : Password is not visible
+2021-15-03 17:37:13   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-15-03 17:37:13   INFO [pages.LoginPage] : Password is not copy.
+2021-15-03 17:37:17   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-15-03 17:37:17   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-15-03 17:37:17   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-15-03 17:37:21   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-15-03 17:37:21   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-15-03 17:37:21   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-15-03 17:37:21   INFO [pages.LoginPage] : Password is not visible
+2021-15-03 17:37:21   INFO [pages.LoginPage] : Password is not copy.
+2021-15-03 17:37:26   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-15-03 17:37:33   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-15-03 17:37:35   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:true
+2021-15-03 17:37:35   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was ended.--------------
+2021-15-03 17:37:36   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Finished test: regestrationTests.TestCase_2_ValidRegistrationPressEnterKey::validRegistrationByEnter
+2021-15-03 17:37:37   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was closed
+2021-15-03 17:37:58   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-15-03 17:37:59   INFO [pages.HomePage] : Text after registration on the top is visible - Hello v3c, your feed is empty.
+2021-15-03 17:37:59   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-15-03 17:37:59   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-15-03 17:37:59   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-15-03 17:37:59   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-15-03 17:37:59   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was ended.--------------
+2021-15-03 17:37:59   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClick
+2021-15-03 17:38:00   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-15-03 18:17:42   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was started.------------
+2021-15-03 18:17:42   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-15-03 18:17:44   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
+2021-15-03 18:17:44   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-15-03 18:17:44   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
+2021-15-03 18:17:44   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-15-03 18:17:49   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
+2021-15-03 18:17:51   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-15-03 18:18:14   INFO [pages.LoginPage] : Login page was open.
+2021-15-03 18:18:15   INFO [pages.LoginPage] : Login page was open.
+2021-15-03 18:18:15   INFO [pages.LoginPage] : dzf was input in to element 'Input User Name In Register In' 
+2021-15-03 18:18:16   INFO [pages.LoginPage] : 20210315181750@ukr.net was input in to element 'Input Email In Register In' 
+2021-15-03 18:18:16   INFO [pages.LoginPage] : danlkmjmyz5xhhsnikcllc3ypldwxo was input in to element 'Input User Name In Register In' 
+2021-15-03 18:18:16   INFO [pages.LoginPage] : 1ssfi7HJigD1 was input in to element 'Input Pass Word In Register In' 
+2021-15-03 18:18:16   INFO [pages.LoginPage] : 20210315181751@ukr.net was input in to element 'Input Email In Register In' 
+2021-15-03 18:18:16   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-15-03 18:18:17   INFO [pages.LoginPage] : Password is not visible
+2021-15-03 18:18:17   INFO [pages.LoginPage] : Password is not copy.
+2021-15-03 18:18:17   INFO [pages.LoginPage] : PBSiBGhqdD9VGb4TpAoZ8L47cWhu0SRuxhKgrNnNATIGXma2TM was input in to element 'Input Pass Word In Register In' 
+2021-15-03 18:18:17   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-15-03 18:18:20   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-15-03 18:18:21   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-15-03 18:18:21   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-15-03 18:18:24   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-15-03 18:18:24   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-15-03 18:18:24   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-15-03 18:18:24   INFO [pages.LoginPage] : Password is not visible
+2021-15-03 18:18:25   INFO [pages.LoginPage] : Password is not copy.
+2021-15-03 18:18:29   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-15-03 18:18:38   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-15-03 18:19:02   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-15-03 18:19:02   INFO [pages.HomePage] : Text after registration on the top is visible - Hello dzf, your feed is empty.
+2021-15-03 18:19:02   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-15-03 18:19:02   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-15-03 18:19:02   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-15-03 18:19:02   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-15-03 18:19:02   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was ended.--------------
+2021-15-03 18:19:02   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClick
+2021-15-03 18:19:03   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-15-03 18:19:11   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-15-03 18:19:11   INFO [pages.HomePage] : Text after registration on the top is visible - Hello danlkmjmyz5xhhsnikcllc3ypldwxo, your feed is empty.
+2021-15-03 18:19:11   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-15-03 18:19:11   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-15-03 18:19:11   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-15-03 18:19:11   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-15-03 18:19:11   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was ended.--------------
+2021-15-03 18:19:11   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Finished test: regestrationTests.TestCase_2_ValidRegistrationPressEnterKey::validRegistrationByEnter
+2021-15-03 18:19:12   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was closed
+2021-15-03 18:20:06   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-15-03 18:20:06   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was started.------------
+2021-15-03 18:20:07   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
+2021-15-03 18:20:08   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-15-03 18:20:08   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
+2021-15-03 18:20:08   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-15-03 18:20:13   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-15-03 18:20:13   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
+2021-15-03 18:20:15   INFO [pages.LoginPage] : Login page was open.
+2021-15-03 18:20:15   INFO [pages.LoginPage] : Login page was open.
+2021-15-03 18:20:16   INFO [pages.LoginPage] : zamyssg16oldez7jcgdfje1smjxg67 was input in to element 'Input User Name In Register In' 
+2021-15-03 18:20:16   INFO [pages.LoginPage] : cj6 was input in to element 'Input User Name In Register In' 
+2021-15-03 18:20:16   INFO [pages.LoginPage] : 20210315182013@ukr.net was input in to element 'Input Email In Register In' 
+2021-15-03 18:20:16   INFO [pages.LoginPage] : 20210315182013@ukr.net was input in to element 'Input Email In Register In' 
+2021-15-03 18:20:17   INFO [pages.LoginPage] : 160WxHzslF74 was input in to element 'Input Pass Word In Register In' 
+2021-15-03 18:20:17   INFO [pages.LoginPage] : yYq82fyNspbtrLWoNbOf7n5pflwXkOT3XkTi7No0In11mCVG5z was input in to element 'Input Pass Word In Register In' 
+2021-15-03 18:20:17   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-15-03 18:20:17   INFO [pages.LoginPage] : Password is not visible
+2021-15-03 18:20:17   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-15-03 18:20:17   INFO [pages.LoginPage] : Password is not copy.
+2021-15-03 18:20:23   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-15-03 18:20:23   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-15-03 18:20:23   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-15-03 18:20:28   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-15-03 18:20:28   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-15-03 18:20:29   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-15-03 18:20:29   INFO [pages.LoginPage] : Password is not visible
+2021-15-03 18:20:29   INFO [pages.LoginPage] : Password is not copy.
+2021-15-03 18:20:30   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-15-03 18:21:41   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-15-03 18:21:44   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
+2021-15-03 18:21:44   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-15-03 18:21:48   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-15-03 18:21:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 18:21:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 18:21:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 18:21:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 18:21:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 18:21:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 18:21:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 18:21:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 18:21:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 18:21:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 18:21:50   INFO [pages.LoginPage] : Login page was open.
+2021-15-03 18:21:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 18:21:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 18:21:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 18:21:51   INFO [pages.LoginPage] : ggxr6c61gpingtblddezjmrylinupv was input in to element 'Input User Name In Register In' 
+2021-15-03 18:21:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 18:21:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 18:21:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 18:21:51   INFO [pages.LoginPage] : 20210315182149@ukr.net was input in to element 'Input Email In Register In' 
+2021-15-03 18:21:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 18:21:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 18:21:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 18:21:52   INFO [pages.LoginPage] : TyNyFvLdD20KyuoovOsPrnQhbBPg85QZ2JE930VWMQUJD7kete was input in to element 'Input Pass Word In Register In' 
+2021-15-03 18:21:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 18:21:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 18:21:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 18:21:52   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-15-03 18:21:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 18:21:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 18:21:57   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-15-03 18:21:57   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-15-03 18:21:57   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-15-03 18:22:03   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-15-03 18:22:03   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-15-03 18:22:03   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-15-03 18:22:03   INFO [pages.LoginPage] : Password is not visible
+2021-15-03 18:22:03   INFO [pages.LoginPage] : Password is not copy.
+2021-15-03 18:22:03  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 18:22:14  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 18:22:14  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 18:22:14  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 18:22:14  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 18:22:16   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-15-03 18:22:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 18:22:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 18:22:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 18:22:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 18:22:18  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 18:22:49   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-15-03 18:22:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 18:22:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 18:22:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 18:22:49   INFO [pages.HomePage] : Text after registration on the top is visible - Hello ggxr6c61gpingtblddezjmrylinupv, your feed is empty.
+2021-15-03 18:22:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 18:22:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 18:22:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 18:22:49   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-15-03 18:22:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 18:22:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 18:22:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 18:22:49   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-15-03 18:22:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 18:22:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 18:22:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 18:22:49   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-15-03 18:22:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 18:22:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 18:22:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-15-03 18:22:49   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-15-03 18:22:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-15-03 18:22:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-15-03 18:22:49   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was ended.--------------
+2021-15-03 18:22:49   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Finished test: regestrationTests.TestCase_2_ValidRegistrationPressEnterKey::validRegistrationByEnter
+2021-15-03 18:22:50   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was closed

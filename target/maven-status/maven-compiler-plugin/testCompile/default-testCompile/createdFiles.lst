@@ -5,6 +5,7 @@ posts\DeletePost.class
 regestrationTests\ValidationRegistration.class
 testDB\TestDB.class
 loginTests\CheckErrorMessageInLoginForm.class
+regestrationTests\TestCase_2_ValidRegistrationPressEnterKey.class
 loginTests\LoginTestWithPageObject.class
 posts\CreateNewPostTest.class
 posts\CheckEditTitleOfPost.class

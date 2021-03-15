@@ -45,11 +45,9 @@ public class EditPostPage extends ParentPage {
 
     public EditPostPage editTitleOfPost(String newPostTitle) {
 
-     //   waitBackToPostPermalink();
-      //  waitChatToBeHide();
         inputTitleText.clear();
         Util.waitABit(2);
-       enterTextInToElement(inputTitleText,newPostTitle);
+        enterTextInToElement(inputTitleText, newPostTitle);
         Util.waitABit(2);
         clickOnElement(updatePostButton);
 
@@ -57,7 +55,7 @@ public class EditPostPage extends ParentPage {
     }
 
     public EditPostPage checkIsPostSuccessfullyUpdated() {
-Assert.assertTrue(messagePostSuccessfullyUpdated + " is not displayed.", isElementDisplayed(messagePostSuccessfullyUpdated));
+        Assert.assertTrue(messagePostSuccessfullyUpdated + " is not displayed.", isElementDisplayed(messagePostSuccessfullyUpdated));
 
 
         return new EditPostPage(webDriver);
