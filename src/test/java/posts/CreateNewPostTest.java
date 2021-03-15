@@ -8,18 +8,11 @@ import libs.Util;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.experimental.categories.Category;
+
 @Epic("Allure examples")
 @Feature("Junit 4 support")
 
 public class CreateNewPostTest extends BaseTest {
-//    @Description("Some detailed test description")
-//    @Story("Base support for bdd annotations")
-//    @Link("https://example.org")
-//    @Link(name = "allure", type = "mylink")
-//    @Issue("123")
-//    @Issue("432")
-//    @Severity(SeverityLevel.CRITICAL)
-
 
 
     final String POST_TITLE = "Yura Title of post." + Util.getDateAndTimeFormated();
@@ -27,10 +20,8 @@ public class CreateNewPostTest extends BaseTest {
     @Category(SmokeTests.class)
 
 
-
     @Test
     public void createNewPost() {
-
 
 
         loginPage.loginWithValidCred()
@@ -58,12 +49,7 @@ public class CreateNewPostTest extends BaseTest {
                 .checkIsButtonSignOutVisible()
                 .clickOnMyProfileButton()
                 .checkIsRedirectOnMyProfilePage().deletePostWhilePresent(POST_TITLE);
-//                .checkIsPostWithTheValidTitleIsVisible()
-//                .clickOnPostWithTheValidTitle()
-//                .checkIsRedirectOnSinglePostPage()
-//                .clickOnDeletePostButton()
-//                .clickOnMyProfileButton()
-//                .checkIsPostWithTheValidTitleIsNotVisible(POST_TITLE);
+
 
     }
 
