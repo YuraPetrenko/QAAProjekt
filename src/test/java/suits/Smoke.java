@@ -1,15 +1,13 @@
 package suits;
 
-import loginTests.LoginTestWithPageObject;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
-import pages.CreatePostPage;
-import regestrationTests.ValidRegistrationByClickSingUpForOurAppButton;
+import regestrationTests.TestCase_1_ValidRegistrationByClick;
 
 @RunWith(Suite.class)
 @Suite.SuiteClasses(
         {
-                ValidRegistrationByClickSingUpForOurAppButton.class
+                TestCase_1_ValidRegistrationByClick.class
 
         }
 )

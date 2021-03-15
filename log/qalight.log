@@ -1088,10 +1088,10 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 20:07:23   INFO [regestrationTests.CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
 2021-14-03 20:07:24   INFO [regestrationTests.CheckErrorMessage] : Finished test: regestrationTests.CheckErrorMessage::checkErrorMessageInRegisterForm
 2021-14-03 20:07:25   INFO [regestrationTests.CheckErrorMessage] : Browser was closed
-2021-14-03 20:43:32   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 20:43:32   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 20:43:35   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 20:43:35   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 20:43:39   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 20:43:39   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 20:43:40  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 20:43:40  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 20:43:51   INFO [pages.LoginPage] : Login page was open.
@@ -1123,13 +1123,13 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 20:43:52   INFO [pages.LoginPage] : Button Sign Up For Our App was clicked.
 2021-14-03 20:43:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 20:43:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
-2021-14-03 20:43:52   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-14-03 20:43:52   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 20:43:53   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 20:47:59   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 20:43:52   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 20:43:52   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 20:43:53   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 20:47:59   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 20:48:01   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 20:48:01   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 20:48:05   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 20:48:05   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 20:48:06  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 20:48:06  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 20:48:06  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -1170,13 +1170,13 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 20:48:09   INFO [pages.LoginPage] : Button Sign Up For Our App was clicked.
 2021-14-03 20:48:09  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 20:48:09  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
-2021-14-03 20:48:09   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-14-03 20:48:09   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 20:48:10   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 20:48:40   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 20:48:09   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 20:48:09   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 20:48:10   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 20:48:40   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 20:48:42   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 20:48:42   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 20:48:46   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 20:48:46   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 20:48:47  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 20:48:47  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 20:48:47  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -1217,9 +1217,9 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 20:48:49   INFO [pages.LoginPage] : Button Sign Up For Our App was clicked.
 2021-14-03 20:48:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 20:48:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
-2021-14-03 20:48:49   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-14-03 20:48:49   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 20:48:50   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
+2021-14-03 20:48:49   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 20:48:49   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 20:48:50   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
 2021-14-03 20:52:53   INFO [regestrationTests.CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
 2021-14-03 20:58:10   INFO [loginTests.LoginTestWithPageObject] : -------- validLogin was started.------------
 2021-14-03 20:58:12   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
@@ -1240,10 +1240,10 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 20:58:19  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
 2021-14-03 20:58:19  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 20:58:19  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
-2021-14-03 21:00:24   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 21:00:24   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 21:00:25   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 21:00:25   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 21:00:29   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 21:00:29   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 21:00:30  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 21:00:30  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 21:00:30  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -1284,13 +1284,13 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 21:00:38   INFO [pages.LoginPage] : Button Sign Up For Our App was clicked.
 2021-14-03 21:00:38  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 21:00:38  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
-2021-14-03 21:00:38   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-14-03 21:00:38   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 21:00:39   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 21:03:41   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 21:00:38   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 21:00:38   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 21:00:39   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 21:03:41   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 21:03:42   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 21:03:42   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 21:03:45   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 21:03:45   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 21:03:47   INFO [pages.LoginPage] : Login page was open.
 2021-14-03 21:03:47   INFO [pages.LoginPage] : l5g was input in to element 'Input User Name In Register In' 
 2021-14-03 21:03:47   INFO [pages.LoginPage] : 20210314210346@ukr.net was input in to element 'Input Email In Register In' 
@@ -1298,26 +1298,26 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 21:03:48   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
 2021-14-03 21:03:48   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
 2021-14-03 21:03:48   INFO [pages.LoginPage] : Button Sign Up For Our App was clicked.
-2021-14-03 21:03:48   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-14-03 21:03:48   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 21:03:49   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 21:12:25   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 21:03:48   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 21:03:48   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 21:03:49   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 21:12:25   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 21:12:26   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 21:12:26   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 21:12:30   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 21:12:30   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 21:12:33   INFO [pages.LoginPage] : Login page was open.
 2021-14-03 21:12:33   INFO [pages.LoginPage] : Goq was input in to element 'Input User Name In Register In' 
 2021-14-03 21:12:33   INFO [pages.LoginPage] : 20210314211231@ukr.net was input in to element 'Input Email In Register In' 
 2021-14-03 21:12:34   INFO [pages.LoginPage] : BqNZ49b1T1oE was input in to element 'Input Pass Word In Register In' 
 2021-14-03 21:12:34   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
 2021-14-03 21:12:34   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
-2021-14-03 21:12:34   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-14-03 21:12:34   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 21:12:35   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 22:22:55   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 21:12:34   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 21:12:34   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 21:12:35   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 22:22:55   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 22:22:57   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 22:22:57   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 22:23:02   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 22:23:02   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 22:23:03  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 22:23:03  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 22:23:03  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -1365,14 +1365,14 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 22:23:09  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 22:23:09  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
 2021-14-03 22:23:09   INFO [pages.LoginPage] :  'Registration Form' Element displayed:true
-2021-14-03 22:23:09   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 22:23:09   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
 2021-14-03 22:23:09  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
-2021-14-03 22:23:09   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 22:23:11   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 22:24:10   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 22:23:09   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 22:23:11   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 22:24:10   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 22:24:12   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 22:24:12   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 22:24:16   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 22:24:16   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 22:24:17  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 22:24:17  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 22:24:17  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -1420,14 +1420,14 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 22:24:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 22:24:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
 2021-14-03 22:24:23   INFO [pages.LoginPage] :  'Registration Form' Element displayed:true
-2021-14-03 22:24:33   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 22:24:33   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
 2021-14-03 22:24:34  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
-2021-14-03 22:24:34   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 22:24:35   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 22:24:47   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 22:24:34   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 22:24:35   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 22:24:47   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 22:24:49   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 22:24:49   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 22:24:53   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 22:24:53   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 22:24:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 22:24:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 22:24:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -1475,14 +1475,14 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 22:25:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 22:25:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
 2021-14-03 22:25:33   INFO [pages.LoginPage] :  'Registration Form' Element displayed:false
-2021-14-03 22:25:33   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 22:25:33   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
 2021-14-03 22:25:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
-2021-14-03 22:25:33   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 22:25:34   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 22:33:25   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 22:25:33   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 22:25:34   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 22:33:25   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 22:33:27   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 22:33:27   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 22:33:32   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 22:33:32   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 22:33:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 22:33:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 22:33:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -1526,14 +1526,14 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 22:34:09   INFO [pages.LoginPage] :  'Registration Form' Element displayed:false
 2021-14-03 22:34:09  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 22:34:09  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
-2021-14-03 22:34:09   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 22:34:09   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
 2021-14-03 22:34:10  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
-2021-14-03 22:34:10   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 22:34:11   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 22:45:24   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 22:34:10   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 22:34:11   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 22:45:24   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 22:45:26   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 22:45:26   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 22:45:30   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 22:45:30   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 22:45:31  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 22:45:31  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 22:45:31  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -1580,14 +1580,14 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 22:46:23   INFO [pages.LoginPage] :  'Registration Form' Element displayed:false
 2021-14-03 22:46:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 22:46:23  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
-2021-14-03 22:46:23   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 22:46:23   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
 2021-14-03 22:46:24  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
-2021-14-03 22:46:24   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 22:46:24   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 22:47:19   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 22:46:24   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 22:46:24   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 22:47:19   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 22:47:21   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 22:47:21   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 22:47:25   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 22:47:25   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 22:47:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 22:47:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 22:47:26  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -1634,13 +1634,13 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 22:47:49   INFO [pages.LoginPage] :  'Registration Form' Element displayed:false
 2021-14-03 22:47:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 22:47:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
-2021-14-03 22:47:49   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-14-03 22:47:49   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 22:47:50   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 22:49:11   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 22:47:49   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 22:47:49   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 22:47:50   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 22:49:11   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 22:49:13   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 22:49:13   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 22:49:17   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 22:49:17   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 22:49:18  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 22:49:18  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 22:49:18  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -1690,14 +1690,14 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 22:49:42  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 22:49:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 22:49:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
-2021-14-03 22:49:52   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 22:49:52   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
 2021-14-03 22:49:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
-2021-14-03 22:49:52   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 22:49:53   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 22:52:45   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 22:49:52   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 22:49:53   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 22:52:45   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 22:52:47   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 22:52:47   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 22:52:51   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 22:52:51   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 22:52:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 22:52:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 22:52:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -1744,14 +1744,14 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 22:53:38   INFO [pages.LoginPage] :  'Registration Form' Element displayed:false
 2021-14-03 22:53:38  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 22:53:38  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
-2021-14-03 22:53:38   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 22:53:38   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
 2021-14-03 22:53:39  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
-2021-14-03 22:53:39   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 22:53:40   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 22:54:14   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 22:53:39   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 22:53:40   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 22:54:14   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 22:54:15   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 22:54:15   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 22:54:19   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 22:54:19   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 22:54:20   INFO [pages.LoginPage] : Login page was open.
 2021-14-03 22:54:20   INFO [pages.LoginPage] : pR6 was input in to element 'Input User Name In Register In' 
 2021-14-03 22:54:21   INFO [pages.LoginPage] : 20210314225419@ukr.net was input in to element 'Input Email In Register In' 
@@ -1759,13 +1759,13 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 22:54:21   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
 2021-14-03 22:54:35   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
 2021-14-03 22:55:06   INFO [pages.LoginPage] :  'Registration Form' Element displayed:false
-2021-14-03 22:55:06   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-14-03 22:55:06   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 22:55:07   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 22:58:03   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 22:55:06   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 22:55:06   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 22:55:07   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 22:58:03   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 22:58:05   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 22:58:05   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 22:58:08   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 22:58:08   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 22:58:10   INFO [pages.LoginPage] : Login page was open.
 2021-14-03 22:58:10   INFO [pages.LoginPage] : SEv was input in to element 'Input User Name In Register In' 
 2021-14-03 22:58:10   INFO [pages.LoginPage] : 20210314225808@ukr.net was input in to element 'Input Email In Register In' 
@@ -1773,52 +1773,52 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 22:58:11   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
 2021-14-03 22:58:24   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
 2021-14-03 22:58:56   INFO [pages.LoginPage] :  'Registration Form' Element displayed:false
-2021-14-03 22:58:56   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-14-03 22:58:56   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 22:58:57   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 23:02:53   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 22:58:56   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 22:58:56   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 22:58:57   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 23:02:53   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 23:02:54   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 23:02:54   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 23:02:58   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 23:02:58   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 23:02:59   INFO [pages.LoginPage] : Login page was open.
 2021-14-03 23:02:59   INFO [pages.LoginPage] : 16c was input in to element 'Input User Name In Register In' 
 2021-14-03 23:03:00   INFO [pages.LoginPage] : 20210314230258@ukr.net was input in to element 'Input Email In Register In' 
 2021-14-03 23:03:00   INFO [pages.LoginPage] : qyczGadsIQZf was input in to element 'Input Pass Word In Register In' 
 2021-14-03 23:03:00   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
 2021-14-03 23:03:14   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
-2021-14-03 23:03:45   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-14-03 23:03:46   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 23:03:47   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 23:08:35   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 23:03:45   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 23:03:46   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 23:03:47   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 23:08:35   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 23:08:37   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 23:08:37   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 23:08:41   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 23:08:41   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 23:08:42   INFO [pages.LoginPage] : Login page was open.
 2021-14-03 23:08:43   INFO [pages.LoginPage] : i8n was input in to element 'Input User Name In Register In' 
 2021-14-03 23:08:43   INFO [pages.LoginPage] : 20210314230841@ukr.net was input in to element 'Input Email In Register In' 
 2021-14-03 23:08:43   INFO [pages.LoginPage] : ZHGW6N7iVMJZ was input in to element 'Input Pass Word In Register In' 
 2021-14-03 23:08:43   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
 2021-14-03 23:08:57   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
-2021-14-03 23:09:28   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-14-03 23:09:29   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 23:09:30   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 23:13:06   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 23:09:28   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 23:09:29   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 23:09:30   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 23:13:06   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 23:13:07   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 23:13:07   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 23:13:11   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 23:13:11   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 23:13:12   INFO [pages.LoginPage] : Login page was open.
 2021-14-03 23:13:13   INFO [pages.LoginPage] : d2Q was input in to element 'Input User Name In Register In' 
 2021-14-03 23:13:13   INFO [pages.LoginPage] : 20210314231311@ukr.net was input in to element 'Input Email In Register In' 
 2021-14-03 23:13:13   INFO [pages.LoginPage] : ABRyDsJ7tgsz was input in to element 'Input Pass Word In Register In' 
 2021-14-03 23:13:13   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
 2021-14-03 23:13:27   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
-2021-14-03 23:13:58   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-14-03 23:13:59   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 23:14:00   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 23:16:18   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 23:13:58   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 23:13:59   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 23:14:00   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 23:16:18   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 23:16:19   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 23:16:19   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 23:16:23   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 23:16:23   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 23:16:24   INFO [pages.LoginPage] : Login page was open.
 2021-14-03 23:16:24   INFO [pages.LoginPage] : GC6 was input in to element 'Input User Name In Register In' 
 2021-14-03 23:16:25   INFO [pages.LoginPage] : 20210314231623@ukr.net was input in to element 'Input Email In Register In' 
@@ -1826,13 +1826,13 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 23:16:25   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
 2021-14-03 23:16:38   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
 2021-14-03 23:17:10   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
-2021-14-03 23:17:20   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-14-03 23:17:21   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 23:17:21   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 23:18:39   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 23:17:20   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 23:17:21   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 23:17:21   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 23:18:39   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 23:18:41   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 23:18:41   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 23:18:45   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 23:18:45   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 23:18:46  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 23:18:46  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 23:18:46  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -1882,14 +1882,14 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 23:19:34  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 23:19:44  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 23:19:44  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
-2021-14-03 23:19:44   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 23:19:44   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
 2021-14-03 23:19:44  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
-2021-14-03 23:19:44   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 23:19:45   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 23:23:41   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 23:19:44   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 23:19:45   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 23:23:41   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 23:23:42   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 23:23:42   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 23:23:48   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 23:23:48   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 23:23:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 23:23:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 23:23:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -1939,14 +1939,14 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 23:24:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 23:24:46  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 23:24:46  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
-2021-14-03 23:24:46   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 23:24:46   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
 2021-14-03 23:24:46  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
-2021-14-03 23:24:46   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 23:24:47   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 23:33:46   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 23:24:46   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 23:24:47   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 23:33:46   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 23:33:48   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 23:33:48   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 23:33:53   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 23:33:53   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 23:33:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 23:33:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 23:33:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -1989,14 +1989,14 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 23:34:45  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
 2021-14-03 23:34:45  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 23:34:45  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
-2021-14-03 23:34:45   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 23:34:45   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
 2021-14-03 23:34:45  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
-2021-14-03 23:34:45   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 23:34:46   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 23:37:26   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 23:34:45   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 23:34:46   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 23:37:26   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 23:37:28   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 23:37:28   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 23:37:32   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 23:37:32   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 23:37:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 23:37:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 23:37:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -2055,14 +2055,14 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 23:38:51   INFO [pages.HomePage] :  'Chat Button' Element displayed:false
 2021-14-03 23:38:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 23:38:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
-2021-14-03 23:38:51   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 23:38:51   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
 2021-14-03 23:38:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
-2021-14-03 23:38:51   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 23:38:52   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 23:43:21   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 23:38:51   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 23:38:52   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 23:43:21   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 23:43:22   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 23:43:22   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 23:43:27   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 23:43:27   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 23:43:28  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 23:43:28  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 23:43:28  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -2121,14 +2121,14 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 23:44:48   INFO [pages.HomePage] :  'Chat Button' Element displayed:false
 2021-14-03 23:44:48  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 23:44:48  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
-2021-14-03 23:44:48   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 23:44:48   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
 2021-14-03 23:44:48  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
-2021-14-03 23:44:48   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 23:44:50   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-14-03 23:49:08   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 23:44:48   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 23:44:50   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-14-03 23:49:08   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-14-03 23:49:10   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-14-03 23:49:10   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-14-03 23:49:15   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-14-03 23:49:15   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-14-03 23:49:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-14-03 23:49:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 23:49:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -2187,14 +2187,14 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-14-03 23:50:37   INFO [pages.HomePage] :  'Chat Button' Element displayed:false
 2021-14-03 23:50:37  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-14-03 23:50:37  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
-2021-14-03 23:50:37   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-14-03 23:50:37   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
 2021-14-03 23:50:37  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
-2021-14-03 23:50:37   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-14-03 23:50:38   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-15-03 00:01:04   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-14-03 23:50:37   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-14-03 23:50:38   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-15-03 00:01:04   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-15-03 00:01:06   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-15-03 00:01:06   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-15-03 00:01:10   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-15-03 00:01:10   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-15-03 00:01:11  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-15-03 00:01:11  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-15-03 00:01:11  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -2249,14 +2249,14 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-15-03 00:02:31   INFO [pages.HomePage] :  'Search Button' Element displayed:false
 2021-15-03 00:02:31  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-15-03 00:02:31  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
-2021-15-03 00:02:31   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-15-03 00:02:31   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
 2021-15-03 00:02:31  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
-2021-15-03 00:02:31   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-15-03 00:02:32   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-15-03 00:05:23   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-15-03 00:02:31   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-15-03 00:02:32   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-15-03 00:05:23   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-15-03 00:05:24   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-15-03 00:05:24   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-15-03 00:05:28   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-15-03 00:05:28   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-15-03 00:05:29  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-15-03 00:05:29  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-15-03 00:05:29  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -2315,14 +2315,14 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-15-03 00:06:50   INFO [pages.HomePage] :  'Chat Button' Element displayed:false
 2021-15-03 00:06:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-15-03 00:06:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
-2021-15-03 00:06:50   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-15-03 00:06:50   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
 2021-15-03 00:06:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
-2021-15-03 00:06:51   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-15-03 00:06:51   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-15-03 07:50:02   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-15-03 00:06:51   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-15-03 00:06:51   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-15-03 07:50:02   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-15-03 07:50:03   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-15-03 07:50:03   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-15-03 07:50:07   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-15-03 07:50:07   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-15-03 07:50:08   INFO [pages.LoginPage] : Login page was open.
 2021-15-03 07:50:08   INFO [pages.LoginPage] : su8 was input in to element 'Input User Name In Register In' 
 2021-15-03 07:50:08   INFO [pages.LoginPage] : 20210315075007@ukr.net was input in to element 'Input Email In Register In' 
@@ -2333,13 +2333,13 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-15-03 07:50:55   INFO [pages.HomePage] : Text helloNewUser - Hello su8, your feed is empty.
 2021-15-03 07:50:56   INFO [pages.HomePage] :  'Search Button' Element displayed:true
 2021-15-03 07:51:27   INFO [pages.HomePage] :  'Chat Button' Element displayed:false
-2021-15-03 07:51:27   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-15-03 07:51:28   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-15-03 07:51:29   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-15-03 08:41:46   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-15-03 07:51:27   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-15-03 07:51:28   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-15-03 07:51:29   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-15-03 08:41:46   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-15-03 08:41:48   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-15-03 08:41:48   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-15-03 08:41:52   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-15-03 08:41:52   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-15-03 08:41:54   INFO [pages.LoginPage] : Login page was open.
 2021-15-03 08:41:54   INFO [pages.LoginPage] : 211 was input in to element 'Input User Name In Register In' 
 2021-15-03 08:41:55   INFO [pages.LoginPage] : 20210315084153@ukr.net was input in to element 'Input Email In Register In' 
@@ -2351,13 +2351,13 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-15-03 08:42:43   INFO [pages.HomePage] :  'Search Button' Element displayed:true
 2021-15-03 08:42:44   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
 2021-15-03 08:42:45   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
-2021-15-03 08:43:17   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-15-03 08:43:17   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-15-03 08:43:18   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-15-03 08:53:09   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-15-03 08:43:17   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-15-03 08:43:17   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-15-03 08:43:18   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-15-03 08:53:09   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-15-03 08:53:10   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-15-03 08:53:11   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-15-03 08:53:14   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-15-03 08:53:14   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-15-03 08:53:15   INFO [pages.LoginPage] : Login page was open.
 2021-15-03 08:53:16   INFO [pages.LoginPage] : ocf was input in to element 'Input User Name In Register In' 
 2021-15-03 08:53:16   INFO [pages.LoginPage] : 20210315085314@ukr.net was input in to element 'Input Email In Register In' 
@@ -2369,13 +2369,13 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-15-03 08:54:02   INFO [pages.HomePage] :  'Search Button' Element displayed:true
 2021-15-03 08:54:02   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
 2021-15-03 08:54:02   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
-2021-15-03 08:54:33   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-15-03 08:54:33   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-15-03 08:54:34   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-15-03 11:32:17   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-15-03 08:54:33   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-15-03 08:54:33   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-15-03 08:54:34   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-15-03 11:32:17   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-15-03 11:32:18   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-15-03 11:32:18   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-15-03 11:32:22   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-15-03 11:32:22   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-15-03 11:32:24   INFO [pages.LoginPage] : Login page was open.
 2021-15-03 11:32:24   INFO [pages.LoginPage] : 7bj was input in to element 'Input User Name In Register In' 
 2021-15-03 11:32:25   INFO [pages.LoginPage] : 20210315113223@ukr.net was input in to element 'Input Email In Register In' 
@@ -2388,13 +2388,13 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-15-03 11:33:12   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
 2021-15-03 11:33:12   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
 2021-15-03 11:33:42   INFO [pages.HomePage] :  'User Name Button' Element displayed:false
-2021-15-03 11:33:42   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-15-03 11:33:42   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-15-03 11:33:43   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-15-03 12:05:27   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-15-03 11:33:42   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-15-03 11:33:42   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-15-03 11:33:43   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-15-03 12:05:27   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-15-03 12:05:28   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-15-03 12:05:28   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-15-03 12:05:32   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-15-03 12:05:32   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-15-03 12:05:34   INFO [pages.LoginPage] : Login page was open.
 2021-15-03 12:05:34   INFO [pages.LoginPage] : 3xc was input in to element 'Input User Name In Register In' 
 2021-15-03 12:05:34   INFO [pages.LoginPage] : 20210315120532@ukr.net was input in to element 'Input Email In Register In' 
@@ -2407,13 +2407,13 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-15-03 12:06:21   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
 2021-15-03 12:06:21   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
 2021-15-03 12:06:51   INFO [pages.HomePage] :  'User Name Button' Element displayed:false
-2021-15-03 12:06:51   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-15-03 12:06:52   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-15-03 12:06:53   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-15-03 12:23:49   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-15-03 12:06:51   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-15-03 12:06:52   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-15-03 12:06:53   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-15-03 12:23:49   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-15-03 12:23:50   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-15-03 12:23:50   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-15-03 12:23:54   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-15-03 12:23:54   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-15-03 12:23:56   INFO [pages.LoginPage] : Login page was open.
 2021-15-03 12:23:56   INFO [pages.LoginPage] : pmg was input in to element 'Input User Name In Register In' 
 2021-15-03 12:23:56   INFO [pages.LoginPage] : 20210315122354@ukr.net was input in to element 'Input Email In Register In' 
@@ -2426,13 +2426,13 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-15-03 12:24:43   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
 2021-15-03 12:24:43   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
 2021-15-03 12:25:14   INFO [pages.HomePage] :  'User Name Button' Element displayed:false
-2021-15-03 12:25:14   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-15-03 12:25:14   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-15-03 12:25:15   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-15-03 12:42:42   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-15-03 12:25:14   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-15-03 12:25:14   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-15-03 12:25:15   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-15-03 12:42:42   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-15-03 12:42:44   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-15-03 12:42:44   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-15-03 12:42:49   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-15-03 12:42:49   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-15-03 12:42:52   INFO [pages.LoginPage] : Login page was open.
 2021-15-03 12:42:52   INFO [pages.LoginPage] : fp5 was input in to element 'Input User Name In Register In' 
 2021-15-03 12:42:52   INFO [pages.LoginPage] : 20210315124250@ukr.net was input in to element 'Input Email In Register In' 
@@ -2445,13 +2445,13 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-15-03 12:43:39   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
 2021-15-03 12:43:39   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
 2021-15-03 12:44:09   INFO [pages.HomePage] :  'User Name Button' Element displayed:false
-2021-15-03 12:44:09   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-15-03 12:44:10   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-15-03 12:44:11   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-15-03 13:57:13   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-15-03 12:44:09   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-15-03 12:44:10   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-15-03 12:44:11   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-15-03 13:57:13   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-15-03 13:57:15   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-15-03 13:57:15   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-15-03 13:57:19   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-15-03 13:57:19   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-15-03 13:57:20  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-15-03 13:57:20  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-15-03 13:57:20  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -2519,14 +2519,14 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-15-03 13:58:52   INFO [pages.HomePage] :  'User Name Button' Element displayed:false
 2021-15-03 13:58:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-15-03 13:58:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
-2021-15-03 13:58:52   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-15-03 13:58:52   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
 2021-15-03 13:58:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
-2021-15-03 13:58:52   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-15-03 13:58:53   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-15-03 14:29:23   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-15-03 13:58:52   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-15-03 13:58:53   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-15-03 14:29:23   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-15-03 14:29:25   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-15-03 14:29:25   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-15-03 14:29:29   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-15-03 14:29:29   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-15-03 14:29:30  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
 2021-15-03 14:29:30  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-15-03 14:29:30  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
@@ -2594,14 +2594,14 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-15-03 14:30:47   INFO [pages.HomePage] :  'User Name Button' Element displayed:false
 2021-15-03 14:30:47  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
 2021-15-03 14:30:47  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
-2021-15-03 14:30:47   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-15-03 14:30:47   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
 2021-15-03 14:30:48  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
-2021-15-03 14:30:48   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-15-03 14:30:49   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
-2021-15-03 14:47:19   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-15-03 14:30:48   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-15-03 14:30:49   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-15-03 14:47:19   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
 2021-15-03 14:47:20   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
 2021-15-03 14:47:20   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
-2021-15-03 14:47:23   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was open.
+2021-15-03 14:47:23   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
 2021-15-03 14:47:24   INFO [pages.LoginPage] : Login page was open.
 2021-15-03 14:47:25   INFO [pages.LoginPage] : zhx was input in to element 'Input User Name In Register In' 
 2021-15-03 14:47:25   INFO [pages.LoginPage] : 20210315144723@ukr.net was input in to element 'Input Email In Register In' 
@@ -2615,6 +2615,40 @@ Session ID: a927a9c128571db1b79a5e49d12e2136
 2021-15-03 14:48:11   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
 2021-15-03 14:48:11   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
 2021-15-03 14:48:11   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
-2021-15-03 14:48:11   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
-2021-15-03 14:48:11   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Finished test: regestrationTests.ValidRegistrationByClickSingUpForOurAppButton::validRegistrationByClickSingUpForOurAppButton
-2021-15-03 14:48:12   INFO [regestrationTests.ValidRegistrationByClickSingUpForOurAppButton] : Browser was closed
+2021-15-03 14:48:11   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-15-03 14:48:11   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-15-03 14:48:12   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-15-03 15:31:46   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was started.------------
+2021-15-03 15:31:48   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
+2021-15-03 15:31:48   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-15-03 15:31:52   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
+2021-15-03 15:31:53   INFO [pages.LoginPage] : Login page was open.
+2021-15-03 15:31:54   INFO [pages.LoginPage] : hyo was input in to element 'Input User Name In Register In' 
+2021-15-03 15:31:54   INFO [pages.LoginPage] : 20210315153152@ukr.net was input in to element 'Input Email In Register In' 
+2021-15-03 15:31:54   INFO [pages.LoginPage] : aWD76fkAmh0K was input in to element 'Input Pass Word In Register In' 
+2021-15-03 15:31:54   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
+2021-15-03 15:31:54   INFO [pages.LoginPage] : Password is not visible
+2021-15-03 15:31:54   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClickSingUpForOurAppButton was ended.--------------
+2021-15-03 15:31:55   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClickSingUpForOurAppButton
+2021-15-03 15:31:56   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-15-03 15:37:57   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was started.------------
+2021-15-03 15:37:58   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
+2021-15-03 15:37:59   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-15-03 15:38:04   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
+2021-15-03 15:38:05   INFO [pages.LoginPage] : Login page was open.
+2021-15-03 15:38:06   INFO [pages.LoginPage] : ipr was input in to element 'Input User Name In Register In' 
+2021-15-03 15:38:06   INFO [pages.LoginPage] : 20210315153804@ukr.net was input in to element 'Input Email In Register In' 
+2021-15-03 15:38:06   INFO [pages.LoginPage] : T8n0kAhnP7q7 was input in to element 'Input Pass Word In Register In' 
+2021-15-03 15:38:06   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
+2021-15-03 15:38:06   INFO [pages.LoginPage] : Password is not visible
+2021-15-03 15:38:07   INFO [pages.LoginPage] : Password is not copy.
+2021-15-03 15:38:19   INFO [pages.LoginPage] :  'Button Sign Up For Our App' element was clicked.
+2021-15-03 15:38:52   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-15-03 15:38:52   INFO [pages.HomePage] : Text after registration on the top is visible - Hello ipr, your feed is empty.
+2021-15-03 15:38:52   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-15-03 15:38:52   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-15-03 15:38:52   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-15-03 15:38:52   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-15-03 15:38:52   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was ended.--------------
+2021-15-03 15:38:52   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClick
+2021-15-03 15:38:53   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed

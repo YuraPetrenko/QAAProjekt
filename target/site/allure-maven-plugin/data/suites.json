@@ -2,20 +2,20 @@
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
   "name" : "suites",
   "children" : [ {
-    "name" : "regestrationTests.ValidRegistrationByClickSingUpForOurAppButton",
+    "name" : "regestrationTests.TestCase_1_ValidRegistrationByClick",
     "children" : [ {
-      "name" : "validRegistrationByClickSingUpForOurAppButton",
-      "uid" : "3038fdd4b1f0476",
-      "parentUid" : "3d68ba2ca7223112a73abaaed0485f16",
+      "name" : "validRegistrationByClick",
+      "uid" : "e28929badf936d51",
+      "parentUid" : "a9f9682117e4517d65005c796a7b62db",
       "status" : "passed",
       "time" : {
-        "start" : 1615812439019,
-        "stop" : 1615812492158,
-        "duration" : 53139
+        "start" : 1615815477514,
+        "stop" : 1615815533464,
+        "duration" : 55950
       },
       "flaky" : false,
       "parameters" : [ ]
     } ],
-    "uid" : "3d68ba2ca7223112a73abaaed0485f16"
+    "uid" : "a9f9682117e4517d65005c796a7b62db"
   } ]
 }

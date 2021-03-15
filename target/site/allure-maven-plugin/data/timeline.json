@@ -4,21 +4,21 @@
   "children" : [ {
     "name" : "DESKTOP-9BTGU6I",
     "children" : [ {
-      "name" : "9380@DESKTOP-9BTGU6I.pool-2-thread-1(13)",
+      "name" : "10068@DESKTOP-9BTGU6I.pool-2-thread-1(13)",
       "children" : [ {
-        "name" : "validRegistrationByClickSingUpForOurAppButton",
-        "uid" : "3038fdd4b1f0476",
-        "parentUid" : "a09d29811c26169cfcac5a02e45e6e87",
+        "name" : "validRegistrationByClick",
+        "uid" : "e28929badf936d51",
+        "parentUid" : "e12d75f37d6958e3d10d8a503585f4a4",
         "status" : "passed",
         "time" : {
-          "start" : 1615812439019,
-          "stop" : 1615812492158,
-          "duration" : 53139
+          "start" : 1615815477514,
+          "stop" : 1615815533464,
+          "duration" : 55950
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "a09d29811c26169cfcac5a02e45e6e87"
+      "uid" : "e12d75f37d6958e3d10d8a503585f4a4"
     } ],
     "uid" : "33c77dff39d390c6fd8d5b1c0518b755"
   } ]

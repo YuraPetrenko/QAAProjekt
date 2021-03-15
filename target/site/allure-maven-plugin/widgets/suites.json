@@ -1,8 +1,8 @@
 {
   "total" : 1,
   "items" : [ {
-    "uid" : "3d68ba2ca7223112a73abaaed0485f16",
-    "name" : "regestrationTests.ValidRegistrationByClickSingUpForOurAppButton",
+    "uid" : "a9f9682117e4517d65005c796a7b62db",
+    "name" : "regestrationTests.TestCase_1_ValidRegistrationByClick",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,

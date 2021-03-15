@@ -236,5 +236,13 @@ public class LoginPage extends ParentPage {
         logger.info("Password is not visible");
         return this;
     }
+
+    public LoginPage checkIsPasswordCopy(String validPassword) {
+        String copyPassword = inputPassWordInRegisterIn.getText();
+        Assert.assertEquals("Password is copy.",copyPassword, validPassword );
+        logger.info("Password is not copy.");
+
+        return this;
+    }
 }
 

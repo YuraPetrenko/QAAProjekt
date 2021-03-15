@@ -4,14 +4,14 @@
   "children" : [ {
     "name" : "regestrationTests",
     "children" : [ {
-      "name" : "validRegistrationByClickSingUpForOurAppButton",
-      "uid" : "3038fdd4b1f0476",
+      "name" : "validRegistrationByClick",
+      "uid" : "e28929badf936d51",
       "parentUid" : "abc85d7621e347f7becd939d2ffb8043",
       "status" : "passed",
       "time" : {
-        "start" : 1615812439019,
-        "stop" : 1615812492158,
-        "duration" : 53139
+        "start" : 1615815477514,
+        "stop" : 1615815533464,
+        "duration" : 55950
       },
       "flaky" : false,
       "parameters" : [ ]
