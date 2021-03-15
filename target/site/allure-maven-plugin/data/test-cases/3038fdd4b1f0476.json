@@ -1,0 +1,377 @@
+{
+  "uid" : "3038fdd4b1f0476",
+  "name" : "validRegistrationByClickSingUpForOurAppButton",
+  "fullName" : "regestrationTests.ValidRegistrationByClickSingUpForOurAppButton.validRegistrationByClickSingUpForOurAppButton",
+  "historyId" : "4fd1f3e66c28fb6312d9b71da7a25a41",
+  "time" : {
+    "start" : 1615812439019,
+    "stop" : 1615812492158,
+    "duration" : 53139
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "createValidLoginBySize",
+      "time" : {
+        "start" : 1615812443742,
+        "stop" : 1615812443752,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "sizeOfLogin",
+        "value" : "3"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "createValidEmail",
+      "time" : {
+        "start" : 1615812443754,
+        "stop" : 1615812443755,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "createValidPasswordBySize",
+      "time" : {
+        "start" : 1615812443756,
+        "stop" : 1615812443756,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "sizeOfPassword",
+        "value" : "12"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "fillRegisterFormAndSubmit",
+      "time" : {
+        "start" : 1615812443756,
+        "stop" : 1615812446028,
+        "duration" : 2272
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "openLoinPage",
+        "time" : {
+          "start" : 1615812443757,
+          "stop" : 1615812444865,
+          "duration" : 1108
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "enterUserNameRegisterIn",
+        "time" : {
+          "start" : 1615812444865,
+          "stop" : 1615812445392,
+          "duration" : 527
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "userName",
+          "value" : "zhx"
+        } ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "enterEmailRegisterIn",
+        "time" : {
+          "start" : 1615812445392,
+          "stop" : 1615812445644,
+          "duration" : 252
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "email",
+          "value" : "20210315144723@ukr.net"
+        } ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "enterPasswordRegisterIn",
+        "time" : {
+          "start" : 1615812445645,
+          "stop" : 1615812445870,
+          "duration" : 225
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "password",
+          "value" : "JXvjV36mB7wV"
+        } ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "clickOnElement",
+        "time" : {
+          "start" : 1615812445871,
+          "stop" : 1615812446022,
+          "duration" : 151
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "webElement",
+          "value" : "Button Sign Up For Our App"
+        } ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "userName",
+        "value" : "zhx"
+      }, {
+        "name" : "email",
+        "value" : "20210315144723@ukr.net"
+      }, {
+        "name" : "password",
+        "value" : "JXvjV36mB7wV"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 5,
+      "hasContent" : true
+    }, {
+      "name" : "checkErrorOfMessage",
+      "time" : {
+        "start" : 1615812446079,
+        "stop" : 1615812457115,
+        "duration" : 11036
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "countOfMessage",
+        "value" : "0"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "clickSingUpForOurAppButton",
+      "time" : {
+        "start" : 1615812457115,
+        "stop" : 1615812458655,
+        "duration" : 1540
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "clickOnElement",
+        "time" : {
+          "start" : 1615812457115,
+          "stop" : 1615812458650,
+          "duration" : 1535
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "webElement",
+          "value" : "Button Sign Up For Our App"
+        } ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 1,
+      "hasContent" : true
+    }, {
+      "name" : "registrationFormIsNotVisible",
+      "time" : {
+        "start" : 1615812460697,
+        "stop" : 1615812491079,
+        "duration" : 30382
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "messageHelloNewUserIsVisible",
+      "time" : {
+        "start" : 1615812491080,
+        "stop" : 1615812491143,
+        "duration" : 63
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "validLogin",
+        "value" : "zhx"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "checkIsSearchButtonVisible",
+      "time" : {
+        "start" : 1615812491143,
+        "stop" : 1615812491185,
+        "duration" : 42
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "checkIsChatButtonVisible",
+      "time" : {
+        "start" : 1615812491186,
+        "stop" : 1615812491227,
+        "duration" : 41
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "checkIsAvatarButtonVisible",
+      "time" : {
+        "start" : 1615812491227,
+        "stop" : 1615812491261,
+        "duration" : 34
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "checkIsUserNameButtonVisible",
+      "time" : {
+        "start" : 1615812491261,
+        "stop" : 1615812491292,
+        "duration" : 31
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 18,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "regestrationTests"
+  }, {
+    "name" : "testClass",
+    "value" : "regestrationTests.ValidRegistrationByClickSingUpForOurAppButton"
+  }, {
+    "name" : "testMethod",
+    "value" : "validRegistrationByClickSingUpForOurAppButton"
+  }, {
+    "name" : "suite",
+    "value" : "regestrationTests.ValidRegistrationByClickSingUpForOurAppButton"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-9BTGU6I"
+  }, {
+    "name" : "thread",
+    "value" : "9380@DESKTOP-9BTGU6I.pool-2-thread-1(13)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Junit 4 support"
+  }, {
+    "name" : "epic",
+    "value" : "Allure examples"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3038fdd4b1f0476.json",
+  "parameterValues" : [ ]
+}

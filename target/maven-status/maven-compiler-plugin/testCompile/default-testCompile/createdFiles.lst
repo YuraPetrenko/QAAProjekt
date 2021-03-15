@@ -1,0 +1,15 @@
+loginTests\LoginTestWithPageObjectWithExel.class
+baseTest\BaseTest$1.class
+baseTest\BaseTest.class
+posts\DeletePost.class
+regestrationTests\ValidationRegistration.class
+regestrationTests\ValidRegistrationByClickSingUpForOurAppButton.class
+testDB\TestDB.class
+loginTests\CheckErrorMessageInLoginForm.class
+loginTests\LoginTestWithPageObject.class
+posts\CreateNewPostTest.class
+posts\CheckEditTitleOfPost.class
+org\example\AppTest.class
+regestrationTests\CheckErrorMessage.class
+suits\Smoke.class
+suits\SmokeWithCategories.class

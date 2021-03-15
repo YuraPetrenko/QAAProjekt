@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-9BTGU6I",
+    "children" : [ {
+      "name" : "9380@DESKTOP-9BTGU6I.pool-2-thread-1(13)",
+      "children" : [ {
+        "name" : "validRegistrationByClickSingUpForOurAppButton",
+        "uid" : "3038fdd4b1f0476",
+        "parentUid" : "a09d29811c26169cfcac5a02e45e6e87",
+        "status" : "passed",
+        "time" : {
+          "start" : 1615812439019,
+          "stop" : 1615812492158,
+          "duration" : 53139
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a09d29811c26169cfcac5a02e45e6e87"
+    } ],
+    "uid" : "33c77dff39d390c6fd8d5b1c0518b755"
+  } ]
+}
