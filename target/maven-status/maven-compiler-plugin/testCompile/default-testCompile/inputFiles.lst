@@ -2,6 +2,7 @@ D:\ExamProjekt\src\test\java\regestrationTests\TestCase_1_ValidRegistrationByCli
 D:\ExamProjekt\src\test\java\regestrationTests\TestCase_2_ValidRegistrationPressEnterKey.java
 D:\ExamProjekt\src\test\java\baseTest\BaseTest.java
 D:\ExamProjekt\src\test\java\loginTests\LoginTestWithPageObjectWithExel.java
+D:\ExamProjekt\src\test\java\regestrationTests\TestCase_3_CheckErrorMessage.java
 D:\ExamProjekt\src\test\java\posts\CreateNewPostTest.java
 D:\ExamProjekt\src\test\java\loginTests\LoginTestWithPageObject.java
 D:\ExamProjekt\src\test\java\suits\Smoke.java
@@ -12,4 +13,3 @@ D:\ExamProjekt\src\test\java\loginTests\CheckErrorMessageInLoginForm.java
 D:\ExamProjekt\src\test\java\posts\CheckEditTitleOfPost.java
 D:\ExamProjekt\src\test\java\org\example\AppTest.java
 D:\ExamProjekt\src\test\java\testDB\TestDB.java
-D:\ExamProjekt\src\test\java\regestrationTests\CheckErrorMessage.java

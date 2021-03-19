@@ -11,6 +11,6 @@ posts\CreateNewPostTest.class
 posts\CheckEditTitleOfPost.class
 regestrationTests\TestCase_1_ValidRegistrationByClick.class
 org\example\AppTest.class
-regestrationTests\CheckErrorMessage.class
+regestrationTests\TestCase_3_CheckErrorMessage.class
 suits\Smoke.class
 suits\SmokeWithCategories.class

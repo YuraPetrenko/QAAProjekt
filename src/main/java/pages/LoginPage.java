@@ -186,6 +186,8 @@ public class LoginPage extends ParentPage {
 
     @Step
     public String createValidLoginBySize(int sizeOfLogin) {
+
+
         return RandomString.make(sizeOfLogin).toLowerCase();
     }
 

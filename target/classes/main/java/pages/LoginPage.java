@@ -186,6 +186,8 @@ public class LoginPage extends ParentPage {
 
     @Step
     public String createValidLoginBySize(int sizeOfLogin) {
+
+
         return RandomString.make(sizeOfLogin).toLowerCase();
     }
 
@@ -255,7 +257,7 @@ public class LoginPage extends ParentPage {
 
     public LoginPage checkIsTextIsVisibleAfterMinimizeWindow(int sizeOfWindow, String login, String email, String password) {
         Util.waitABit(2);
-        webDriver.manage().window().setPosition(new Point(0, sizeOfWindow));
+        webDriver.manage().window().setPosition(new Point(-2000, sizeOfWindow));
         Util.waitABit(2);
         webDriver.manage().window().fullscreen();
         Util.waitABit(1);
