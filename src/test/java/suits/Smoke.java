@@ -9,9 +9,11 @@ import regestrationTests.TestCase_3_CheckErrorMessage;
 @RunWith(Suite.class)
 @Suite.SuiteClasses(
         {
-               TestCase_1_ValidRegistrationByClick.class,
-              //  TestCase_2_ValidRegistrationPressEnterKey.class,
-             //   TestCase_3_CheckErrorMessage.class
+
+
+                TestCase_3_CheckErrorMessage.class,
+                TestCase_2_ValidRegistrationPressEnterKey.class,
+                TestCase_1_ValidRegistrationByClick.class
         }
 )
 public class Smoke {

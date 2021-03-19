@@ -16,13 +16,13 @@ public class TestCase_1_ValidRegistrationByClick extends BaseTest {
 
     public void validRegistrationByClick() {
         String validLogin = loginPage.createValidLoginBySize(3);
-        String validEmail = loginPage.createValidEmail();
+        String validEmail = loginPage.createValidEmail(8);
         String validPassword = loginPage.createValidPasswordBySize(12);
 
-        loginPage.fillRegisterFormAndSubmitByClick(validLogin, validEmail, validPassword)
+        loginPage.fillRegisterFormByClick(validLogin, validEmail, validPassword)
+                .checkErrorOfMessage(0)
                 .checkIsPasswordIsNotVisible(validPassword)
                 .checkIsPasswordCopy(validPassword)
-                .checkErrorOfMessage(0)
                 .clickSingUpForOurAppButton()
                 .checkIsRedirectOnHomePage()
                 .registrationFormIsNotVisible()

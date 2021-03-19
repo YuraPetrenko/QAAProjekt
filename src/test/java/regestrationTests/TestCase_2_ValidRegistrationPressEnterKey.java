@@ -16,15 +16,13 @@ public class TestCase_2_ValidRegistrationPressEnterKey extends BaseTest {
 
     public void validRegistrationByEnter() {
         String validLogin = loginPage.createValidLoginBySize(30);
-        String validEmail = loginPage.createValidEmail();
+        String validEmail = loginPage.createValidEmail(8);
         String validPassword = loginPage.createValidPasswordBySize(50);
 
         loginPage.fillRegisterFormAndSubmitByEnter(validLogin, validEmail, validPassword)
-                .checkIsTextIsVisibleAfterMinimizeWindow(0,validLogin, validEmail, validPassword)
-                .checkIsTextIsVisibleAfterMinimizeWindow(300,validLogin, validEmail, validPassword)
-                .checkIsPasswordIsNotVisible(validPassword)
-                .checkIsPasswordCopy(validPassword)
                 .checkErrorOfMessage(0)
+                .checkIsTextIsVisibleAfterMinimizeWindow(0, validLogin, validEmail, validPassword)
+                .checkIsTextIsVisibleAfterMinimizeWindow(300, validLogin, validEmail, validPassword)
                 .clickSingUpForOurAppButton()
                 .checkIsRedirectOnHomePage()
                 .registrationFormIsNotVisible()

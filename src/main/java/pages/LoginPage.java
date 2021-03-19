@@ -124,14 +124,21 @@ public class LoginPage extends ParentPage {
     }
 
     @Step
-    public LoginPage fillRegisterFormAndSubmitByClick(String userName, String email, String password) {
+    public LoginPage fillRegisterFormByClick(String userName, String email, String password) {
         openLoinPage();
         enterUserNameRegisterIn(userName);
         enterEmailRegisterIn(email);
         enterPasswordRegisterIn(password);
-        clickOnElement(signUpForOurAppButton);
-        return new LoginPage(webDriver);
+
+        return this;
     }
+
+    @Step
+    public LoginPage clickOnSignUpForOurAppButton() {
+        clickOnElement(signUpForOurAppButton);
+        return this;
+    }
+
 
     @Step
     public void checkPopUpMessage() {
@@ -159,8 +166,8 @@ public class LoginPage extends ParentPage {
     }
 
     @Step
-    public void checkTextOfErrorsInRegisterIn(String textOfErrorMessages) {
-
+    public LoginPage checkTextOfErrorsInRegisterIn(String textOfErrorMessages) {
+        Util.waitABit(1);
         if (textOfErrorMessages.isEmpty()) {
             logger.info("textOfErrorMessages ia empty.");
         } else {
@@ -170,7 +177,7 @@ public class LoginPage extends ParentPage {
                 Assert.assertTrue("--------- " + words[i] + " message is not correct in PopUp. ", listOfTextsOfWebElementByXpath(popUpRegisterError).contains(words[i]));
             }
         }
-
+        return this;
     }
 
     @Step
@@ -186,19 +193,24 @@ public class LoginPage extends ParentPage {
 
     @Step
     public String createValidLoginBySize(int sizeOfLogin) {
-
-
-        return RandomString.make(sizeOfLogin).toLowerCase();
+        String validLogin = RandomString.make(sizeOfLogin).toLowerCase();
+        logger.info("Create random login - " + validLogin);
+        return validLogin;
     }
 
     @Step
-    public String createValidEmail() {
-        return Util.getDateAndTimeFormated() + "@ukr.net";
+    public String createValidEmail(int sizeOfEmail) {
+        String validEmail = RandomString.make(sizeOfEmail).toLowerCase() + "@ukr.net";
+        logger.info("Create random email - " + validEmail);
+
+        return validEmail;
     }
 
     @Step
     public String createValidPasswordBySize(int sizeOfPassword) {
-        return RandomString.make(sizeOfPassword);
+        String validPassword = RandomString.make(sizeOfPassword).toLowerCase();
+        logger.info("Create random password - " + validPassword);
+        return validPassword;
     }
 
 
@@ -256,11 +268,11 @@ public class LoginPage extends ParentPage {
     }
 
     public LoginPage checkIsTextIsVisibleAfterMinimizeWindow(int sizeOfWindow, String login, String email, String password) {
-        Util.waitABit(2);
+
         webDriver.manage().window().setPosition(new Point(-2000, sizeOfWindow));
-        Util.waitABit(2);
+
         webDriver.manage().window().fullscreen();
-        Util.waitABit(1);
+
         checkIsTextEqualsInElement(inputUserNameInRegisterIn, login);
         checkIsTextEqualsInElement(inputEmailInRegisterIn, email);
         checkIsTextEqualsInElement(inputPassWordInRegisterIn, password);
