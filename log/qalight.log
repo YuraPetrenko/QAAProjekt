@@ -1013,3 +1013,754 @@
 2021-19-03 09:52:39   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was ended.--------------
 2021-19-03 09:52:39   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClick
 2021-19-03 09:52:40   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-19-03 11:38:36   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-19-03 11:38:36   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 11:38:36   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was started.------------
+2021-19-03 11:38:38   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 11:38:38   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 11:38:38   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 11:38:38   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 11:38:38   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 11:38:38   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 11:38:44   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 11:38:44   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
+2021-19-03 11:38:46   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-19-03 11:38:55   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 11:38:56   INFO [pages.LoginPage] : e354rdxfgw1miuuyneutlm0t0vwwtq was input in to element 'Input User Name In Register In' 
+2021-19-03 11:38:57   INFO [pages.LoginPage] : 20210319113846@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 11:38:58   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 11:38:58   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 11:38:59   INFO [pages.LoginPage] : qw was input in to element 'Input User Name In Register In' 
+2021-19-03 11:38:59   INFO [pages.LoginPage] : mdo was input in to element 'Input User Name In Register In' 
+2021-19-03 11:38:59   INFO [pages.LoginPage] : PPidefMNjUpsgAwfQeLILhb40jOOcO8eOGe2IIeZGxBCEHJ31k was input in to element 'Input Pass Word In Register In' 
+2021-19-03 11:38:59   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-19-03 11:38:59   INFO [pages.LoginPage] : bald2004@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 11:39:00   INFO [pages.LoginPage] : 20210319113844@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 11:39:00   INFO [pages.LoginPage] : qwertyuiopq was input in to element 'Input Pass Word In Register In' 
+2021-19-03 11:39:00   INFO [pages.LoginPage] : gOyumBtG9S4V was input in to element 'Input Pass Word In Register In' 
+2021-19-03 11:39:00   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 11:39:00   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 11:39:01   INFO [pages.LoginPage] : Password is not visible
+2021-19-03 11:39:01   INFO [pages.LoginPage] : Password is not copy.
+2021-19-03 11:39:05   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-19-03 11:39:05   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-19-03 11:39:05   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-19-03 11:39:05   INFO [pages.LoginPage] : 3
+2021-19-03 11:39:06   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 11:39:06   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 11:39:07   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 11:39:07   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 11:39:07   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 11:39:07   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 11:39:10   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 11:39:11   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-19-03 11:39:11   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 11:39:11   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-19-03 11:39:12   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-19-03 11:39:12   INFO [pages.LoginPage] : Password is not visible
+2021-19-03 11:39:12   INFO [pages.LoginPage] : Password is not copy.
+2021-19-03 11:39:12   INFO [pages.LoginPage] : qwertyuiopqwertyuiopqwertyuiopq was input in to element 'Input User Name In Register In' 
+2021-19-03 11:39:13   INFO [pages.LoginPage] : bald2004ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 11:39:14   INFO [pages.LoginPage] : 123456789012345678901234567890123456789012345678901 was input in to element 'Input Pass Word In Register In' 
+2021-19-03 11:39:14   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 11:39:14   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 11:39:19   INFO [pages.LoginPage] : 3
+2021-19-03 11:39:19   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 11:39:19   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 11:39:20   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 11:39:20   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 11:39:20   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 11:39:20   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 11:39:22   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 11:39:24   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 11:39:24   INFO [pages.LoginPage] :  was input in to element 'Input User Name In Register In' 
+2021-19-03 11:39:25   INFO [pages.LoginPage] :  was input in to element 'Input Email In Register In' 
+2021-19-03 11:39:25   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 11:39:25   INFO [pages.LoginPage] :  was input in to element 'Input Pass Word In Register In' 
+2021-19-03 11:39:25   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 11:39:30   INFO [pages.LoginPage] : 3
+2021-19-03 11:39:31   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 11:39:31   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 11:39:32   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 11:39:46   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-19-03 11:39:46   INFO [pages.HomePage] : Text after registration on the top is visible - Hello mdo, your feed is empty.
+2021-19-03 11:39:46   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-19-03 11:39:46   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-19-03 11:39:46   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-19-03 11:39:47   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-19-03 11:39:47   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was ended.--------------
+2021-19-03 11:39:47   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClick
+2021-19-03 11:39:47   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-19-03 11:39:58   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-19-03 11:39:58   INFO [pages.HomePage] : Text after registration on the top is visible - Hello e354rdxfgw1miuuyneutlm0t0vwwtq, your feed is empty.
+2021-19-03 11:39:58   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-19-03 11:39:58   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-19-03 11:39:58   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-19-03 11:39:58   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-19-03 11:39:58   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was ended.--------------
+2021-19-03 11:39:58   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Finished test: regestrationTests.TestCase_2_ValidRegistrationPressEnterKey::validRegistrationByEnter
+2021-19-03 11:39:58   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was closed
+2021-19-03 12:23:14   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-19-03 12:23:14   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was started.------------
+2021-19-03 12:23:14   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 12:23:16   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:23:16   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:23:16   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:23:16   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:23:16   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:23:16   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:23:22   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 12:23:24   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-19-03 12:23:24   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
+2021-19-03 12:23:32   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:23:33   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:23:33   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:23:33   INFO [pages.LoginPage] : s7t was input in to element 'Input User Name In Register In' 
+2021-19-03 12:23:33   INFO [pages.LoginPage] : qw was input in to element 'Input User Name In Register In' 
+2021-19-03 12:23:34   INFO [pages.LoginPage] : bd5xmisytacmtybvmzmtyr71wvrslo was input in to element 'Input User Name In Register In' 
+2021-19-03 12:23:34   INFO [pages.LoginPage] : 20210319122324@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 12:23:34   INFO [pages.LoginPage] : bald2004@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 12:23:34   INFO [pages.LoginPage] : 20210319122324@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 12:23:34   INFO [pages.LoginPage] : qihpqh7NFIgD was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:23:34   INFO [pages.LoginPage] : qwertyuiopq was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:23:35   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:23:35   INFO [pages.LoginPage] : Password is not visible
+2021-19-03 12:23:35   INFO [pages.LoginPage] : Password is not copy.
+2021-19-03 12:23:35   INFO [pages.LoginPage] : s5S9oh6TP3O1NOARExFqBvLvKf4Pyro1YB3YZLnm3j8afTL2KJ was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:23:35   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:23:35   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-19-03 12:23:40   INFO [pages.LoginPage] : 3
+2021-19-03 12:23:40   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 12:23:40   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 12:23:41   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-19-03 12:23:41   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-19-03 12:23:41   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-19-03 12:23:41   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 12:23:41   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 12:23:41   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:23:41   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:23:44   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 12:23:45   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:23:46   INFO [pages.LoginPage] : qwertyuiopqwertyuiopqwertyuiopq was input in to element 'Input User Name In Register In' 
+2021-19-03 12:23:46   INFO [pages.LoginPage] : bald2004ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 12:23:47   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-19-03 12:23:47   INFO [pages.LoginPage] : 123456789012345678901234567890123456789012345678901 was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:23:47   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-19-03 12:23:48   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-19-03 12:23:48   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:23:48   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:23:48   INFO [pages.LoginPage] : Password is not visible
+2021-19-03 12:23:48   INFO [pages.LoginPage] : Password is not copy.
+2021-19-03 12:23:53   INFO [pages.LoginPage] : 3
+2021-19-03 12:23:53   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 12:23:53   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 12:23:54   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 12:23:54   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 12:23:54   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:23:54   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:23:56   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 12:23:57   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:23:58   INFO [pages.LoginPage] :  was input in to element 'Input User Name In Register In' 
+2021-19-03 12:23:58   INFO [pages.LoginPage] :  was input in to element 'Input Email In Register In' 
+2021-19-03 12:23:58   INFO [pages.LoginPage] :  was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:23:58   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:24:00   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:24:02   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:true
+2021-19-03 12:24:02   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was ended.--------------
+2021-19-03 12:24:03   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Finished test: regestrationTests.TestCase_2_ValidRegistrationPressEnterKey::validRegistrationByEnter
+2021-19-03 12:24:03   INFO [pages.LoginPage] : 3
+2021-19-03 12:24:03   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 12:24:03   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 12:24:04   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was closed
+2021-19-03 12:24:04   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 12:24:20   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-19-03 12:24:20   INFO [pages.HomePage] : Text after registration on the top is visible - Hello s7t, your feed is empty.
+2021-19-03 12:24:20   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-19-03 12:24:21   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-19-03 12:24:21   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-19-03 12:24:21   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-19-03 12:24:21   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was ended.--------------
+2021-19-03 12:24:21   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClick
+2021-19-03 12:24:22   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-19-03 12:25:45   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was started.------------
+2021-19-03 12:25:45   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 12:25:45   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-19-03 12:25:47   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:25:47   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:25:47   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:25:47   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:25:47   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:25:47   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:25:53   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-19-03 12:25:53   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
+2021-19-03 12:25:55   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:25:55   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:25:56   INFO [pages.LoginPage] : 4zibpugzfh1mx0zfmddjjwfq2xdokw was input in to element 'Input User Name In Register In' 
+2021-19-03 12:25:56   INFO [pages.LoginPage] : 5pb was input in to element 'Input User Name In Register In' 
+2021-19-03 12:25:56   INFO [pages.LoginPage] : 20210319122554@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 12:25:56   INFO [pages.LoginPage] : 20210319122554@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 12:25:57   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 12:25:57   INFO [pages.LoginPage] : n2OmhksYhb3y was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:25:58   INFO [pages.LoginPage] : F6nbUTeWAfhPdBKMUZCEFJaurno75Vo4loSR8xS4NiMOY5ifgu was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:25:58   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-19-03 12:25:59   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:26:00   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:26:00   INFO [pages.LoginPage] : qw was input in to element 'Input User Name In Register In' 
+2021-19-03 12:26:00   INFO [pages.LoginPage] : bald2004@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 12:26:01   INFO [pages.LoginPage] : qwertyuiopq was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:26:01   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:26:03   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-19-03 12:26:03   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-19-03 12:26:04   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-19-03 12:26:06   INFO [pages.LoginPage] : 3
+2021-19-03 12:26:06   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 12:26:06   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 12:26:07   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 12:26:07   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 12:26:08   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:26:08   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:26:10   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-19-03 12:26:10   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-19-03 12:26:10   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 12:26:11   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-19-03 12:26:11   INFO [pages.LoginPage] : Password is not visible
+2021-19-03 12:26:11   INFO [pages.LoginPage] : Password is not copy.
+2021-19-03 12:26:12   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:26:12   INFO [pages.LoginPage] : qwertyuiopqwertyuiopqwertyuiopq was input in to element 'Input User Name In Register In' 
+2021-19-03 12:26:13   INFO [pages.LoginPage] : bald2004ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 12:26:14   INFO [pages.LoginPage] : 123456789012345678901234567890123456789012345678901 was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:26:14   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:26:19   INFO [pages.LoginPage] : 3
+2021-19-03 12:26:19   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 12:26:19   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 12:26:20   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 12:26:20   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 12:26:20   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:26:20   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:26:22   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 12:26:24   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:26:24   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:26:24   INFO [pages.LoginPage] :  was input in to element 'Input User Name In Register In' 
+2021-19-03 12:26:25   INFO [pages.LoginPage] :  was input in to element 'Input Email In Register In' 
+2021-19-03 12:26:25   INFO [pages.LoginPage] :  was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:26:25   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:26:26   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:true
+2021-19-03 12:26:26   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was ended.--------------
+2021-19-03 12:26:26   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Finished test: regestrationTests.TestCase_2_ValidRegistrationPressEnterKey::validRegistrationByEnter
+2021-19-03 12:26:27   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was closed
+2021-19-03 12:26:30   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was ended.--------------
+2021-19-03 12:26:30   INFO [pages.LoginPage] : 3
+2021-19-03 12:26:30   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 12:26:30   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 12:26:31   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClick
+2021-19-03 12:26:32   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-19-03 12:26:32   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 12:27:42   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was started.------------
+2021-19-03 12:27:42   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-19-03 12:27:42   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 12:27:43   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:27:43   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:27:43   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:27:43   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:27:43   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:27:43   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:27:49   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
+2021-19-03 12:27:50   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-19-03 12:27:50   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 12:27:52   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:27:52   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:27:53   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:27:53   INFO [pages.LoginPage] : oml was input in to element 'Input User Name In Register In' 
+2021-19-03 12:27:53   INFO [pages.LoginPage] : gnfmdtgnyutzrhz6u0fe7qiiabeldj was input in to element 'Input User Name In Register In' 
+2021-19-03 12:27:53   INFO [pages.LoginPage] : qw was input in to element 'Input User Name In Register In' 
+2021-19-03 12:27:53   INFO [pages.LoginPage] : 20210319122750@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 12:27:54   INFO [pages.LoginPage] : 20210319122750@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 12:27:54   INFO [pages.LoginPage] : bald2004@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 12:27:54   INFO [pages.LoginPage] : bdZcQzn2wrGG was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:27:54   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:27:54   INFO [pages.LoginPage] : qwertyuiopq was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:27:54   INFO [pages.LoginPage] : Password is not visible
+2021-19-03 12:27:54   INFO [pages.LoginPage] : wCPqOB4HhzQWjksV574QM3O8kEsA20b35f6WNmSz12GgnCn3qQ was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:27:54   INFO [pages.LoginPage] : Password is not copy.
+2021-19-03 12:27:55   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:27:55   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-19-03 12:27:55   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-19-03 12:27:55   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-19-03 12:27:55   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-19-03 12:27:56   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-19-03 12:27:56   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-19-03 12:27:56   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-19-03 12:27:56   INFO [pages.LoginPage] : Password is not visible
+2021-19-03 12:27:56   INFO [pages.LoginPage] : Password is not copy.
+2021-19-03 12:28:00   INFO [pages.LoginPage] : 3
+2021-19-03 12:28:00   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 12:28:00   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 12:28:02   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 12:28:02   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 12:28:02   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:28:02   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:28:06   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 12:28:07   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:28:07   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:28:08   INFO [pages.LoginPage] : qwertyuiopqwertyuiopqwertyuiopq was input in to element 'Input User Name In Register In' 
+2021-19-03 12:28:09   INFO [pages.LoginPage] : bald2004ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 12:28:09   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:28:09   INFO [pages.LoginPage] : 123456789012345678901234567890123456789012345678901 was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:28:09   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:28:11   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:true
+2021-19-03 12:28:11   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was ended.--------------
+2021-19-03 12:28:11   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Finished test: regestrationTests.TestCase_2_ValidRegistrationPressEnterKey::validRegistrationByEnter
+2021-19-03 12:28:13   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was closed
+2021-19-03 12:28:14   INFO [pages.LoginPage] : 3
+2021-19-03 12:28:15   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 12:28:15   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 12:28:16   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 12:28:16   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 12:28:16   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:28:16   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:28:18   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 12:28:19   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:28:20   INFO [pages.LoginPage] :  was input in to element 'Input User Name In Register In' 
+2021-19-03 12:28:20   INFO [pages.LoginPage] :  was input in to element 'Input Email In Register In' 
+2021-19-03 12:28:20   INFO [pages.LoginPage] :  was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:28:20   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:28:25   INFO [pages.LoginPage] : 3
+2021-19-03 12:28:25   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 12:28:25   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 12:28:27   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 12:28:40   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-19-03 12:28:40   INFO [pages.HomePage] : Text after registration on the top is visible - Hello oml, your feed is empty.
+2021-19-03 12:28:40   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-19-03 12:28:40   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-19-03 12:28:40   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-19-03 12:28:40   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-19-03 12:28:40   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was ended.--------------
+2021-19-03 12:28:40   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClick
+2021-19-03 12:28:41   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-19-03 12:39:38   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was started.------------
+2021-19-03 12:39:38   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-19-03 12:39:38   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 12:39:40   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:39:40   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:39:40   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:39:40   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:39:40   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:39:40   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:39:46   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 12:39:46   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-19-03 12:39:46   INFO [pages.LoginPage] : Create random login - mbuw00wztxqobrtf0b14pfjoblz5ng
+2021-19-03 12:39:46   INFO [pages.LoginPage] : Create random login - xxdzlqze
+2021-19-03 12:39:46   INFO [pages.LoginPage] : Create random login - 3axrmck3w37h2h1ryjwreng4voge0easnmsbwpeh3hnm6h47db
+2021-19-03 12:39:49   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
+2021-19-03 12:39:49   INFO [pages.LoginPage] : Create random login - ksf
+2021-19-03 12:39:49   INFO [pages.LoginPage] : Create random login - wbkdjr82
+2021-19-03 12:39:49   INFO [pages.LoginPage] : Create random login - ltjs8bew7fwj
+2021-19-03 12:39:49   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:39:49   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:39:50   INFO [pages.LoginPage] : qw was input in to element 'Input User Name In Register In' 
+2021-19-03 12:39:51   INFO [pages.LoginPage] : mbuw00wztxqobrtf0b14pfjoblz5ng was input in to element 'Input User Name In Register In' 
+2021-19-03 12:39:51   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:39:51   INFO [pages.LoginPage] : bald2004@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 12:39:51   INFO [pages.LoginPage] : xxdzlqze was input in to element 'Input Email In Register In' 
+2021-19-03 12:39:52   INFO [pages.LoginPage] : ksf was input in to element 'Input User Name In Register In' 
+2021-19-03 12:39:52   INFO [pages.LoginPage] : qwertyuiopq was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:39:53   INFO [pages.LoginPage] : 3axrmck3w37h2h1ryjwreng4voge0easnmsbwpeh3hnm6h47db was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:39:53   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:39:53   INFO [pages.LoginPage] : wbkdjr82 was input in to element 'Input Email In Register In' 
+2021-19-03 12:39:53   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-19-03 12:39:53   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-19-03 12:39:54   INFO [pages.LoginPage] : ltjs8bew7fwj was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:39:54   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-19-03 12:39:54   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-19-03 12:39:54   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:39:54   INFO [pages.LoginPage] : Password is not visible
+2021-19-03 12:39:54   INFO [pages.LoginPage] : Password is not copy.
+2021-19-03 12:39:54   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-19-03 12:39:55   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-19-03 12:39:55   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-19-03 12:39:55   INFO [pages.LoginPage] : Password is not visible
+2021-19-03 12:39:55   INFO [pages.LoginPage] : Password is not copy.
+2021-19-03 12:39:55   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was ended.--------------
+2021-19-03 12:39:56   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClick
+2021-19-03 12:39:56   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was ended.--------------
+2021-19-03 12:39:57   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Finished test: regestrationTests.TestCase_2_ValidRegistrationPressEnterKey::validRegistrationByEnter
+2021-19-03 12:39:58   INFO [pages.LoginPage] : 3
+2021-19-03 12:39:58   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was closed
+2021-19-03 12:39:58   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-19-03 12:39:58   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 12:39:58   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 12:39:59   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 12:39:59   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 12:39:59   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:39:59   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:40:01   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 12:40:03   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:40:03   INFO [pages.LoginPage] : qwertyuiopqwertyuiopqwertyuiopq was input in to element 'Input User Name In Register In' 
+2021-19-03 12:40:04   INFO [pages.LoginPage] : bald2004ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 12:40:04   INFO [pages.LoginPage] : 123456789012345678901234567890123456789012345678901 was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:40:04   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:40:09   INFO [pages.LoginPage] : 3
+2021-19-03 12:40:10   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 12:40:10   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 12:40:10   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 12:40:10   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 12:40:11   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:40:11   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:40:13   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 12:40:15   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:40:15   INFO [pages.LoginPage] :  was input in to element 'Input User Name In Register In' 
+2021-19-03 12:40:15   INFO [pages.LoginPage] :  was input in to element 'Input Email In Register In' 
+2021-19-03 12:40:16   INFO [pages.LoginPage] :  was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:40:16   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:40:21   INFO [pages.LoginPage] : 3
+2021-19-03 12:40:21   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 12:40:21   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 12:40:22   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 12:43:01   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-19-03 12:43:01   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 12:43:01   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was started.------------
+2021-19-03 12:43:03   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:43:03   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:43:03   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:43:03   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:43:03   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:43:03   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:43:09   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-19-03 12:43:09   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
+2021-19-03 12:43:09   INFO [pages.LoginPage] : Create random login - p7v
+2021-19-03 12:43:09   INFO [pages.LoginPage] : Create random email - mj3llzli@ukr.net
+2021-19-03 12:43:09   INFO [pages.LoginPage] : Create random password - txthmespketz
+2021-19-03 12:43:09   INFO [pages.LoginPage] : Create random login - 8uni8o3igv3xnnt3fis5hi6sovh9e3
+2021-19-03 12:43:09   INFO [pages.LoginPage] : Create random email - lhbtvqvp@ukr.net
+2021-19-03 12:43:09   INFO [pages.LoginPage] : Create random password - 1bpnpdfj0hjfatlcpzwkxgtzdxqtyib10rclz46fbwwliymt6k
+2021-19-03 12:43:13   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 12:43:14   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:43:15   INFO [pages.LoginPage] : 8uni8o3igv3xnnt3fis5hi6sovh9e3 was input in to element 'Input User Name In Register In' 
+2021-19-03 12:43:15   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:43:16   INFO [pages.LoginPage] : p7v was input in to element 'Input User Name In Register In' 
+2021-19-03 12:43:16   INFO [pages.LoginPage] : lhbtvqvp@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 12:43:16   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:43:17   INFO [pages.LoginPage] : mj3llzli@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 12:43:17   INFO [pages.LoginPage] : qw was input in to element 'Input User Name In Register In' 
+2021-19-03 12:43:17   INFO [pages.LoginPage] : 1bpnpdfj0hjfatlcpzwkxgtzdxqtyib10rclz46fbwwliymt6k was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:43:17   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-19-03 12:43:17   INFO [pages.LoginPage] : txthmespketz was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:43:18   INFO [pages.LoginPage] : bald2004@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 12:43:18   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-19-03 12:43:18   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-19-03 12:43:18   INFO [pages.LoginPage] : qwertyuiopq was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:43:18   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-19-03 12:43:19   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:43:19   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-19-03 12:43:19   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-19-03 12:43:20   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:43:20   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-19-03 12:43:20   INFO [pages.LoginPage] : Password is not visible
+2021-19-03 12:43:20   INFO [pages.LoginPage] : Password is not copy.
+2021-19-03 12:43:24   INFO [pages.LoginPage] : 3
+2021-19-03 12:43:24   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 12:43:24   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 12:43:26   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 12:43:26   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 12:43:26   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:43:26   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:43:30   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 12:43:40   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:43:40   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:43:40   INFO [pages.LoginPage] : qwertyuiopqwertyuiopqwertyuiopq was input in to element 'Input User Name In Register In' 
+2021-19-03 12:43:41   INFO [pages.LoginPage] : bald2004ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 12:43:41   INFO [pages.LoginPage] : 123456789012345678901234567890123456789012345678901 was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:43:41   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:43:46   INFO [pages.LoginPage] : 3
+2021-19-03 12:43:47   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 12:43:47   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 12:43:48   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 12:43:48   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 12:43:48   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 12:43:48   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 12:43:50   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 12:43:50   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was ended.--------------
+2021-19-03 12:43:50   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClick
+2021-19-03 12:43:52   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-19-03 12:43:52   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 12:43:52   INFO [pages.LoginPage] :  was input in to element 'Input User Name In Register In' 
+2021-19-03 12:43:53   INFO [pages.LoginPage] :  was input in to element 'Input Email In Register In' 
+2021-19-03 12:43:53   INFO [pages.LoginPage] :  was input in to element 'Input Pass Word In Register In' 
+2021-19-03 12:43:53   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 12:43:58   INFO [pages.LoginPage] : 3
+2021-19-03 12:43:58   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 12:43:58   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 12:43:59   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 12:44:12   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-19-03 12:44:12   INFO [pages.HomePage] : Text after registration on the top is visible - Hello 8uni8o3igv3xnnt3fis5hi6sovh9e3, your feed is empty.
+2021-19-03 12:44:12   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-19-03 12:44:12   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-19-03 12:44:13   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-19-03 12:44:13   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-19-03 12:44:13   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was ended.--------------
+2021-19-03 12:44:13   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Finished test: regestrationTests.TestCase_2_ValidRegistrationPressEnterKey::validRegistrationByEnter
+2021-19-03 12:44:13   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was closed
+2021-19-03 13:30:32   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was started.------------
+2021-19-03 13:30:32   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 13:30:32   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-19-03 13:30:33   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 13:30:33   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 13:30:33   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 13:30:33   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 13:30:33   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 13:30:33   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 13:30:41   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-19-03 13:30:41   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 13:30:41   INFO [pages.LoginPage] : Create random login - kduwjqrumlzz3tdcejujlqidbiqwjx
+2021-19-03 13:30:41   INFO [pages.LoginPage] : Create random email - dm9absp7@ukr.net
+2021-19-03 13:30:41   INFO [pages.LoginPage] : Create random password - m6blwf3mx2psxmqmobt11gd2rrhot36xxykuaebiegvhnr2xqd
+2021-19-03 13:30:44   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 13:30:44   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 13:30:45   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
+2021-19-03 13:30:45   INFO [pages.LoginPage] : Create random login - sh7
+2021-19-03 13:30:45   INFO [pages.LoginPage] : Create random email - lhdp1ynt@ukr.net
+2021-19-03 13:30:45   INFO [pages.LoginPage] : Create random password - 2hdc7wsw3ipo
+2021-19-03 13:30:46   INFO [pages.LoginPage] : kduwjqrumlzz3tdcejujlqidbiqwjx was input in to element 'Input User Name In Register In' 
+2021-19-03 13:30:47   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 13:30:47   INFO [pages.LoginPage] : qw was input in to element 'Input User Name In Register In' 
+2021-19-03 13:30:47   INFO [pages.LoginPage] : sh7 was input in to element 'Input User Name In Register In' 
+2021-19-03 13:30:47   INFO [pages.LoginPage] : dm9absp7@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 13:30:47   INFO [pages.LoginPage] : bald2004@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 13:30:48   INFO [pages.LoginPage] : lhdp1ynt@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 13:30:48   INFO [pages.LoginPage] : qwertyuiopq was input in to element 'Input Pass Word In Register In' 
+2021-19-03 13:30:48   INFO [pages.LoginPage] : m6blwf3mx2psxmqmobt11gd2rrhot36xxykuaebiegvhnr2xqd was input in to element 'Input Pass Word In Register In' 
+2021-19-03 13:30:48   INFO [pages.LoginPage] : 2hdc7wsw3ipo was input in to element 'Input Pass Word In Register In' 
+2021-19-03 13:30:49   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-19-03 13:30:53   INFO [pages.LoginPage] : 3
+2021-19-03 13:30:54   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 13:30:54   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 13:30:55   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 13:30:55   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 13:30:55   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 13:30:55   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 13:30:58   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 13:31:00   INFO [pages.LoginPage] : Password is not visible
+2021-19-03 13:31:00   INFO [pages.LoginPage] : Password is not copy.
+2021-19-03 13:31:00   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 13:31:00   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-19-03 13:31:00   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-19-03 13:31:01   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-19-03 13:31:01   INFO [pages.LoginPage] : qwertyuiopqwertyuiopqwertyuiopq was input in to element 'Input User Name In Register In' 
+2021-19-03 13:31:02   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-19-03 13:31:02   INFO [pages.LoginPage] : bald2004ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 13:31:02   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-19-03 13:31:02   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-19-03 13:31:03   INFO [pages.LoginPage] : 123456789012345678901234567890123456789012345678901 was input in to element 'Input Pass Word In Register In' 
+2021-19-03 13:31:03   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 13:31:04   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 13:31:08   INFO [pages.LoginPage] : 3
+2021-19-03 13:31:08   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 13:31:08   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 13:31:09   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 13:31:09   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 13:31:09   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 13:31:09   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 13:31:12   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 13:31:13   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 13:31:14   INFO [pages.LoginPage] :  was input in to element 'Input User Name In Register In' 
+2021-19-03 13:31:14   INFO [pages.LoginPage] :  was input in to element 'Input Email In Register In' 
+2021-19-03 13:31:14   INFO [pages.LoginPage] :  was input in to element 'Input Pass Word In Register In' 
+2021-19-03 13:31:29   INFO [pages.LoginPage] : 0
+2021-19-03 13:31:29   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 13:31:30   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 13:31:31   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 13:31:35   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-19-03 13:31:35   INFO [pages.HomePage] : Text after registration on the top is visible - Hello sh7, your feed is empty.
+2021-19-03 13:31:35   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-19-03 13:31:35   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-19-03 13:31:35   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-19-03 13:31:36   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-19-03 13:31:36   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was ended.--------------
+2021-19-03 13:31:36   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClick
+2021-19-03 13:31:36   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-19-03 13:31:37   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-19-03 13:31:37   INFO [pages.HomePage] : Text after registration on the top is visible - Hello kduwjqrumlzz3tdcejujlqidbiqwjx, your feed is empty.
+2021-19-03 13:31:37   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-19-03 13:31:37   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-19-03 13:31:37   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-19-03 13:31:37   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-19-03 13:31:37   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was ended.--------------
+2021-19-03 13:31:37   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Finished test: regestrationTests.TestCase_2_ValidRegistrationPressEnterKey::validRegistrationByEnter
+2021-19-03 13:31:38   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was closed
+2021-19-03 14:20:41   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was started.------------
+2021-19-03 14:20:41   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-19-03 14:20:41   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 14:20:43   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 14:20:44   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 14:20:44   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 14:20:44   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 14:20:44   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 14:20:44   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 14:20:51   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 14:20:51   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
+2021-19-03 14:20:52   INFO [pages.LoginPage] : Create random login - g2w
+2021-19-03 14:20:52   INFO [pages.LoginPage] : Create random email - huk4et1q@ukr.net
+2021-19-03 14:20:52   INFO [pages.LoginPage] : Create random password - g8fparcdc52r
+2021-19-03 14:20:52   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-19-03 14:20:52   INFO [pages.LoginPage] : Create random login - bw28m9z3d3qbmcv6wgrprvva4viqo1
+2021-19-03 14:20:52   INFO [pages.LoginPage] : Create random email - iocqhqqj@ukr.net
+2021-19-03 14:20:52   INFO [pages.LoginPage] : Create random password - fvjximhpf1bdtuvx38nqd1dcotjgeo8qko9refknd2moxhx6wp
+2021-19-03 14:20:55   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 14:20:55   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 14:20:56   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 14:20:56   INFO [pages.LoginPage] : qw was input in to element 'Input User Name In Register In' 
+2021-19-03 14:20:56   INFO [pages.LoginPage] : g2w was input in to element 'Input User Name In Register In' 
+2021-19-03 14:20:56   INFO [pages.LoginPage] : bw28m9z3d3qbmcv6wgrprvva4viqo1 was input in to element 'Input User Name In Register In' 
+2021-19-03 14:20:56   INFO [pages.LoginPage] : bald2004@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 14:20:57   INFO [pages.LoginPage] : huk4et1q@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 14:20:57   INFO [pages.LoginPage] : qwertyuiopq was input in to element 'Input Pass Word In Register In' 
+2021-19-03 14:20:57   INFO [pages.LoginPage] : iocqhqqj@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 14:20:57   INFO [pages.LoginPage] : g8fparcdc52r was input in to element 'Input Pass Word In Register In' 
+2021-19-03 14:20:58   INFO [pages.LoginPage] : fvjximhpf1bdtuvx38nqd1dcotjgeo8qko9refknd2moxhx6wp was input in to element 'Input Pass Word In Register In' 
+2021-19-03 14:20:58   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-19-03 14:21:02   INFO [pages.LoginPage] : 3
+2021-19-03 14:21:03   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 14:21:03   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 14:21:05   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 14:21:05   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 14:21:05   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 14:21:05   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 14:21:08   INFO [pages.LoginPage] : Password is not visible
+2021-19-03 14:21:08   INFO [pages.LoginPage] : Password is not copy.
+2021-19-03 14:21:09   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 14:21:10   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-19-03 14:21:10   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-19-03 14:21:10   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-19-03 14:21:11   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 14:21:11   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 14:21:11   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-19-03 14:21:11   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-19-03 14:21:12   INFO [pages.LoginPage] : qwertyuiopqwertyuiopqwertyuiopq was input in to element 'Input User Name In Register In' 
+2021-19-03 14:21:12   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-19-03 14:21:12   INFO [pages.LoginPage] : bald2004ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 14:21:13   INFO [pages.LoginPage] : 123456789012345678901234567890123456789012345678901 was input in to element 'Input Pass Word In Register In' 
+2021-19-03 14:21:15   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 14:21:18   INFO [pages.LoginPage] : 3
+2021-19-03 14:21:19   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 14:21:19   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 14:21:20   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 14:21:21   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 14:21:21   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 14:21:21   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 14:21:23   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 14:21:25   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 14:21:25   INFO [pages.LoginPage] :  was input in to element 'Input User Name In Register In' 
+2021-19-03 14:21:26   INFO [pages.LoginPage] :  was input in to element 'Input Email In Register In' 
+2021-19-03 14:21:26   INFO [pages.LoginPage] :  was input in to element 'Input Pass Word In Register In' 
+2021-19-03 14:21:41   INFO [pages.LoginPage] : 0
+2021-19-03 14:21:41   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 14:21:41   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 14:21:42   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 14:21:43   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-19-03 14:21:44   INFO [pages.HomePage] : Text after registration on the top is visible - Hello g2w, your feed is empty.
+2021-19-03 14:21:44   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-19-03 14:21:44   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-19-03 14:21:44   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-19-03 14:21:44   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-19-03 14:21:44   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was ended.--------------
+2021-19-03 14:21:44   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClick
+2021-19-03 14:21:45   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-19-03 14:21:47   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-19-03 14:21:47   INFO [pages.HomePage] : Text after registration on the top is visible - Hello bw28m9z3d3qbmcv6wgrprvva4viqo1, your feed is empty.
+2021-19-03 14:21:47   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-19-03 14:21:47   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-19-03 14:21:47   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-19-03 14:21:47   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-19-03 14:21:47   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was ended.--------------
+2021-19-03 14:21:47   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Finished test: regestrationTests.TestCase_2_ValidRegistrationPressEnterKey::validRegistrationByEnter
+2021-19-03 14:21:48   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was closed
+2021-19-03 14:29:51   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 14:29:51   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was started.------------
+2021-19-03 14:29:51   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was started.------------
+2021-19-03 14:29:53   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 14:29:53   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 14:29:53   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 14:29:53   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 14:29:53   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 14:29:53   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 14:29:59   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was open.
+2021-19-03 14:29:59   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was open.
+2021-19-03 14:29:59   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 14:30:00   INFO [pages.LoginPage] : Create random login - 9enkfmclkmghbeaweqanacgdstroyk
+2021-19-03 14:30:00   INFO [pages.LoginPage] : Create random login - vqh
+2021-19-03 14:30:00   INFO [pages.LoginPage] : Create random email - 7svfua0m@ukr.net
+2021-19-03 14:30:00   INFO [pages.LoginPage] : Create random password - cmb7nqbs5obx7kswsfwodvolgkcwb5b5tnqrozroskqda6p9vb
+2021-19-03 14:30:00   INFO [pages.LoginPage] : Create random email - vaiim35n@ukr.net
+2021-19-03 14:30:00   INFO [pages.LoginPage] : Create random password - xckhkrxsoa5x
+2021-19-03 14:30:03   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 14:30:04   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 14:30:04   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 14:30:04   INFO [pages.LoginPage] : vqh was input in to element 'Input User Name In Register In' 
+2021-19-03 14:30:04   INFO [pages.LoginPage] : qw was input in to element 'Input User Name In Register In' 
+2021-19-03 14:30:05   INFO [pages.LoginPage] : 9enkfmclkmghbeaweqanacgdstroyk was input in to element 'Input User Name In Register In' 
+2021-19-03 14:30:05   INFO [pages.LoginPage] : vaiim35n@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 14:30:05   INFO [pages.LoginPage] : bald2004@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 14:30:05   INFO [pages.LoginPage] : 7svfua0m@ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 14:30:05   INFO [pages.LoginPage] : xckhkrxsoa5x was input in to element 'Input Pass Word In Register In' 
+2021-19-03 14:30:05   INFO [pages.LoginPage] : qwertyuiopq was input in to element 'Input Pass Word In Register In' 
+2021-19-03 14:30:06   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 14:30:06   INFO [pages.LoginPage] : cmb7nqbs5obx7kswsfwodvolgkcwb5b5tnqrozroskqda6p9vb was input in to element 'Input Pass Word In Register In' 
+2021-19-03 14:30:06   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was Entered.
+2021-19-03 14:30:11   INFO [pages.LoginPage] : 3
+2021-19-03 14:30:12   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 14:30:12   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 14:30:14   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 14:30:14   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 14:30:14   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 14:30:14   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 14:30:17   INFO [pages.LoginPage] : Password is not visible
+2021-19-03 14:30:17   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 14:30:17   INFO [pages.LoginPage] : Password is not copy.
+2021-19-03 14:30:18   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-19-03 14:30:18   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-19-03 14:30:18   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-19-03 14:30:19   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-19-03 14:30:19   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-19-03 14:30:20   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-19-03 14:30:21   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 14:30:21   INFO [pages.LoginPage] : qwertyuiopqwertyuiopqwertyuiopq was input in to element 'Input User Name In Register In' 
+2021-19-03 14:30:22   INFO [pages.LoginPage] : bald2004ukr.net was input in to element 'Input Email In Register In' 
+2021-19-03 14:30:22   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 14:30:23   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 14:30:23   INFO [pages.LoginPage] : 123456789012345678901234567890123456789012345678901 was input in to element 'Input Pass Word In Register In' 
+2021-19-03 14:30:23   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 14:30:28   INFO [pages.LoginPage] : 3
+2021-19-03 14:30:30   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 14:30:30   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 14:30:30   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 14:30:30   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-19-03 14:30:30   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-19-03 14:30:31   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-19-03 14:30:33   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-19-03 14:30:35   INFO [pages.LoginPage] : Login page was open.
+2021-19-03 14:30:35   INFO [pages.LoginPage] :  was input in to element 'Input User Name In Register In' 
+2021-19-03 14:30:35   INFO [pages.LoginPage] :  was input in to element 'Input Email In Register In' 
+2021-19-03 14:30:36   INFO [pages.LoginPage] :  was input in to element 'Input Pass Word In Register In' 
+2021-19-03 14:30:36   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-19-03 14:30:41   INFO [pages.LoginPage] : 3
+2021-19-03 14:30:42   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-19-03 14:30:42   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-19-03 14:30:44   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-19-03 14:30:55   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-19-03 14:30:55   INFO [pages.HomePage] : Text after registration on the top is visible - Hello vqh, your feed is empty.
+2021-19-03 14:30:55   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-19-03 14:30:55   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-19-03 14:30:55   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-19-03 14:30:55   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-19-03 14:30:55   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was ended.--------------
+2021-19-03 14:30:55   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClick
+2021-19-03 14:30:55   INFO [pages.HomePage] :  'Registration Form Login Page' Element displayed:false
+2021-19-03 14:30:55   INFO [pages.HomePage] : Text after registration on the top is visible - Hello 9enkfmclkmghbeaweqanacgdstroyk, your feed is empty.
+2021-19-03 14:30:56   INFO [pages.HomePage] :  'Search Button' Element displayed:true
+2021-19-03 14:30:56   INFO [pages.HomePage] :  'Chat Button' Element displayed:true
+2021-19-03 14:30:56   INFO [pages.HomePage] :  'Avatar Button' Element displayed:true
+2021-19-03 14:30:56   INFO [pages.HomePage] :  'User Name Button' Element displayed:true
+2021-19-03 14:30:56   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : -------- validRegistrationByEnter was ended.--------------
+2021-19-03 14:30:56   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Finished test: regestrationTests.TestCase_2_ValidRegistrationPressEnterKey::validRegistrationByEnter
+2021-19-03 14:30:56   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-19-03 14:30:57   INFO [regestrationTests.TestCase_2_ValidRegistrationPressEnterKey] : Browser was closed
