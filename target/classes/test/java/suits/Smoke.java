@@ -1,16 +1,17 @@
 package suits;
 
-import loginTests.LoginTestWithPageObject;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
-import pages.CreatePostPage;
-import regestrationTests.ValidRegistrationByClickSingUpForOurAppButton;
+import regestrationTests.TestCase_1_ValidRegistrationByClick;
+import regestrationTests.TestCase_2_ValidRegistrationPressEnterKey;
+import regestrationTests.TestCase_3_CheckErrorMessage;
 
 @RunWith(Suite.class)
 @Suite.SuiteClasses(
         {
-                ValidRegistrationByClickSingUpForOurAppButton.class
-
+               TestCase_1_ValidRegistrationByClick.class,
+              //  TestCase_2_ValidRegistrationPressEnterKey.class,
+             //   TestCase_3_CheckErrorMessage.class
         }
 )
 public class Smoke {

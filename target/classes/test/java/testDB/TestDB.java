@@ -34,13 +34,10 @@ public class TestDB {
     public void testDataBase() throws SQLException, ClassNotFoundException {
         List<Map<String, String>> dataFromSeleniumTable = mySqlDatabase.selectTableAsMap("select * from seleniumTable where login = 'G1Petrenko'");
         logger.info(dataFromSeleniumTable);
-//        int numbersOfRows = mySqlDatabase.changeTable("INSERT INTO seleniumTable values(3256, 'G1Petrenko', 'Pass')");
-//        logger.info(numbersOfRows);
-//        dataFromSeleniumTable = mySqlDatabase.selectTableAsMap("select * from seleniumTable where login = 'G1Petrenko'");
-//        logger.info(dataFromSeleniumTable);
+
         DB_Util db_util = new DB_Util();
 
-        logger.info( db_util.getPassForLogin("G2taras"));
+        logger.info(db_util.getPassForLogin("G2taras"));
 
     }
 

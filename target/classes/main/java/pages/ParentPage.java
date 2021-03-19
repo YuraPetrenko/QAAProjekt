@@ -89,6 +89,21 @@ public abstract class ParentPage {
         }
     }
 
+
+    @Step
+    protected void pressEnterKey(WebElement webElement) {
+        try {
+            webDriverWait15.until(ExpectedConditions.elementToBeClickable(webElement));
+            webElement.sendKeys("Enter");
+            logger.info(getElementName(webElement) + "element was Entered.");
+
+        } catch (Exception e) {
+            printErrorMessageAndStopTest(e);
+        }
+    }
+
+
+
     protected boolean isElementDisplayed(WebElement webElement) {
         try {
             boolean state = webElement.isDisplayed();
@@ -137,6 +152,17 @@ public abstract class ParentPage {
             listOfTextErrors.add(listOfError.get(i).getText());
         }
         return listOfTextErrors;
+    }
+
+    protected void checkIsTextEqualsInElement(WebElement element, String text){
+        try {
+            checkIsElementVisible(element);
+            Assert.assertEquals("Text "+ text + "is not Equals.", element.getText(), text);
+        }catch (Exception e){
+            logger.info(e);
+        }
+
+
     }
 
 }

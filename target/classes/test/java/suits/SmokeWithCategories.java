@@ -20,8 +20,4 @@ import posts.CreateNewPostTest;
 public class SmokeWithCategories {
 
 
-
-
-
-
 }

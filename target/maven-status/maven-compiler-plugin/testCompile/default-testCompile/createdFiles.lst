@@ -3,13 +3,14 @@ baseTest\BaseTest$1.class
 baseTest\BaseTest.class
 posts\DeletePost.class
 regestrationTests\ValidationRegistration.class
-regestrationTests\ValidRegistrationByClickSingUpForOurAppButton.class
 testDB\TestDB.class
 loginTests\CheckErrorMessageInLoginForm.class
+regestrationTests\TestCase_2_ValidRegistrationPressEnterKey.class
 loginTests\LoginTestWithPageObject.class
 posts\CreateNewPostTest.class
 posts\CheckEditTitleOfPost.class
+regestrationTests\TestCase_1_ValidRegistrationByClick.class
 org\example\AppTest.class
-regestrationTests\CheckErrorMessage.class
+regestrationTests\TestCase_3_CheckErrorMessage.class
 suits\Smoke.class
 suits\SmokeWithCategories.class

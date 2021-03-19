@@ -1,13 +1,13 @@
 package pages;
 
 
-import com.google.common.base.Splitter;
 import io.qameta.allure.Step;
 import libs.TestData;
 import libs.Util;
 import org.assertj.core.internal.bytebuddy.utility.RandomString;
 import org.junit.Assert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Point;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -16,10 +16,7 @@ import ru.yandex.qatools.htmlelements.element.Form;
 import ru.yandex.qatools.htmlelements.element.TextBlock;
 import ru.yandex.qatools.htmlelements.element.TextInput;
 
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.util.Random;
 
 import static org.hamcrest.Matchers.contains;
 
@@ -51,7 +48,7 @@ public class LoginPage extends ParentPage {
     private TextBlock popUpErrorUnValidPassword;
 
     @FindBy(xpath = ".//button[@type = 'submit']")
-    private Button buttonSignUpForOurApp;
+    private Button signUpForOurAppButton;
 
     @FindBy(xpath = ".//form[@action ='/register']")
     private Form registrationForm;
@@ -127,12 +124,12 @@ public class LoginPage extends ParentPage {
     }
 
     @Step
-    public LoginPage fillRegisterFormAndSubmit(String userName, String email, String password) {
+    public LoginPage fillRegisterFormAndSubmitByClick(String userName, String email, String password) {
         openLoinPage();
         enterUserNameRegisterIn(userName);
         enterEmailRegisterIn(email);
         enterPasswordRegisterIn(password);
-        clickOnElement(buttonSignUpForOurApp);
+        clickOnElement(signUpForOurAppButton);
         return new LoginPage(webDriver);
     }
 
@@ -189,6 +186,8 @@ public class LoginPage extends ParentPage {
 
     @Step
     public String createValidLoginBySize(int sizeOfLogin) {
+
+
         return RandomString.make(sizeOfLogin).toLowerCase();
     }
 
@@ -205,11 +204,11 @@ public class LoginPage extends ParentPage {
 
     @Step
     public HomePage clickSingUpForOurAppButton() {
-        clickOnElement(buttonSignUpForOurApp);
+        clickOnElement(signUpForOurAppButton);
         return new HomePage(webDriver);
     }
 
-    public boolean checkRegistrationFormVisible(){
+    public boolean checkRegistrationFormVisible() {
         checkIsElementVisible(registrationForm);
         return true;
     }
@@ -232,8 +231,41 @@ public class LoginPage extends ParentPage {
     }
 
     public LoginPage checkIsPasswordIsNotVisible(String password) {
-        Assert.assertEquals("----- " +password + " - Password is visible.", password, inputPassWordInRegisterIn.getText());
+        Assert.assertEquals("----- " + password + " - Password is visible.", password, inputPassWordInRegisterIn.getText());
         logger.info("Password is not visible");
+        return this;
+    }
+
+    public LoginPage checkIsPasswordCopy(String validPassword) {
+        String copyPassword = inputPassWordInRegisterIn.getText();
+        Assert.assertEquals("Password is copy.", copyPassword, validPassword);
+        logger.info("Password is not copy.");
+
+        return this;
+    }
+
+    public LoginPage fillRegisterFormAndSubmitByEnter(String validLogin, String validEmail, String validPassword) {
+
+        openLoinPage();
+        enterUserNameRegisterIn(validLogin);
+        enterEmailRegisterIn(validEmail);
+        enterPasswordRegisterIn(validPassword);
+        pressEnterKey(signUpForOurAppButton);
+        return new LoginPage(webDriver);
+
+    }
+
+    public LoginPage checkIsTextIsVisibleAfterMinimizeWindow(int sizeOfWindow, String login, String email, String password) {
+        Util.waitABit(2);
+        webDriver.manage().window().setPosition(new Point(-2000, sizeOfWindow));
+        Util.waitABit(2);
+        webDriver.manage().window().fullscreen();
+        Util.waitABit(1);
+        checkIsTextEqualsInElement(inputUserNameInRegisterIn, login);
+        checkIsTextEqualsInElement(inputEmailInRegisterIn, email);
+        checkIsTextEqualsInElement(inputPassWordInRegisterIn, password);
+
+
         return this;
     }
 }
