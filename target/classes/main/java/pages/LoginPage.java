@@ -22,6 +22,14 @@ import static org.hamcrest.Matchers.contains;
 
 public class LoginPage extends ParentPage {
 
+    @FindBy(xpath = ".//label[@for = 'username-register']")
+    private TextBlock labelUserNameRegisterIn;
+
+    @FindBy(xpath = ".//label[@for = 'email-register']")
+    private TextBlock labelEmailRegisterIn;
+
+    @FindBy(xpath = ".//label[@for = 'password-register']")
+    private TextBlock labelPasswordRegisterIn;
 
     @FindBy(xpath = ".//form[@action = '/login']//input[@name = 'username']")
     private TextInput inputUserNameInLoginIn;
@@ -149,28 +157,28 @@ public class LoginPage extends ParentPage {
     }
 
     @Step
-    public LoginPage fillAndCheckBorderColorRegisterForm(String userName, String email, String password,String borderColorOfActiveInput, String borderColorOfSignUpFprUppActive){
+    public LoginPage fillAndCheckBorderColorRegisterForm(String userName, String email, String password, String borderColorOfActiveInput, String borderColorOfSignUpFprUppActive) {
         openLoinPage();
         usersPressesKeyTabTime(5);
 
         Util.waitABit(1);
-        Assert.assertEquals("Border color is not correct.", borderColorOfActiveInput, getBorderColorOfElementByBorderBottonColor(inputUserNameInRegisterIn) );
+        Assert.assertEquals("Border color is not correct.", borderColorOfActiveInput, getBorderColorOfElementByBorderBottonColor(inputUserNameInRegisterIn));
         enterUserNameRegisterIn(userName);
 
         usersPressesKeyTabTime(1);
         Util.waitABit(1);
 
-        Assert.assertEquals("Border color is not correct.", borderColorOfActiveInput, getBorderColorOfElementByBorderBottonColor(inputEmailInRegisterIn) );
+        Assert.assertEquals("Border color is not correct.", borderColorOfActiveInput, getBorderColorOfElementByBorderBottonColor(inputEmailInRegisterIn));
         enterEmailRegisterIn(email);
         usersPressesKeyTabTime(1);
-        
+
         Util.waitABit(1);
-        Assert.assertEquals("Border color is not correct.", borderColorOfActiveInput, getBorderColorOfElementByBorderBottonColor(inputPassWordInRegisterIn) );
+        Assert.assertEquals("Border color is not correct.", borderColorOfActiveInput, getBorderColorOfElementByBorderBottonColor(inputPassWordInRegisterIn));
         enterPasswordRegisterIn(password);
 
         usersPressesKeyTabTime(1);
         Util.waitABit(1);
-        Assert.assertEquals("Border color is not correct.", borderColorOfSignUpFprUppActive, getBorderColorOfElementByBorderColor(signUpForOurAppButton) );
+        Assert.assertEquals("Border color is not correct.", borderColorOfSignUpFprUppActive, getBorderColorOfElementByBorderColor(signUpForOurAppButton));
 
         return this;
     }
@@ -329,6 +337,25 @@ public class LoginPage extends ParentPage {
         return this;
     }
 
+    @Step
+    public LoginPage checkPlaceHolder(String placeHolderUserName, String placeHolderEmail, String placeHolderPassword) {
+        openLoinPage();
+        Util.waitABit(2);
 
+        checkTexOfPlaceHolder(inputUserNameInRegisterIn, placeHolderUserName);
+        checkTexOfPlaceHolder(inputEmailInRegisterIn, placeHolderEmail);
+        checkTexOfPlaceHolder(inputPassWordInRegisterIn, placeHolderPassword);
+        return this;
+    }
+
+    public LoginPage checkTextOverInputFieldInRegisterForm(String textOverUserName, String textOverEmail, String textOverPassword) {
+
+        checkTexOverInputField(labelUserNameRegisterIn, textOverUserName);
+        checkTexOverInputField(labelEmailRegisterIn, textOverEmail);
+        checkTexOverInputField(labelPasswordRegisterIn, textOverPassword);
+
+
+        return this;
+    }
 }
 
