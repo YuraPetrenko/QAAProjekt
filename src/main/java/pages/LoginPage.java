@@ -133,12 +133,72 @@ public class LoginPage extends ParentPage {
         return this;
     }
 
+
     @Step
-    public LoginPage clickOnSignUpForOurAppButton() {
+    public LoginPage fillRegisterFormByTab(String userName, String email, String password) {
+        openLoinPage();
+        usersPressesKeyTabTime(5);
+        enterUserNameRegisterIn(userName);
+        usersPressesKeyTabTime(1);
+        enterEmailRegisterIn(email);
+        usersPressesKeyTabTime(1);
+        enterPasswordRegisterIn(password);
+        usersPressesKeyTabTime(1);
+
+        return this;
+    }
+
+    @Step
+    public LoginPage fillAndCheckBorderColorRegisterForm(String userName, String email, String password,String borderColorOfActiveInput, String borderColorOfSignUpFprUppActive){
+        openLoinPage();
+        usersPressesKeyTabTime(5);
+
+        Util.waitABit(1);
+        Assert.assertEquals("Border color is not correct.", borderColorOfActiveInput, getBorderColorOfElementByBorderBottonColor(inputUserNameInRegisterIn) );
+        enterUserNameRegisterIn(userName);
+
+        usersPressesKeyTabTime(1);
+        Util.waitABit(1);
+
+        Assert.assertEquals("Border color is not correct.", borderColorOfActiveInput, getBorderColorOfElementByBorderBottonColor(inputEmailInRegisterIn) );
+        enterEmailRegisterIn(email);
+        usersPressesKeyTabTime(1);
+
+        Util.waitABit(1);
+        Assert.assertEquals("Border color is not correct.", borderColorOfActiveInput, getBorderColorOfElementByBorderBottonColor(inputPassWordInRegisterIn) );
+        enterPasswordRegisterIn(password);
+
+        usersPressesKeyTabTime(1);
+        Util.waitABit(1);
+        Assert.assertEquals("Border color is not correct.", borderColorOfSignUpFprUppActive, getBorderColorOfElementByBorderColor(signUpForOurAppButton) );
+
+        return this;
+    }
+
+    @Step
+    public HomePage clickOnSignUpForOurAppButton() {
+        clickOnElement(signUpForOurAppButton);
+        return new HomePage(webDriver);
+    }
+
+
+    @Step
+    public LoginPage clickOnSignUpForOurAppButtonForUnValidRegistration() {
         clickOnElement(signUpForOurAppButton);
         return this;
     }
 
+    @Step
+    public HomePage sentKeyEnterOnSignUpForOurAppButton(int count) {
+        usersPressesKeyEnterTime(count);
+        return new HomePage(webDriver);
+    }
+
+    @Step
+    public LoginPage sentKeyEnterOnSignUpForOurAppButtonForUnValidRegistration(int count) {
+        usersPressesKeyEnterTime(count);
+        return this;
+    }
 
     @Step
     public void checkPopUpMessage() {
@@ -215,11 +275,6 @@ public class LoginPage extends ParentPage {
 
 
     @Step
-    public HomePage clickSingUpForOurAppButton() {
-        clickOnElement(signUpForOurAppButton);
-        return new HomePage(webDriver);
-    }
-
     public boolean checkRegistrationFormVisible() {
         checkIsElementVisible(registrationForm);
         return true;
@@ -238,16 +293,18 @@ public class LoginPage extends ParentPage {
         Util.waitABit(1);
         List<WebElement> listOfError = webDriver.findElements(By.xpath(popUpRegisterError));
         Assert.assertEquals("Count of PopUp errors Message is not correct", listOfError.size(), countOfMessage);
-
+        logger.info("Count of PopUp errors Message is correct -  " + listOfError);
         return this;
     }
 
+    @Step
     public LoginPage checkIsPasswordIsNotVisible(String password) {
         Assert.assertEquals("----- " + password + " - Password is visible.", password, inputPassWordInRegisterIn.getText());
         logger.info("Password is not visible");
         return this;
     }
 
+    @Step
     public LoginPage checkIsPasswordCopy(String validPassword) {
         String copyPassword = inputPassWordInRegisterIn.getText();
         Assert.assertEquals("Password is copy.", copyPassword, validPassword);
@@ -256,23 +313,14 @@ public class LoginPage extends ParentPage {
         return this;
     }
 
-    public LoginPage fillRegisterFormAndSubmitByEnter(String validLogin, String validEmail, String validPassword) {
 
-        openLoinPage();
-        enterUserNameRegisterIn(validLogin);
-        enterEmailRegisterIn(validEmail);
-        enterPasswordRegisterIn(validPassword);
-        pressEnterKey(signUpForOurAppButton);
-        return new LoginPage(webDriver);
-
-    }
-
+    @Step
     public LoginPage checkIsTextIsVisibleAfterMinimizeWindow(int sizeOfWindow, String login, String email, String password) {
 
         webDriver.manage().window().setPosition(new Point(-2000, sizeOfWindow));
-
-        webDriver.manage().window().fullscreen();
-
+        logger.info("Windows size was change and now it is - 2000," + sizeOfWindow);
+        webDriver.manage().window().maximize();
+        logger.info("Windows size was is maximize.");
         checkIsTextEqualsInElement(inputUserNameInRegisterIn, login);
         checkIsTextEqualsInElement(inputEmailInRegisterIn, email);
         checkIsTextEqualsInElement(inputPassWordInRegisterIn, password);
@@ -280,5 +328,7 @@ public class LoginPage extends ParentPage {
 
         return this;
     }
+
+
 }
 

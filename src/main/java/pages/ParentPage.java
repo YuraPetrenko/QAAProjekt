@@ -7,8 +7,10 @@ import org.aeonbits.owner.ConfigFactory;
 import org.apache.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
@@ -91,10 +93,9 @@ public abstract class ParentPage {
 
 
     @Step
-    protected void pressEnterKey(WebElement webElement) {
+    protected void pressEnterKey(WebElement webElement, int numberOfTimes) {
         try {
-            webDriverWait15.until(ExpectedConditions.elementToBeClickable(webElement));
-            webElement.sendKeys("Enter");
+            usersPressesKeyEnterTime(numberOfTimes);
             logger.info(getElementName(webElement) + "element was Entered.");
 
         } catch (Exception e) {
@@ -102,6 +103,24 @@ public abstract class ParentPage {
         }
     }
 
+
+    public void usersPressesKeyEnterTime(int numberOfTimes) {
+        Actions actions = new Actions(webDriver);
+        for (int i = 0; i < numberOfTimes; i++) {
+            actions.sendKeys(Keys.ENTER).build().perform();
+
+        }
+    }
+
+
+    public void usersPressesKeyTabTime(int numberOfTimes) {
+        Actions actions = new Actions(webDriver);
+        for (int i = 0; i < numberOfTimes; i++) {
+            actions.sendKeys(Keys.TAB).build().perform();
+            logger.info("Send key TAB.");
+
+        }
+    }
 
 
     protected boolean isElementDisplayed(WebElement webElement) {
@@ -158,11 +177,56 @@ public abstract class ParentPage {
         try {
             checkIsElementVisible(element);
             Assert.assertEquals("Text "+ text + "is not Equals.", element.getText(), text);
+            logger.info("Text is equals - " + text);
         }catch (Exception e){
             logger.info(e);
         }
 
 
     }
+
+    protected String  getBackGroundColorOfElement( WebElement webElement){
+        checkIsElementVisible(webElement);
+        String backgroundColorOfElement = webElement.getCssValue("background-color");
+        logger.info("Color of element -----"+ webElement +"----- is - " + backgroundColorOfElement);
+        return backgroundColorOfElement ;
+    }
+
+    protected String getBorderColorOfElementByBorderBottonColor(WebElement webElement){
+        checkIsElementVisible(webElement);
+        String borderColorOfElement = webElement.getCssValue("border-bottom-color");
+        logger.info("Border color of element -----"+ webElement +"----- is - " + borderColorOfElement);
+        return borderColorOfElement ;
+    }
+
+
+    protected String  getBorderColorOfElementByBorderColor( WebElement webElement){
+        checkIsElementVisible(webElement);
+        String borderColorOfElement = webElement.getCssValue("border-color");
+        logger.info("Border color of element -----"+ webElement +"----- is - " + borderColorOfElement);
+        return borderColorOfElement ;
+    }
+
+    protected String  getBackGroundColorOfText( WebElement webElement){
+        checkIsElementVisible(webElement);
+        String colorOfText = webElement.getCssValue("color");
+        logger.info("Color of element is - " + colorOfText);
+        return colorOfText ;
+    }
+
+    protected  void  checkBackGroundColorOfElement(WebElement webElement, String colorOfElement){
+
+        checkIsElementVisible(webElement);
+        Assert.assertEquals("Back Ground color of element -----"+ webElement +"----- is not correct", colorOfElement, getBackGroundColorOfElement(webElement)  );
+        logger.info("Back Ground color of element is  correct - " + colorOfElement);
+    }
+
+    protected  void  checkBorderColorOfElement(WebElement webElement, String colorOfElement){
+
+        checkIsElementVisible(webElement);
+        Assert.assertEquals("Border color of element -----"+ webElement +"----- is not correct", colorOfElement, getBorderColorOfElementByBorderBottonColor(webElement)  );
+        logger.info("Border color of element is  correct - " + colorOfElement);
+    }
+
 
 }

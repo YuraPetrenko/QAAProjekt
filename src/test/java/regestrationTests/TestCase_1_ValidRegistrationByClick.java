@@ -23,14 +23,16 @@ public class TestCase_1_ValidRegistrationByClick extends BaseTest {
                 .checkErrorOfMessage(0)
                 .checkIsPasswordIsNotVisible(validPassword)
                 .checkIsPasswordCopy(validPassword)
-                .clickSingUpForOurAppButton()
+                .clickOnSignUpForOurAppButton()
                 .checkIsRedirectOnHomePage()
                 .registrationFormIsNotVisible()
                 .messageHelloNewUserIsVisible(validLogin)
                 .checkIsSearchButtonVisible()
                 .checkIsChatButtonVisible()
                 .checkIsAvatarButtonVisible()
-                .checkIsUserNameButtonVisible();
+                .checkIsUserNameButtonVisible()
+                .checkBackGroundCreatePosButton("rgba(40, 167, 69, 1)")
+                .checkBackGroundSingOutButton("rgba(108, 117, 125, 1)");
 
     }
 
