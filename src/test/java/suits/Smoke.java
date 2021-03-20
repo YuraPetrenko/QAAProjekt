@@ -11,9 +11,9 @@ import regestrationTests.TestCase_3_CheckErrorMessage;
         {
 
 
-                TestCase_3_CheckErrorMessage.class,
-                TestCase_2_ValidRegistrationPressEnterKey.class,
-                TestCase_1_ValidRegistrationByClick.class
+            //   TestCase_3_CheckErrorMessage.class,
+             //   TestCase_2_ValidRegistrationPressEnterKey.class,
+               TestCase_1_ValidRegistrationByClick.class
         }
 )
 public class Smoke {

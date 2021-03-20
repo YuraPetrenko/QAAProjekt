@@ -27,7 +27,7 @@ public class TestCase_3_CheckErrorMessage extends BaseTest {
 
     public void checkErrorMessageInRegisterForm(String userName, String email, String password, int countUnValidValue, String textOfErrorMessages) {
         loginPage.fillRegisterFormByClick(userName, email, password)
-                .clickOnSignUpForOurAppButton()
+                .clickOnSignUpForOurAppButtonForUnValidRegistration()
                 .checkCountErrorOfMessagesAfterSubmitRegisterIn(countUnValidValue)
                 .checkTextOfErrorsInRegisterIn(textOfErrorMessages);
 

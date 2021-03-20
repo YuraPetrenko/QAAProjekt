@@ -38,6 +38,8 @@ public class HomePage extends ParentPage {
     private Button searchButton;
     @FindBy(xpath = ".//form[@action ='/register']")
     private Form registrationFormLoginPage;
+    @FindBy(xpath = ".//*[@class = 'btn btn-sm btn-secondary']")
+    private Button signOutButton;
     String messageHelloNewUser = "Hello %s, your feed is empty.";
 
 
@@ -51,9 +53,11 @@ public class HomePage extends ParentPage {
         super(webDriver);
     }
 
+    @Step
     public HomePage checkIsRedirectOnHomePage() {
         Util.waitABit(2);
         Assert.assertThat("Invalid page", webDriver.getCurrentUrl(), containsString(baseUrl + getRelativeUrl()));
+        logger.info("The current page is - " + baseUrl + getRelativeUrl());
 
         return this;
     }
@@ -112,8 +116,8 @@ public class HomePage extends ParentPage {
     public HomePage messageHelloNewUserIsVisible(String validLogin) {
 
         String message = webDriver.findElement(By.xpath(".//h2")).getText();
-        logger.info("Text after registration on the top is visible - " + message);
         Assert.assertEquals("Text is not correct.", String.format(messageHelloNewUser, validLogin), message);
+        logger.info("Text after registration on the top is visible - " + message);
         return new HomePage(webDriver);
 
     }
@@ -143,9 +147,21 @@ public class HomePage extends ParentPage {
     }
 
     @Step
-    public void checkIsUserNameButtonVisible() {
+    public HomePage checkIsUserNameButtonVisible() {
         checkIsElementVisible(userNameButton);
+        return this;
+    }
 
+    @Step
+    public HomePage checkBackGroundCreatePosButton(String color) {
+        checkBackGroundColorOfElement(createPostButton, color);
+        return this;
+    }
+
+    @Step
+    public HomePage checkBackGroundSingOutButton(String color) {
+        checkBackGroundColorOfElement(signOutButton, color);
+        return this;
     }
 
 }
