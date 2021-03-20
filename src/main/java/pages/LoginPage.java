@@ -137,12 +137,40 @@ public class LoginPage extends ParentPage {
     @Step
     public LoginPage fillRegisterFormByTab(String userName, String email, String password) {
         openLoinPage();
+        usersPressesKeyTabTime(5);
         enterUserNameRegisterIn(userName);
         usersPressesKeyTabTime(1);
         enterEmailRegisterIn(email);
         usersPressesKeyTabTime(1);
         enterPasswordRegisterIn(password);
         usersPressesKeyTabTime(1);
+
+        return this;
+    }
+
+    @Step
+    public LoginPage fillAndCheckBorderColorRegisterForm(String userName, String email, String password,String borderColorOfActiveInput, String borderColorOfSignUpFprUppActive){
+        openLoinPage();
+        usersPressesKeyTabTime(5);
+
+        Util.waitABit(1);
+        Assert.assertEquals("Border color is not correct.", borderColorOfActiveInput, getBorderColorOfElementByBorderBottonColor(inputUserNameInRegisterIn) );
+        enterUserNameRegisterIn(userName);
+
+        usersPressesKeyTabTime(1);
+        Util.waitABit(1);
+
+        Assert.assertEquals("Border color is not correct.", borderColorOfActiveInput, getBorderColorOfElementByBorderBottonColor(inputEmailInRegisterIn) );
+        enterEmailRegisterIn(email);
+        usersPressesKeyTabTime(1);
+
+        Util.waitABit(1);
+        Assert.assertEquals("Border color is not correct.", borderColorOfActiveInput, getBorderColorOfElementByBorderBottonColor(inputPassWordInRegisterIn) );
+        enterPasswordRegisterIn(password);
+
+        usersPressesKeyTabTime(1);
+        Util.waitABit(1);
+        Assert.assertEquals("Border color is not correct.", borderColorOfSignUpFprUppActive, getBorderColorOfElementByBorderColor(signUpForOurAppButton) );
 
         return this;
     }
@@ -161,11 +189,16 @@ public class LoginPage extends ParentPage {
     }
 
     @Step
-    public HomePage sentKeyEnterOnSignUpForOurAppButton() {
-        usersPressesKeyEnterTime(1);
+    public HomePage sentKeyEnterOnSignUpForOurAppButton(int count) {
+        usersPressesKeyEnterTime(count);
         return new HomePage(webDriver);
     }
 
+    @Step
+    public LoginPage sentKeyEnterOnSignUpForOurAppButtonForUnValidRegistration(int count) {
+        usersPressesKeyEnterTime(count);
+        return this;
+    }
 
     @Step
     public void checkPopUpMessage() {
@@ -295,5 +328,7 @@ public class LoginPage extends ParentPage {
 
         return this;
     }
+
+
 }
 

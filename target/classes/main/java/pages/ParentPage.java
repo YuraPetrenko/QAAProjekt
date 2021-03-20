@@ -192,6 +192,21 @@ public abstract class ParentPage {
         return backgroundColorOfElement ;
     }
 
+    protected String getBorderColorOfElementByBorderBottonColor(WebElement webElement){
+        checkIsElementVisible(webElement);
+        String borderColorOfElement = webElement.getCssValue("border-bottom-color");
+        logger.info("Border color of element -----"+ webElement +"----- is - " + borderColorOfElement);
+        return borderColorOfElement ;
+    }
+
+
+    protected String  getBorderColorOfElementByBorderColor( WebElement webElement){
+        checkIsElementVisible(webElement);
+        String borderColorOfElement = webElement.getCssValue("border-color");
+        logger.info("Border color of element -----"+ webElement +"----- is - " + borderColorOfElement);
+        return borderColorOfElement ;
+    }
+
     protected String  getBackGroundColorOfText( WebElement webElement){
         checkIsElementVisible(webElement);
         String colorOfText = webElement.getCssValue("color");
@@ -206,6 +221,12 @@ public abstract class ParentPage {
         logger.info("Back Ground color of element is  correct - " + colorOfElement);
     }
 
+    protected  void  checkBorderColorOfElement(WebElement webElement, String colorOfElement){
+
+        checkIsElementVisible(webElement);
+        Assert.assertEquals("Border color of element -----"+ webElement +"----- is not correct", colorOfElement, getBorderColorOfElementByBorderBottonColor(webElement)  );
+        logger.info("Border color of element is  correct - " + colorOfElement);
+    }
 
 
 }

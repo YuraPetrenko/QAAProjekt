@@ -23,7 +23,7 @@ public class TestCase_2_ValidRegistrationPressEnterKey extends BaseTest {
                 .checkErrorOfMessage(0)
                 .checkIsTextIsVisibleAfterMinimizeWindow(0, validLogin, validEmail, validPassword)
                 .checkIsTextIsVisibleAfterMinimizeWindow(300, validLogin, validEmail, validPassword)
-                .sentKeyEnterOnSignUpForOurAppButton()
+                .sentKeyEnterOnSignUpForOurAppButton(1)
                 .registrationFormIsNotVisible()
                 .messageHelloNewUserIsVisible(validLogin)
                 .checkIsSearchButtonVisible()

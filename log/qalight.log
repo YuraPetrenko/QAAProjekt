@@ -2535,3 +2535,911 @@
 2021-20-03 18:32:26   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : -------- validRegistrationByClick was ended.--------------
 2021-20-03 18:32:26   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Finished test: regestrationTests.TestCase_1_ValidRegistrationByClick::validRegistrationByClick
 2021-20-03 18:32:28   INFO [regestrationTests.TestCase_1_ValidRegistrationByClick] : Browser was closed
+2021-20-03 19:07:05   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-20-03 19:07:08   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 19:07:08   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 19:07:13   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-20-03 19:07:26   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 19:07:26   INFO [pages.LoginPage] : qw was input in to element 'Input User Name In Register In' 
+2021-20-03 19:07:26   INFO [pages.LoginPage] : bald2004@ukr.net was input in to element 'Input Email In Register In' 
+2021-20-03 19:07:26   INFO [pages.LoginPage] : qwertyuiopq was input in to element 'Input Pass Word In Register In' 
+2021-20-03 19:07:27   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-20-03 19:07:32   INFO [pages.LoginPage] : 3
+2021-20-03 19:07:33   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-20-03 19:07:33   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-20-03 19:07:34   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-20-03 19:07:34   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-20-03 19:07:34   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 19:07:34   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 19:07:36   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-20-03 19:07:38   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 19:07:38   INFO [pages.LoginPage] : qwertyuiopqwertyuiopqwertyuiopq was input in to element 'Input User Name In Register In' 
+2021-20-03 19:07:39   INFO [pages.LoginPage] : bald2004ukr.net was input in to element 'Input Email In Register In' 
+2021-20-03 19:07:39   INFO [pages.LoginPage] : 123456789012345678901234567890123456789012345678901 was input in to element 'Input Pass Word In Register In' 
+2021-20-03 19:07:39   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-20-03 19:07:44   INFO [pages.LoginPage] : 3
+2021-20-03 19:07:45   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-20-03 19:07:45   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-20-03 19:07:47   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-20-03 19:07:47   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-20-03 19:07:47   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 19:07:47   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 19:07:50   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-20-03 19:07:51   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 19:07:52   INFO [pages.LoginPage] : bald2004 was input in to element 'Input User Name In Register In' 
+2021-20-03 19:07:52   INFO [pages.LoginPage] :  was input in to element 'Input Email In Register In' 
+2021-20-03 19:07:52   INFO [pages.LoginPage] :  was input in to element 'Input Pass Word In Register In' 
+2021-20-03 19:07:52   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-20-03 19:07:57   INFO [pages.LoginPage] : 3
+2021-20-03 19:07:58   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-20-03 19:07:58   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-20-03 19:08:00   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-20-03 19:08:00   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-20-03 19:08:00   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 19:08:00   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 19:08:03   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-20-03 19:08:04   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 19:08:05   INFO [pages.LoginPage] : @@@@ was input in to element 'Input User Name In Register In' 
+2021-20-03 19:08:05   INFO [pages.LoginPage] :  was input in to element 'Input Email In Register In' 
+2021-20-03 19:08:05   INFO [pages.LoginPage] :  was input in to element 'Input Pass Word In Register In' 
+2021-20-03 19:08:05   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-20-03 19:08:10   INFO [pages.LoginPage] : 3
+2021-20-03 19:08:11   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-20-03 19:08:11   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-20-03 19:08:12   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-20-03 19:08:12   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-20-03 19:08:12   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 19:08:12   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 19:08:15   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-20-03 19:08:17   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 19:08:17   INFO [pages.LoginPage] : abcd was input in to element 'Input User Name In Register In' 
+2021-20-03 19:08:17   INFO [pages.LoginPage] :  was input in to element 'Input Email In Register In' 
+2021-20-03 19:08:17   INFO [pages.LoginPage] :  was input in to element 'Input Pass Word In Register In' 
+2021-20-03 19:08:17   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-20-03 19:08:22   INFO [pages.LoginPage] : 2
+2021-20-03 19:08:22   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-20-03 19:08:23   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-20-03 19:08:24   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-20-03 19:08:24   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-20-03 19:08:24   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 19:08:24   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 19:08:26   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-20-03 19:08:28   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 19:08:28   INFO [pages.LoginPage] : abcd was input in to element 'Input User Name In Register In' 
+2021-20-03 19:08:29   INFO [pages.LoginPage] :  was input in to element 'Input Email In Register In' 
+2021-20-03 19:08:29   INFO [pages.LoginPage] : asdadsadadadadasdasd was input in to element 'Input Pass Word In Register In' 
+2021-20-03 19:08:29   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-20-03 19:08:34   INFO [pages.LoginPage] : 1
+2021-20-03 19:08:35   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-20-03 19:08:35   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-20-03 19:08:36   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-20-03 19:08:36   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-20-03 19:08:36   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 19:08:36   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 19:08:39   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-20-03 19:08:40   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 19:08:41   INFO [pages.LoginPage] :  was input in to element 'Input User Name In Register In' 
+2021-20-03 19:08:41   INFO [pages.LoginPage] : baldasd@zczcczc.com was input in to element 'Input Email In Register In' 
+2021-20-03 19:08:41   INFO [pages.LoginPage] : asdadsadadadadasdasd was input in to element 'Input Pass Word In Register In' 
+2021-20-03 19:08:41   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-20-03 19:08:46   INFO [pages.LoginPage] : 1
+2021-20-03 19:08:47   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-20-03 19:08:47   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-20-03 19:08:48   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-20-03 19:08:48   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-20-03 19:08:48   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 19:08:48   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 19:08:51   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-20-03 19:08:53   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 19:08:53   INFO [pages.LoginPage] : dgdg was input in to element 'Input User Name In Register In' 
+2021-20-03 19:08:53   INFO [pages.LoginPage] : baldasd@zczcczc.com was input in to element 'Input Email In Register In' 
+2021-20-03 19:08:53   INFO [pages.LoginPage] :  was input in to element 'Input Pass Word In Register In' 
+2021-20-03 19:08:53   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-20-03 19:08:58   INFO [pages.LoginPage] : 1
+2021-20-03 19:08:59   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-20-03 19:08:59   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-20-03 19:09:01   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-20-03 19:14:56   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-20-03 19:14:58   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 19:14:58   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 19:15:03   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-20-03 19:15:06   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 19:15:06   INFO [pages.LoginPage] : qw was input in to element 'Input User Name In Register In' 
+2021-20-03 19:15:06   INFO [pages.LoginPage] : bald2004@ukr.net was input in to element 'Input Email In Register In' 
+2021-20-03 19:15:07   INFO [pages.LoginPage] : qwertyuiopq was input in to element 'Input Pass Word In Register In' 
+2021-20-03 19:15:07   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-20-03 19:15:12   INFO [pages.LoginPage] : 3
+2021-20-03 19:15:13   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-20-03 19:15:13   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-20-03 19:15:14   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-20-03 19:15:15   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-20-03 19:15:15   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 19:15:15   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 19:15:18   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-20-03 19:15:19   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 19:15:20   INFO [pages.LoginPage] : qwertyuiopqwertyuiopqwertyuiopq was input in to element 'Input User Name In Register In' 
+2021-20-03 19:15:20   INFO [pages.LoginPage] : bald2004ukr.net was input in to element 'Input Email In Register In' 
+2021-20-03 19:15:20   INFO [pages.LoginPage] : 123456789012345678901234567890123456789012345678901 was input in to element 'Input Pass Word In Register In' 
+2021-20-03 19:15:21   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-20-03 19:15:26   INFO [pages.LoginPage] : 3
+2021-20-03 19:15:27   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-20-03 19:15:27   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-20-03 19:15:28   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-20-03 19:15:28   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-20-03 19:15:28   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 19:15:28   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 19:15:30   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-20-03 19:15:32   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 19:15:32   INFO [pages.LoginPage] : bald2004 was input in to element 'Input User Name In Register In' 
+2021-20-03 19:15:32   INFO [pages.LoginPage] :  was input in to element 'Input Email In Register In' 
+2021-20-03 19:15:32   INFO [pages.LoginPage] :  was input in to element 'Input Pass Word In Register In' 
+2021-20-03 19:15:32   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-20-03 19:15:37   INFO [pages.LoginPage] : 3
+2021-20-03 19:15:39   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-20-03 19:15:39   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-20-03 19:15:40   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-20-03 19:15:40   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-20-03 19:15:40   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 19:15:40   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 19:15:42   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-20-03 19:15:44   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 19:15:44   INFO [pages.LoginPage] : @@@@ was input in to element 'Input User Name In Register In' 
+2021-20-03 19:15:45   INFO [pages.LoginPage] :  was input in to element 'Input Email In Register In' 
+2021-20-03 19:15:45   INFO [pages.LoginPage] :  was input in to element 'Input Pass Word In Register In' 
+2021-20-03 19:15:45   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-20-03 19:15:50   INFO [pages.LoginPage] : 3
+2021-20-03 19:15:51   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-20-03 19:15:51   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-20-03 19:15:52   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-20-03 19:15:52   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-20-03 19:15:52   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 19:15:52   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 19:15:55   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-20-03 19:15:56   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 19:15:57   INFO [pages.LoginPage] : abc d was input in to element 'Input User Name In Register In' 
+2021-20-03 19:15:57   INFO [pages.LoginPage] :  was input in to element 'Input Email In Register In' 
+2021-20-03 19:15:57   INFO [pages.LoginPage] :  was input in to element 'Input Pass Word In Register In' 
+2021-20-03 19:15:58   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-20-03 19:16:03   INFO [pages.LoginPage] : 3
+2021-20-03 19:16:04   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-20-03 19:16:04   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-20-03 19:16:05   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-20-03 19:16:05   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-20-03 19:16:05   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 19:16:05   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 19:16:07   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-20-03 19:16:09   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 19:16:09   INFO [pages.LoginPage] : abcd was input in to element 'Input User Name In Register In' 
+2021-20-03 19:16:09   INFO [pages.LoginPage] :  was input in to element 'Input Email In Register In' 
+2021-20-03 19:16:10   INFO [pages.LoginPage] : asdadsadadadadasdasd was input in to element 'Input Pass Word In Register In' 
+2021-20-03 19:16:10   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-20-03 19:16:15   INFO [pages.LoginPage] : 1
+2021-20-03 19:16:16   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-20-03 19:16:16   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-20-03 19:16:17   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-20-03 19:16:17   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-20-03 19:16:17   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 19:16:17   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 19:16:20   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-20-03 19:16:21   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 19:16:22   INFO [pages.LoginPage] :  was input in to element 'Input User Name In Register In' 
+2021-20-03 19:16:22   INFO [pages.LoginPage] : baldasd@zczcczc.com was input in to element 'Input Email In Register In' 
+2021-20-03 19:16:22   INFO [pages.LoginPage] : asdadsadadadadasdasd was input in to element 'Input Pass Word In Register In' 
+2021-20-03 19:16:22   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-20-03 19:16:27   INFO [pages.LoginPage] : 1
+2021-20-03 19:16:28   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-20-03 19:16:28   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-20-03 19:16:29   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-20-03 19:16:29   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-20-03 19:16:29   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 19:16:29   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 19:16:32   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was open.
+2021-20-03 19:16:33   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 19:16:34   INFO [pages.LoginPage] : dgdg was input in to element 'Input User Name In Register In' 
+2021-20-03 19:16:34   INFO [pages.LoginPage] : baldasd@zczcczc.com was input in to element 'Input Email In Register In' 
+2021-20-03 19:16:34   INFO [pages.LoginPage] :  was input in to element 'Input Pass Word In Register In' 
+2021-20-03 19:16:34   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-20-03 19:16:39   INFO [pages.LoginPage] : 1
+2021-20-03 19:16:40   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-20-03 19:16:40   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Finished test: regestrationTests.TestCase_3_CheckErrorMessage::checkErrorMessageInRegisterForm
+2021-20-03 19:16:41   INFO [regestrationTests.TestCase_3_CheckErrorMessage] : Browser was closed
+2021-20-03 19:30:39   INFO [regestrationTests.TestCase_7_CheckErrorMessageIfEmptyFieldByClick] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-20-03 19:30:42   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 19:30:42   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 19:30:48   INFO [regestrationTests.TestCase_7_CheckErrorMessageIfEmptyFieldByClick] : Browser was open.
+2021-20-03 19:30:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 19:30:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 19:30:54   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 19:30:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 19:30:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 19:30:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 19:30:54   INFO [pages.LoginPage] :  was input in to element 'Input User Name In Register In' 
+2021-20-03 19:30:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 19:30:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 19:30:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 19:30:55   INFO [pages.LoginPage] :  was input in to element 'Input Email In Register In' 
+2021-20-03 19:30:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 19:30:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 19:30:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 19:30:55   INFO [pages.LoginPage] :  was input in to element 'Input Pass Word In Register In' 
+2021-20-03 19:30:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 19:30:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 19:30:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 19:30:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 19:30:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 19:30:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 19:30:55   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-20-03 19:30:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 19:30:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 19:30:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 19:30:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 19:30:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 19:31:00   INFO [pages.LoginPage] : 3
+2021-20-03 19:31:00  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 19:31:00  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 19:31:00  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 19:31:01  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 19:31:01  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 19:31:01   INFO [regestrationTests.TestCase_7_CheckErrorMessageIfEmptyFieldByClick] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-20-03 19:31:01   INFO [regestrationTests.TestCase_7_CheckErrorMessageIfEmptyFieldByClick] : Finished test: regestrationTests.TestCase_7_CheckErrorMessageIfEmptyFieldByClick::checkErrorMessageInRegisterForm
+2021-20-03 19:31:03   INFO [regestrationTests.TestCase_7_CheckErrorMessageIfEmptyFieldByClick] : Browser was closed
+2021-20-03 19:37:38   INFO [regestrationTests.TestCase_4_CheckErrorMessageIfEmptyFieldByTab] : -------- checkErrorMessageInRegisterForm was started.------------
+2021-20-03 19:37:41   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 19:37:41   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 19:37:47   INFO [regestrationTests.TestCase_4_CheckErrorMessageIfEmptyFieldByTab] : Browser was open.
+2021-20-03 19:37:48  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 19:37:48  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 19:37:50   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 19:37:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 19:37:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 19:37:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 19:37:50   INFO [pages.LoginPage] :  was input in to element 'Input User Name In Register In' 
+2021-20-03 19:37:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 19:37:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 19:37:50   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 19:37:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 19:37:50   INFO [pages.LoginPage] :  was input in to element 'Input Email In Register In' 
+2021-20-03 19:37:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 19:37:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 19:37:50   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 19:37:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 19:37:51   INFO [pages.LoginPage] :  was input in to element 'Input Pass Word In Register In' 
+2021-20-03 19:37:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 19:37:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 19:37:51   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 19:37:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 19:37:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 19:37:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 19:37:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 19:37:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 19:37:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 19:37:56   INFO [pages.LoginPage] : 3
+2021-20-03 19:37:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 19:37:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 19:37:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 19:37:57  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 19:37:57  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 19:37:57   INFO [regestrationTests.TestCase_4_CheckErrorMessageIfEmptyFieldByTab] : -------- checkErrorMessageInRegisterForm was ended.--------------
+2021-20-03 19:37:57   INFO [regestrationTests.TestCase_4_CheckErrorMessageIfEmptyFieldByTab] : Finished test: regestrationTests.TestCase_4_CheckErrorMessageIfEmptyFieldByTab::checkErrorMessageInRegisterForm
+2021-20-03 19:37:58   INFO [regestrationTests.TestCase_4_CheckErrorMessageIfEmptyFieldByTab] : Browser was closed
+2021-20-03 20:24:26   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was started.------------
+2021-20-03 20:24:29   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 20:24:29   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 20:24:34   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was open.
+2021-20-03 20:24:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:24:36   INFO [pages.LoginPage] : Create random login - 6mttr4dgwmflmdmqoakz3jhweej2gs
+2021-20-03 20:24:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:24:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:24:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:24:36   INFO [pages.LoginPage] : Create random email - 75quc2dx@ukr.net
+2021-20-03 20:24:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:24:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:24:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:24:36   INFO [pages.LoginPage] : Create random password - n1hsekqrkfbz4gz31snoh1bqwe2fnucnukm9kajdfjz260ryov
+2021-20-03 20:24:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:24:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:24:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:24:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:24:46   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 20:24:46  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:24:46  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:24:47   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:24:47   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:24:47   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:24:47   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:24:47   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:24:47   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 20:24:47   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgb(128, 189, 255)
+2021-20-03 20:24:47  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:24:47  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:24:47   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was ended.--------------
+2021-20-03 20:24:47  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
+2021-20-03 20:24:47   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Finished test: regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor::validRegistrationByTab
+2021-20-03 20:24:48   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was closed
+2021-20-03 20:25:53   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was started.------------
+2021-20-03 20:25:55   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 20:25:55   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 20:26:00   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was open.
+2021-20-03 20:26:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:26:02   INFO [pages.LoginPage] : Create random login - z0hlwal6hoq8lzj8xqnhfpzjhpdp2h
+2021-20-03 20:26:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:26:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:26:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:26:02   INFO [pages.LoginPage] : Create random email - gmqszyiq@ukr.net
+2021-20-03 20:26:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:26:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:26:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:26:02   INFO [pages.LoginPage] : Create random password - 6asuuvq3ltydncywg1odoq7y6kuxpvgjlyb7gxbgwcnfcfiajq
+2021-20-03 20:26:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:26:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:26:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:26:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:26:07   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 20:26:07  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:26:07  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:26:07   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:26:07   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:26:07   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:26:07   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:26:07   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:26:07   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 20:26:07   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgb(128, 189, 255)
+2021-20-03 20:26:07  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:26:07  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:26:07   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was ended.--------------
+2021-20-03 20:26:08  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
+2021-20-03 20:26:08   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Finished test: regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor::validRegistrationByTab
+2021-20-03 20:26:09   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was closed
+2021-20-03 20:26:47   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was started.------------
+2021-20-03 20:26:50   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 20:26:50   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 20:26:55   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was open.
+2021-20-03 20:26:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:26:56   INFO [pages.LoginPage] : Create random login - igoikut25u1uy2xyja0h8pfzsaogcp
+2021-20-03 20:26:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:26:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:26:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:26:56   INFO [pages.LoginPage] : Create random email - cpzyxvkx@ukr.net
+2021-20-03 20:26:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:26:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:26:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:26:56   INFO [pages.LoginPage] : Create random password - p2qkjcm2j6x5tdjqy1gmrr9d8vekii0jkchgypecxxbziekrq1
+2021-20-03 20:26:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:26:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:26:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:26:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:26:58   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 20:26:58  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:26:58  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:26:58   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:26:58   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:26:58   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:26:58   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:26:58   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:26:58   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 20:26:58   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgb(128, 189, 255)
+2021-20-03 20:26:58  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:26:58   INFO [pages.LoginPage] : igoikut25u1uy2xyja0h8pfzsaogcp was input in to element 'Input User Name In Register In' 
+2021-20-03 20:26:58  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:26:58  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:26:58   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:26:58   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 20:26:58   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgb(146, 194, 247)
+2021-20-03 20:26:58  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:26:58  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:26:58   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was ended.--------------
+2021-20-03 20:26:59  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
+2021-20-03 20:26:59   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Finished test: regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor::validRegistrationByTab
+2021-20-03 20:27:00   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was closed
+2021-20-03 20:28:52   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was started.------------
+2021-20-03 20:28:54   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 20:28:54   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 20:29:00   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was open.
+2021-20-03 20:29:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:29:02   INFO [pages.LoginPage] : Create random login - u5v9iso592jqxsemuilafgtkwz2wux
+2021-20-03 20:29:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:29:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:29:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:29:02   INFO [pages.LoginPage] : Create random email - phqcbogq@ukr.net
+2021-20-03 20:29:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:29:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:29:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:29:02   INFO [pages.LoginPage] : Create random password - wapn1yyc35sbmb7ib06atflornii2ozm4gtbjzmzedphdytjfm
+2021-20-03 20:29:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:29:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:29:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:29:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:29:07   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 20:29:07  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:29:07  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:29:07   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:29:07   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:29:07   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:29:07   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:29:07   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:29:08   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 20:29:08   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgb(128, 189, 255)
+2021-20-03 20:29:08  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:29:08   INFO [pages.LoginPage] : u5v9iso592jqxsemuilafgtkwz2wux was input in to element 'Input User Name In Register In' 
+2021-20-03 20:29:08  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:29:08  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:29:08   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:29:09   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 20:29:09   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgb(206, 212, 218)
+2021-20-03 20:29:09  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:29:09  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:29:09   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was ended.--------------
+2021-20-03 20:29:10  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
+2021-20-03 20:29:10   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Finished test: regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor::validRegistrationByTab
+2021-20-03 20:29:11   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was closed
+2021-20-03 20:37:38   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was started.------------
+2021-20-03 20:37:40   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 20:37:40   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 20:37:46   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was open.
+2021-20-03 20:37:47  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:37:47   INFO [pages.LoginPage] : Create random login - exf8v00o7r3bxraeumz7r8dxnu1ylp
+2021-20-03 20:37:47  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:37:47  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:37:47  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:37:47   INFO [pages.LoginPage] : Create random email - 1kxbvqko@ukr.net
+2021-20-03 20:37:47  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:37:47  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:37:47  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:37:47   INFO [pages.LoginPage] : Create random password - efkn1jmoathin0o2mlwnoyvj1ttakmgha7ist2samkz7h0erbm
+2021-20-03 20:37:47  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:37:47  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:37:47  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:37:47  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:37:49   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 20:37:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:37:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:37:49   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:37:49   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:37:49   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:37:49   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:37:49   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:37:50   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 20:37:50   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgb(128, 189, 255)
+2021-20-03 20:37:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:37:51   INFO [pages.LoginPage] : exf8v00o7r3bxraeumz7r8dxnu1ylp was input in to element 'Input User Name In Register In' 
+2021-20-03 20:37:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:37:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:37:51   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:37:52   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-20-03 20:37:52   INFO [pages.LoginPage] : Border color of element -----Input Email In Register In----- is - rgb(128, 189, 255)
+2021-20-03 20:37:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:37:53   INFO [pages.LoginPage] : 1kxbvqko@ukr.net was input in to element 'Input Email In Register In' 
+2021-20-03 20:37:53  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:37:53  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:37:53   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:37:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:37:54   INFO [pages.LoginPage] : efkn1jmoathin0o2mlwnoyvj1ttakmgha7ist2samkz7h0erbm was input in to element 'Input Pass Word In Register In' 
+2021-20-03 20:37:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:37:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:37:54   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-20-03 20:37:54   INFO [pages.LoginPage] : Border color of element -----Input Pass Word In Register In----- is - rgb(128, 189, 255)
+2021-20-03 20:37:54   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:37:55   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 20:37:55   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgb(206, 212, 218)
+2021-20-03 20:37:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:37:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:37:55   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was ended.--------------
+2021-20-03 20:37:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
+2021-20-03 20:37:56   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Finished test: regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor::validRegistrationByTab
+2021-20-03 20:37:57   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was closed
+2021-20-03 20:38:52   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was started.------------
+2021-20-03 20:38:54   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 20:38:54   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 20:39:00   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was open.
+2021-20-03 20:39:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:39:02   INFO [pages.LoginPage] : Create random login - qpxwhepebwnio7udgrynwfpewo6jgn
+2021-20-03 20:39:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:39:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:39:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:39:02   INFO [pages.LoginPage] : Create random email - kqe3yspa@ukr.net
+2021-20-03 20:39:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:39:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:39:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:39:02   INFO [pages.LoginPage] : Create random password - mqafd1fsdd17eggjdjvjo2zjcvqosi7pwblh7vqivwmehepy34
+2021-20-03 20:39:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:39:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:39:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:39:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:39:07   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 20:39:07  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:39:07  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:39:07   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:39:07   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:39:07   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:39:07   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:39:07   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:39:07   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 20:39:07   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgb(128, 189, 255)
+2021-20-03 20:39:08   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 20:39:08   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgb(128, 189, 255)
+2021-20-03 20:39:09  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:39:10   INFO [pages.LoginPage] : qpxwhepebwnio7udgrynwfpewo6jgn was input in to element 'Input User Name In Register In' 
+2021-20-03 20:39:10  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:39:10  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:39:10   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:39:11   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-20-03 20:39:11   INFO [pages.LoginPage] : Border color of element -----Input Email In Register In----- is - rgb(128, 189, 255)
+2021-20-03 20:39:11  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:39:11   INFO [pages.LoginPage] : kqe3yspa@ukr.net was input in to element 'Input Email In Register In' 
+2021-20-03 20:39:11  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:39:11  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:39:11   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:39:12  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:39:12   INFO [pages.LoginPage] : mqafd1fsdd17eggjdjvjo2zjcvqosi7pwblh7vqivwmehepy34 was input in to element 'Input Pass Word In Register In' 
+2021-20-03 20:39:12  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:39:12  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:39:12   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-20-03 20:39:12   INFO [pages.LoginPage] : Border color of element -----Input Pass Word In Register In----- is - rgb(128, 189, 255)
+2021-20-03 20:39:12   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:39:13   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 20:39:14   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgb(206, 212, 218)
+2021-20-03 20:39:14  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:39:14  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:39:14   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was ended.--------------
+2021-20-03 20:39:14  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
+2021-20-03 20:39:14   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Finished test: regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor::validRegistrationByTab
+2021-20-03 20:39:16   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was closed
+2021-20-03 20:46:38   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was started.------------
+2021-20-03 20:46:40   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 20:46:40   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 20:46:48   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was open.
+2021-20-03 20:46:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:46:50   INFO [pages.LoginPage] : Create random login - xpz1iosljzmsvwjvezk0farzytf11q
+2021-20-03 20:46:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:46:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:46:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:46:50   INFO [pages.LoginPage] : Create random email - lv7efbso@ukr.net
+2021-20-03 20:46:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:46:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:46:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:46:50   INFO [pages.LoginPage] : Create random password - ypxpja95pmqw4psqakiyvgqacl120iomcxwciffqivyyogxhee
+2021-20-03 20:46:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:46:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:46:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:46:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:46:55   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 20:46:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:46:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:46:55   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:46:55   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:46:56   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:46:56   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:46:56   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:46:56   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 20:46:56   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgba(128, 189, 255, 1)
+2021-20-03 20:46:57   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 20:46:57   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgba(128, 189, 255, 1)
+2021-20-03 20:46:58  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:46:58   INFO [pages.LoginPage] : xpz1iosljzmsvwjvezk0farzytf11q was input in to element 'Input User Name In Register In' 
+2021-20-03 20:46:58  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:46:58  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:46:58   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:46:59   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-20-03 20:46:59   INFO [pages.LoginPage] : Border color of element -----Input Email In Register In----- is - rgba(128, 189, 255, 1)
+2021-20-03 20:46:59  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:47:00   INFO [pages.LoginPage] : lv7efbso@ukr.net was input in to element 'Input Email In Register In' 
+2021-20-03 20:47:00  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:47:00  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:47:00   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:47:01  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:47:02   INFO [pages.LoginPage] : ypxpja95pmqw4psqakiyvgqacl120iomcxwciffqivyyogxhee was input in to element 'Input Pass Word In Register In' 
+2021-20-03 20:47:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:47:02  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:47:02   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-20-03 20:47:02   INFO [pages.LoginPage] : Border color of element -----Input Pass Word In Register In----- is - rgba(128, 189, 255, 1)
+2021-20-03 20:47:02   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:47:03   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 20:47:03   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgba(206, 212, 218, 1)
+2021-20-03 20:47:03  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:47:03  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:47:03   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was ended.--------------
+2021-20-03 20:47:04  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
+2021-20-03 20:47:04   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Finished test: regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor::validRegistrationByTab
+2021-20-03 20:47:05   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was closed
+2021-20-03 20:52:04   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was started.------------
+2021-20-03 20:52:07   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 20:52:07   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 20:52:13   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was open.
+2021-20-03 20:52:15  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:52:15   INFO [pages.LoginPage] : Create random login - qbtyt9cdtmcfnpqfqmnxfmpumnpipt
+2021-20-03 20:52:15  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:52:15  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:52:15  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:52:15   INFO [pages.LoginPage] : Create random email - vkmfrcl4@ukr.net
+2021-20-03 20:52:15  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:52:15  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:52:15  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:52:15   INFO [pages.LoginPage] : Create random password - ujommarlapzrwfqixyhjgm7t1cerpsk7qktm94jdrvtmdyjzzu
+2021-20-03 20:52:15  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:52:15  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:52:15  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:52:15  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:52:16   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 20:52:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:52:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:52:16   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:52:16   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:52:16   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:52:16   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:52:16   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:52:17   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 20:52:17   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgba(128, 189, 255, 1)
+2021-20-03 20:52:17  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:52:18   INFO [pages.LoginPage] : qbtyt9cdtmcfnpqfqmnxfmpumnpipt was input in to element 'Input User Name In Register In' 
+2021-20-03 20:52:18  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:52:18  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:52:18   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:52:19   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-20-03 20:52:19   INFO [pages.LoginPage] : Border color of element -----Input Email In Register In----- is - rgba(128, 189, 255, 1)
+2021-20-03 20:52:19  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:52:19   INFO [pages.LoginPage] : vkmfrcl4@ukr.net was input in to element 'Input Email In Register In' 
+2021-20-03 20:52:19  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:52:19  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:52:19   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:52:19   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-20-03 20:52:19   INFO [pages.LoginPage] : Border color of element -----Input Pass Word In Register In----- is - rgba(128, 189, 255, 1)
+2021-20-03 20:52:19  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:52:20   INFO [pages.LoginPage] : ujommarlapzrwfqixyhjgm7t1cerpsk7qktm94jdrvtmdyjzzu was input in to element 'Input Pass Word In Register In' 
+2021-20-03 20:52:20  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:52:20  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:52:20   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:52:21   INFO [pages.LoginPage] :  'Sign Up For Our App Button' Element displayed:true
+2021-20-03 20:52:21   INFO [pages.LoginPage] : Border color of element -----Sign Up For Our App Button----- is - rgba(40, 167, 69, 1)
+2021-20-03 20:52:21  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:52:21  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:52:21   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was ended.--------------
+2021-20-03 20:52:22  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
+2021-20-03 20:52:22   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Finished test: regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor::validRegistrationByTab
+2021-20-03 20:52:23   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was closed
+2021-20-03 20:54:33   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was started.------------
+2021-20-03 20:54:35   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 20:54:35   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 20:54:41   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was open.
+2021-20-03 20:54:43  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:54:43   INFO [pages.LoginPage] : Create random login - uagtxhfgmmkfmvhxigkvxlcwhpiqbh
+2021-20-03 20:54:43  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:54:43  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:54:43  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:54:43   INFO [pages.LoginPage] : Create random email - n59bnvhs@ukr.net
+2021-20-03 20:54:43  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:54:43  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:54:43  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:54:43   INFO [pages.LoginPage] : Create random password - 9fpl65m7c8mpy5rcd3nn8v9iqelvwchirdnflxqtb9ddzoddhg
+2021-20-03 20:54:43  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:54:43  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:54:43  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:54:43  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:54:48   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 20:54:48  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:54:48  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:54:48   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:54:48   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:54:48   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:54:48   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:54:48   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:54:49   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 20:54:49   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgba(128, 189, 255, 1)
+2021-20-03 20:54:49  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:54:50   INFO [pages.LoginPage] : uagtxhfgmmkfmvhxigkvxlcwhpiqbh was input in to element 'Input User Name In Register In' 
+2021-20-03 20:54:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:54:50  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:54:50   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:54:51   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-20-03 20:54:51   INFO [pages.LoginPage] : Border color of element -----Input Email In Register In----- is - rgba(128, 189, 255, 1)
+2021-20-03 20:54:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:54:51   INFO [pages.LoginPage] : n59bnvhs@ukr.net was input in to element 'Input Email In Register In' 
+2021-20-03 20:54:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:54:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:54:51   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:54:51   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-20-03 20:54:51   INFO [pages.LoginPage] : Border color of element -----Input Pass Word In Register In----- is - rgba(137, 192, 251, 1)
+2021-20-03 20:54:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:54:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:54:51   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was ended.--------------
+2021-20-03 20:54:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
+2021-20-03 20:54:52   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Finished test: regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor::validRegistrationByTab
+2021-20-03 20:54:53   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was closed
+2021-20-03 20:58:39   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was started.------------
+2021-20-03 20:58:43   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 20:58:43   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 20:58:49   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was open.
+2021-20-03 20:58:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:58:51   INFO [pages.LoginPage] : Create random login - mxnzf34iyuzsqkbogydhot3r2sjk2w
+2021-20-03 20:58:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:58:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:58:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:58:51   INFO [pages.LoginPage] : Create random email - 5hydfqwz@ukr.net
+2021-20-03 20:58:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:58:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:58:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:58:51   INFO [pages.LoginPage] : Create random password - akhiibmfsrn8rjvqsbosh9pzcd11npjlhvlmvu42sg17fkvy09
+2021-20-03 20:58:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:58:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:58:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:58:51  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:58:52   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 20:58:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:58:52  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:58:53   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:58:53   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:58:53   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:58:53   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:58:53   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:58:54   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 20:58:54   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgba(128, 189, 255, 1)
+2021-20-03 20:58:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:58:54   INFO [pages.LoginPage] : mxnzf34iyuzsqkbogydhot3r2sjk2w was input in to element 'Input User Name In Register In' 
+2021-20-03 20:58:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:58:54  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:58:54   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:58:55   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-20-03 20:58:55   INFO [pages.LoginPage] : Border color of element -----Input Email In Register In----- is - rgba(128, 189, 255, 1)
+2021-20-03 20:58:55  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 20:58:56   INFO [pages.LoginPage] : 5hydfqwz@ukr.net was input in to element 'Input Email In Register In' 
+2021-20-03 20:58:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:58:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:58:56   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 20:58:56   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-20-03 20:58:56   INFO [pages.LoginPage] : Border color of element -----Input Pass Word In Register In----- is - rgba(130, 190, 254, 1)
+2021-20-03 20:58:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 20:58:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 20:58:56   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was ended.--------------
+2021-20-03 20:58:56  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
+2021-20-03 20:58:56   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Finished test: regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor::validRegistrationByTab
+2021-20-03 20:58:57   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was closed
+2021-20-03 21:00:18   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was started.------------
+2021-20-03 21:00:21   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 21:00:21   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 21:00:26   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was open.
+2021-20-03 21:00:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:00:27   INFO [pages.LoginPage] : Create random login - srd5qxslsr5opezzyqbvxpn6ero2qf
+2021-20-03 21:00:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:00:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:00:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:00:27   INFO [pages.LoginPage] : Create random email - vz5vg7pe@ukr.net
+2021-20-03 21:00:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:00:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:00:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:00:27   INFO [pages.LoginPage] : Create random password - 3vfibxenxuhfqsvw7sqiar2xfwh0m11wdub6b3m0rhx8d9fcw9
+2021-20-03 21:00:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:00:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:00:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:00:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:00:29   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 21:00:29  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:00:29  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:00:29   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:00:29   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:00:29   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:00:29   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:00:29   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:00:30   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 21:00:30   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgb(128, 189, 255)
+2021-20-03 21:00:30  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:00:30  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:00:30   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was ended.--------------
+2021-20-03 21:00:31  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
+2021-20-03 21:00:31   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Finished test: regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor::validRegistrationByTab
+2021-20-03 21:00:32   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was closed
+2021-20-03 21:03:07   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was started.------------
+2021-20-03 21:03:10   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 21:03:10   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 21:03:15   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was open.
+2021-20-03 21:03:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:03:16   INFO [pages.LoginPage] : Create random login - zd1afu60ygkrtedrdubx0npdlxuykx
+2021-20-03 21:03:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:03:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:03:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:03:16   INFO [pages.LoginPage] : Create random email - eg6mv1ki@ukr.net
+2021-20-03 21:03:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:03:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:03:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:03:16   INFO [pages.LoginPage] : Create random password - kfwamd8lnbdcy7fmrwcrdfknozwurelzm6koejr56betnrejob
+2021-20-03 21:03:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:03:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:03:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:03:16  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:03:18   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 21:03:18  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:03:18  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:03:18   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:03:18   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:03:18   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:03:18   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:03:18   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:03:19   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 21:03:19   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgba(128, 189, 255, 1)
+2021-20-03 21:03:19  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:03:19   INFO [pages.LoginPage] : zd1afu60ygkrtedrdubx0npdlxuykx was input in to element 'Input User Name In Register In' 
+2021-20-03 21:03:19  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:03:19  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:03:19   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:03:21   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-20-03 21:03:21   INFO [pages.LoginPage] : Border color of element -----Input Email In Register In----- is - rgba(128, 189, 255, 1)
+2021-20-03 21:03:21  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:03:21   INFO [pages.LoginPage] : eg6mv1ki@ukr.net was input in to element 'Input Email In Register In' 
+2021-20-03 21:03:21  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:03:21  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:03:21   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:03:21   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-20-03 21:03:21   INFO [pages.LoginPage] : Border color of element -----Input Pass Word In Register In----- is - rgba(130, 190, 254, 1)
+2021-20-03 21:03:21  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:03:21  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:03:21   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was ended.--------------
+2021-20-03 21:03:21  ERROR [io.qameta.allure.AllureLifecycle] : Could not add attachment: no test is running
+2021-20-03 21:03:21   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Finished test: regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor::validRegistrationByTab
+2021-20-03 21:03:23   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was closed
+2021-20-03 21:06:17   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was started.------------
+2021-20-03 21:06:19   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+2021-20-03 21:06:19   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as C:\Users\User\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+2021-20-03 21:06:25   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was open.
+2021-20-03 21:06:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:06:27   INFO [pages.LoginPage] : Create random login - 0xzbs3lcrtuvgflfjyjiykwyfvsrik
+2021-20-03 21:06:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:06:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:06:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:06:27   INFO [pages.LoginPage] : Create random email - ny6gbc7o@ukr.net
+2021-20-03 21:06:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:06:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:06:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:06:27   INFO [pages.LoginPage] : Create random password - cso4bo5vkzgg0fn3ntyyb14zvk7ycylikcaj6n66pk9zehjvmx
+2021-20-03 21:06:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:06:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:06:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:06:27  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:06:31   INFO [pages.LoginPage] : Login page was open.
+2021-20-03 21:06:31  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:06:31  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:06:31   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:06:31   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:06:31   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:06:31   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:06:32   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:06:33   INFO [pages.LoginPage] :  'Input User Name In Register In' Element displayed:true
+2021-20-03 21:06:33   INFO [pages.LoginPage] : Border color of element -----Input User Name In Register In----- is - rgba(128, 189, 255, 1)
+2021-20-03 21:06:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:06:33   INFO [pages.LoginPage] : 0xzbs3lcrtuvgflfjyjiykwyfvsrik was input in to element 'Input User Name In Register In' 
+2021-20-03 21:06:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:06:33  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:06:33   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:06:34   INFO [pages.LoginPage] :  'Input Email In Register In' Element displayed:true
+2021-20-03 21:06:34   INFO [pages.LoginPage] : Border color of element -----Input Email In Register In----- is - rgba(128, 189, 255, 1)
+2021-20-03 21:06:34  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:06:34   INFO [pages.LoginPage] : ny6gbc7o@ukr.net was input in to element 'Input Email In Register In' 
+2021-20-03 21:06:34  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:06:34  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:06:35   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:06:36   INFO [pages.LoginPage] :  'Input Pass Word In Register In' Element displayed:true
+2021-20-03 21:06:36   INFO [pages.LoginPage] : Border color of element -----Input Pass Word In Register In----- is - rgba(128, 189, 255, 1)
+2021-20-03 21:06:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:06:36   INFO [pages.LoginPage] : cso4bo5vkzgg0fn3ntyyb14zvk7ycylikcaj6n66pk9zehjvmx was input in to element 'Input Pass Word In Register In' 
+2021-20-03 21:06:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:06:36  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:06:36   INFO [pages.LoginPage] : Send key TAB.
+2021-20-03 21:06:37   INFO [pages.LoginPage] :  'Sign Up For Our App Button' Element displayed:true
+2021-20-03 21:06:37   INFO [pages.LoginPage] : Border color of element -----Sign Up For Our App Button----- is - rgb(40, 167, 69)
+2021-20-03 21:06:37  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:06:37  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:06:37  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:06:37  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:06:39   INFO [pages.LoginPage] :  'Sign Up For Our App Button' element was clicked.
+2021-20-03 21:06:39  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:06:39  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:06:39  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:06:39  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:06:39  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:06:41   INFO [pages.HomePage] : The current page is - https://qa-complex-app-for-testing.herokuapp.com/
+2021-20-03 21:06:41  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:06:41  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:06:41  ERROR [io.qameta.allure.AllureLifecycle] : Could not start step: no test case running
+2021-20-03 21:06:41   INFO [pages.HomePage] :  'Button Sign Out' Element displayed:true
+2021-20-03 21:06:41  ERROR [io.qameta.allure.AllureLifecycle] : Could not update step: no step running
+2021-20-03 21:06:41  ERROR [io.qameta.allure.AllureLifecycle] : Could not stop step: no step running
+2021-20-03 21:06:41   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : -------- validRegistrationByTab was ended.--------------
+2021-20-03 21:06:41   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Finished test: regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor::validRegistrationByTab
+2021-20-03 21:06:42   INFO [regestrationTests.TestCase_5_ValidRegistrationByTabAndCheckBorderColor] : Browser was closed
