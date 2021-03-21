@@ -1,5 +1,6 @@
 package pages;
 
+import io.qameta.allure.Step;
 import libs.TestData;
 import libs.Util;
 import org.junit.Assert;
@@ -44,24 +45,24 @@ public class SinglePostPage extends ParentPage {
 
         return this;
     }
-
+    @Step
     public SinglePostPage checkIsSuccessMessageDisplayed() {
         Util.waitABit(2);
         checkIsElementVisible(successMessageElement);
         return this;
     }
-
+    @Step
     public SinglePostPage checkIsValidTitleIsDisplayed() {
         checkIsElementVisible(validTitleOfPost);
         return this;
     }
-
+    @Step
     public SinglePostPage checkIsButtonDeletePostIsDisplayed() {
         Util.waitABit(2);
         checkIsElementVisible(deletePostButton);
         return this;
     }
-
+    @Step
     public MyProfilePage clickOnDeletePostButton() {
         Util.waitABit(2);
 
@@ -85,7 +86,7 @@ public class SinglePostPage extends ParentPage {
 
     }
 
-
+    @Step
     public EditPostPage clickOnEditPostButton() {
         Util.waitABit(2);
         clickOnElement(editPostButton);

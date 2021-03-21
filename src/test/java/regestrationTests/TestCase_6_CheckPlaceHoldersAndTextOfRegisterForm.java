@@ -23,7 +23,8 @@ public class TestCase_6_CheckPlaceHoldersAndTextOfRegisterForm extends BaseTest 
         String textOverPassword = "Password";
 
         loginPage.checkPlaceHolder(placeHolderUserName, placeHolderEmail, placeHolderPassword)
-                .checkTextOverInputFieldInRegisterForm(textOverUserName, textOverEmail, textOverPassword);
+                .checkTextOverInputFieldInRegisterForm(textOverUserName, textOverEmail, textOverPassword)
+                ;
 
 
     }

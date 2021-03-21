@@ -1,6 +1,8 @@
 package regestrationTests;
 
 import baseTest.BaseTest;
+import io.qameta.allure.Epic;
+import io.qameta.allure.Feature;
 import junitparams.JUnitParamsRunner;
 import junitparams.Parameters;
 import junitparams.naming.TestCaseName;
@@ -8,7 +10,8 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 
 @RunWith(JUnitParamsRunner.class)
-
+@Epic("Allure examples")
+@Feature("Junit 4 support")
 public class TestCase_3_CheckErrorMessage extends BaseTest {
 
 

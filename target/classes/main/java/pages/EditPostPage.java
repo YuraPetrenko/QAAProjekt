@@ -1,5 +1,6 @@
 package pages;
 
+import io.qameta.allure.Step;
 import libs.Util;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
@@ -42,7 +43,7 @@ public class EditPostPage extends ParentPage {
         return this;
     }
 
-
+    @Step
     public EditPostPage editTitleOfPost(String newPostTitle) {
 
         inputTitleText.clear();
@@ -53,14 +54,14 @@ public class EditPostPage extends ParentPage {
 
         return new EditPostPage(webDriver);
     }
-
+    @Step
     public EditPostPage checkIsPostSuccessfullyUpdated() {
         Assert.assertTrue(messagePostSuccessfullyUpdated + " is not displayed.", isElementDisplayed(messagePostSuccessfullyUpdated));
 
 
         return new EditPostPage(webDriver);
     }
-
+    @Step
     public MyProfilePage clickOnMyProfileButton() {
         waitChatToBeHide();
         clickOnElement(myProfileButton);

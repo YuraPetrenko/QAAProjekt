@@ -17,9 +17,6 @@ public class CreateNewPostTest extends BaseTest {
 
     final String POST_TITLE = "Yura Title of post." + Util.getDateAndTimeFormated();
 
-    @Category(SmokeTests.class)
-
-
     @Test
     public void createNewPost() {
 

@@ -347,7 +347,7 @@ public class LoginPage extends ParentPage {
         checkTexOfPlaceHolder(inputPassWordInRegisterIn, placeHolderPassword);
         return this;
     }
-
+    @Step
     public LoginPage checkTextOverInputFieldInRegisterForm(String textOverUserName, String textOverEmail, String textOverPassword) {
 
         checkTexOverInputField(labelUserNameRegisterIn, textOverUserName);
@@ -355,6 +355,13 @@ public class LoginPage extends ParentPage {
         checkTexOverInputField(labelPasswordRegisterIn, textOverPassword);
 
 
+        return this;
+    }
+    @Step
+    public LoginPage checkColorTextSignUpForOurAppButton(String colorOfText) {
+
+        Assert.assertEquals("Color of text SignUpForOurAppButton is not correct. Current color is -  " + signUpForOurAppButton.getAttribute("color"), colorOfText  );
+        logger.info("Color of text SignUpForOurAppButton is  correct. Color is" + signUpForOurAppButton.getAttribute("color"));
         return this;
     }
 }

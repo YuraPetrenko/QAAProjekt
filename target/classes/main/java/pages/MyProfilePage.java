@@ -1,5 +1,6 @@
 package pages;
 
+import io.qameta.allure.Step;
 import libs.TestData;
 import libs.Util;
 import org.junit.Assert;
@@ -42,7 +43,7 @@ public class MyProfilePage extends ParentPage {
         Assert.assertThat("Invalid page", webDriver.getCurrentUrl(), containsString(baseUrl + getRelativeUrl()));
         return this;
     }
-
+    @Step
     public MyProfilePage checkIsPostWithTheValidTitleIsVisible() {
         try {
             validTitleOfPost.isDisplayed();
@@ -56,14 +57,14 @@ public class MyProfilePage extends ParentPage {
         return this;
     }
 
-
+    @Step
     public SinglePostPage clickOnPostWithTheValidTitle() {
 
         clickOnElement(validTitleOfPost);
         return new SinglePostPage(webDriver);
     }
 
-
+    @Step
     public MyProfilePage checkIsPostWithTheValidTitleIsNotVisible(String postTitle) {
         try {
             Assert.assertTrue("Element is visible", !isElementDisplayed(validTitleOfPost));
@@ -82,7 +83,7 @@ public class MyProfilePage extends ParentPage {
         clickOnElement(myProfileButton);
         return new MyProfilePage(webDriver);
     }
-
+    @Step
     public MyProfilePage deletePostWhilePresent(String post_title) {
 
         List<WebElement> listOfPost = webDriver.findElements(By.xpath(String.format(postTitleLocator, post_title)));
@@ -101,12 +102,12 @@ public class MyProfilePage extends ParentPage {
 
         return this;
     }
-
+    @Step
     private MyProfilePage checkSuccessDeletePost() {
         checkIsElementVisible(successPostDeleteElement);
         return this;
     }
-
+    @Step
     public MyProfilePage checkIsPostWasAdded(String post_title) {
 
 
@@ -115,7 +116,7 @@ public class MyProfilePage extends ParentPage {
         logger.info("End before");
         return this;
     }
-
+    @Step
     public SinglePostPage clickOnPostWithTitle(String post_title) {
         clickOnElement(webDriver.findElement(By.xpath(String.format(postTitleLocator,post_title))));
         return new SinglePostPage(webDriver);

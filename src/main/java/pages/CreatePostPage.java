@@ -1,5 +1,6 @@
 package pages;
 
+import io.qameta.allure.Step;
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -40,28 +41,28 @@ public class CreatePostPage extends ParentPage {
 
         return this;
     }
-
+    @Step
     public CreatePostPage enterTitleInToTitle(String title) {
         enterTextInToElement(inputTitle, title);
         this.title = title;
         return this;
     }
-
+    @Step
     public CreatePostPage enterTextInToInputBody(String text) {
         enterTextInToElement(inputBody, text);
         return this;
     }
-
+    @Step
     public SinglePostPage clickOnButtonSavePost() {
         clickOnElement(clickOnButtonSaveNewPost);
         return new SinglePostPage(webDriver);
     }
-
+    @Step
     public CreatePostPage selectTextInDropDownRole(String textInDD) {
         selectTextInDropDown(dropDownRole, textInDD);
         return this;
     }
-
+    @Step
     public CreatePostPage clickValueInDropDownInCreatePost(String valueOfDopDown){
         dropDownInCreatePost.isDisplayed();
         dropDownInCreatePost.click();
