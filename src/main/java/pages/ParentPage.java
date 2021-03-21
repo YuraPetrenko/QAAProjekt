@@ -229,4 +229,17 @@ public abstract class ParentPage {
     }
 
 
+    protected void checkTexOfPlaceHolder(WebElement element, String textOfPlaceHolder){
+        checkIsElementVisible(element);
+        Assert.assertEquals("Text is not equals. ", textOfPlaceHolder, element.getAttribute("placeholder"));
+        logger.info("PlaceHolderText is equals. " + textOfPlaceHolder);
+    }
+
+    protected void checkTexOverInputField(WebElement element, String textOverInputField){
+        checkIsElementVisible(element);
+        Assert.assertEquals("Text is not equals. ", textOverInputField, element.getText());
+        logger.info("TextOverInputField is equals. " + textOverInputField);
+    }
+
+
 }

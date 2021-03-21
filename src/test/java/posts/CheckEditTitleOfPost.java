@@ -1,12 +1,15 @@
 package posts;
 
 import baseTest.BaseTest;
+import io.qameta.allure.Epic;
+import io.qameta.allure.Feature;
 import libs.Util;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-
+@Epic("Allure examples")
+@Feature("Junit 4 support")
 public class CheckEditTitleOfPost extends BaseTest {
     final String POST_TITLE = "Yura Title of post." + Util.getDateAndTimeFormated();
     String newPostTitle = "++++++++++++++" + Util.getDateAndTimeFormated();
@@ -26,7 +29,6 @@ public class CheckEditTitleOfPost extends BaseTest {
                 .clickOnProfileButton()
                 .checkIsRedirectOnMyProfilePage()
                 .checkIsPostWasAdded(POST_TITLE);
-
 
     }
 

@@ -15,6 +15,7 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import pages.CreatePostPage;
@@ -50,7 +51,6 @@ public class BaseTest {
 
 
     }
-
     private WebDriver initDriver() throws Exception {
         String browser = System.getProperty("browser");
         if (browser == null || ("chrome".equalsIgnoreCase(browser))) {
@@ -62,10 +62,43 @@ public class BaseTest {
         } else if ("ie".equalsIgnoreCase(browser)) {
             WebDriverManager.iedriver().arch32().setup();
             return new InternetExplorerDriver();
-        } else {
+        }
+        else if ("ed".equalsIgnoreCase(browser)) {
+            WebDriverManager.edgedriver().setup();
+            return new EdgeDriver();
+        }
+
+        else {
             throw new Exception("Check browser var");
         }
     }
+
+//    private WebDriver initDriver() throws Exception {
+//        String browser = System.getProperty("browser");
+//        if (browser == null || ("chrome".equalsIgnoreCase(browser))) {
+//            WebDriverManager.chromedriver().setup();
+//            return new ChromeDriver();
+//        } else if ("firefox".equalsIgnoreCase(browser)) {
+//            WebDriverManager.firefoxdriver().setup();
+//            return new FirefoxDriver();
+//        } else if ("ie".equalsIgnoreCase(browser)) {
+//            WebDriverManager.iedriver().arch32().setup();
+//            return new InternetExplorerDriver();
+//        } else {
+//            throw new Exception("Check browser var");
+//        }
+//    }
+
+
+
+
+
+
+
+
+
+
+
 
 
     @After
