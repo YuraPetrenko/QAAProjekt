@@ -364,10 +364,5 @@ public class LoginPage extends ParentPage {
         logger.info("Color of text SignUpForOurAppButton is  correct. Color is" + signUpForOurAppButton.getAttribute("color"));
         return this;
     }
-    @Step
-    public LoginPage checkColorOfSignUpForOurAppButton(String colorOfSignUpForOurAppButton) {
-        checkBackGroundColorOfElement(signUpForOurAppButton, colorOfSignUpForOurAppButton);
-        return this;
-    }
 }
 
