@@ -42,13 +42,16 @@
     <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.4" level="project" />
     <orderEntry type="library" name="Maven: org.aeonbits.owner:owner:1.0.4" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: pl.pragmatists:JUnitParams:1.0.5" level="project" />
-    <orderEntry type="library" name="Maven: io.github.bonigarcia:webdrivermanager:3.7.1" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
-    <orderEntry type="library" name="Maven: commons-io:commons-io:2.6" level="project" />
-    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.5" level="project" />
-    <orderEntry type="library" name="Maven: org.rauschig:jarchivelib:1.0.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.commons:commons-compress:1.18" level="project" />
-    <orderEntry type="library" name="Maven: org.jsoup:jsoup:1.11.3" level="project" />
+    <orderEntry type="library" name="Maven: io.github.bonigarcia:webdrivermanager:4.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.30" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.8.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents.client5:httpclient5:5.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents.core5:httpcore5:5.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents.core5:httpcore5-h2:5.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.rauschig:jarchivelib:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-compress:1.20" level="project" />
+    <orderEntry type="library" name="Maven: org.jsoup:jsoup:1.13.1" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-log4j12:1.7.5" level="project" />
     <orderEntry type="library" name="Maven: org.apache.poi:poi:3.14" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.18" level="project" />
