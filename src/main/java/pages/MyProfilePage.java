@@ -18,7 +18,7 @@ import static org.hamcrest.Matchers.containsString;
 
 public class MyProfilePage extends ParentPage {
 
-    final String postTitleLocator = ".//*[text()= '%s']";
+    final String postTitleLocator = ".//*[contains(text(),'%s')]";
 
     @FindBy(xpath = postTitleLocator)
     private TextBlock validTitleOfPost;
@@ -43,19 +43,16 @@ public class MyProfilePage extends ParentPage {
         Assert.assertThat("Invalid page", webDriver.getCurrentUrl(), containsString(baseUrl + getRelativeUrl()));
         return this;
     }
-    @Step
-    public MyProfilePage checkIsPostWithTheValidTitleIsVisible() {
-        try {
-            validTitleOfPost.isDisplayed();
-            logger.info("Post with title \" " + TestData.VALID_TITLE + "\" is visible in the list of posts.");
-            return this;
-        } catch (Exception e) {
-            logger.info("Post with title " + TestData.VALID_TITLE + " is not visible in the  list of posts.");
-            Assert.fail("Post with title \"" + TestData.VALID_TITLE + "\" is not visible in the list of posts.");
-        }
 
+    @Step
+    public MyProfilePage checkIsPostWithTheValidTitleIsVisible(String postTitle) {
+        List<WebElement> postsList = webDriver.findElements(By.xpath(String.format(postTitleLocator, postTitle)));
+        Assert.assertEquals("Numbers of posts with title " + postTitle + " is " + postsList.size(), 1, postsList.size());
+        logger.info(postsList + " Post was added. ");
         return this;
+
     }
+
 
     @Step
     public SinglePostPage clickOnPostWithTheValidTitle() {
@@ -83,42 +80,44 @@ public class MyProfilePage extends ParentPage {
         clickOnElement(myProfileButton);
         return new MyProfilePage(webDriver);
     }
+
     @Step
     public MyProfilePage deletePostWhilePresent(String post_title) {
 
         List<WebElement> listOfPost = webDriver.findElements(By.xpath(String.format(postTitleLocator, post_title)));
-        int counter =0;
-        while (!listOfPost.isEmpty() && counter < 100) {
+        int count = listOfPost.size();
+        for (WebElement element: listOfPost ) {
             clickOnElement(webDriver.findElement(By.xpath(String.format(postTitleLocator, post_title))));
             new SinglePostPage(webDriver)
                     .checkIsRedirectOnSinglePostPage()
                     .clickOnDeletePostButton()
                     .checkIsRedirectOnMyProfilePage()
                     .checkSuccessDeletePost();
-            Util.waitABit(2);
-            listOfPost = webDriver.findElements(By.xpath(String.format(postTitleLocator, post_title)));
-
+            logger.info("Post with titlt "+ post_title + " was deleted ");
         }
 
         return this;
     }
+
     @Step
     private MyProfilePage checkSuccessDeletePost() {
         checkIsElementVisible(successPostDeleteElement);
         return this;
     }
+
     @Step
     public MyProfilePage checkIsPostWasAdded(String post_title) {
 
 
         List<WebElement> postsList = webDriver.findElements(By.xpath(String.format(postTitleLocator, post_title)));
-        Assert.assertEquals("Numbers of posts with title " + post_title, 1, postsList.size());
-        logger.info("End before");
+        Assert.assertEquals("Numbers of posts with title " + post_title + " is " + postsList.size(), 1, postsList.size());
+        logger.info(post_title + " Post was added. ");
         return this;
     }
+
     @Step
     public SinglePostPage clickOnPostWithTitle(String post_title) {
-        clickOnElement(webDriver.findElement(By.xpath(String.format(postTitleLocator,post_title))));
+        clickOnElement(webDriver.findElement(By.xpath(String.format(postTitleLocator, post_title))));
         return new SinglePostPage(webDriver);
     }
 }

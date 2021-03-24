@@ -11,24 +11,30 @@ import org.junit.Test;
 @Epic("Allure examples")
 @Feature("Junit 4 support")
 public class CheckEditTitleOfPost extends BaseTest {
-    final String POST_TITLE = "Yura Title of post." + Util.getDateAndTimeFormated();
+    String postTitle = "Yura Title of post." + Util.getDateAndTimeFormated();
+    String bodyTextPost = "Body text" + Util.getDateAndTimeFormated();
+    String valueDopDown = "Частное сообщение";
     String newPostTitle = "++++++++++++++" + Util.getDateAndTimeFormated();
 
     @Before
     public void createNewPost() {
-        loginPage.loginWithValidCred()
+        String validLogin = loginPage.createValidLoginBySize(30);
+        String validEmail = loginPage.createValidEmail(8);
+        String validPassword = loginPage.createValidPasswordBySize(50);
+
+        loginPage.fillRegisterFormByClick(validLogin, validEmail, validPassword).clickOnSignUpForOurAppButton()
                 .checkIsButtonSignOutVisible()
                 .clickOnCreatePostButton()
                 .checkIsRedirectOnCreatePostPage()
-                .enterTitleInToTitle(POST_TITLE)
-                .enterTextInToInputBody("bshzbzx")
-                .clickValueInDropDownInCreatePost("Частное сообщение")
+                .enterTitleInToTitle(postTitle)
+                .enterTextInToInputBody(bodyTextPost)
+                .clickValueInDropDownInCreatePost(valueDopDown)
                 .clickOnButtonSavePost()
                 .checkIsRedirectOnSinglePostPage()
                 .checkIsSuccessMessageDisplayed()
                 .clickOnProfileButton()
                 .checkIsRedirectOnMyProfilePage()
-                .checkIsPostWasAdded(POST_TITLE);
+                .checkIsPostWasAdded(postTitle);
 
     }
 
@@ -38,10 +44,9 @@ public class CheckEditTitleOfPost extends BaseTest {
     public void checkEditOfTitle() {
         homePage.clickOnMyProfileButton().
                 checkIsRedirectOnMyProfilePage().
-                clickOnPostWithTitle(POST_TITLE).
+                clickOnPostWithTitle(postTitle).
                 checkIsRedirectOnSinglePostPage().
                 clickOnEditPostButton().
-            //    checkIsRedirectOnEditPostPage().
                 editTitleOfPost(newPostTitle).
                 checkIsPostSuccessfullyUpdated().
                 clickOnMyProfileButton().
@@ -57,7 +62,8 @@ public class CheckEditTitleOfPost extends BaseTest {
         homePage.openHomePage()
                 .checkIsButtonSignOutVisible()
                 .clickOnMyProfileButton()
-                .checkIsRedirectOnMyProfilePage().deletePostWhilePresent(newPostTitle);
+                .checkIsRedirectOnMyProfilePage()
+                .deletePostWhilePresent(newPostTitle);
     }
 
 }

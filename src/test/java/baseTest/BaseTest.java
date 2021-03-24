@@ -64,7 +64,7 @@ public class BaseTest {
             return new InternetExplorerDriver();
         }
         else if ("ed".equalsIgnoreCase(browser)) {
-            WebDriverManager.edgedriver().setup();
+            WebDriverManager.edgedriver().arch32().setup();
             return new EdgeDriver();
         }
 
