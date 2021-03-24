@@ -157,7 +157,7 @@ public class LoginPage extends ParentPage {
     }
 
     @Step
-    public LoginPage fillAndCheckBorderColorRegisterForm(String userName, String email, String password, String borderColorOfActiveInput, String borderColorOfSignUpFprUppActive) {
+    public LoginPage fillAndCheckBorderColorRegisterFormByTab(String userName, String email, String password, String borderColorOfActiveInput, String borderColorOfSignUpFprUppActive) {
         openLoinPage();
         usersPressesKeyTabTime(5);
 
