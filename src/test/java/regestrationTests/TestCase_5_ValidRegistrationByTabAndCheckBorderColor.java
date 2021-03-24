@@ -18,11 +18,8 @@ public class TestCase_5_ValidRegistrationByTabAndCheckBorderColor extends BaseTe
         String validLogin = loginPage.createValidLoginBySize(30);
         String validEmail = loginPage.createValidEmail(8);
         String validPassword = loginPage.createValidPasswordBySize(50);
-        String borderColorOfActiveInput = "rgba(128, 189, 255, 1)";
-        String borderColorOfSignUpFprUppActive = "rgb(40, 167, 69)";
-        String colorOfSignUpForOurAppButton = "rgba(40, 167, 69, 1)";
-        loginPage.fillAndCheckBorderColorRegisterFormByTab(validLogin, validEmail, validPassword, borderColorOfActiveInput, borderColorOfSignUpFprUppActive)
-                .checkColorOfSignUpForOurAppButton(colorOfSignUpForOurAppButton)
+
+        loginPage.fillAndCheckBorderColorRegisterForm(validLogin, validEmail, validPassword, "rgba(128, 189, 255, 1)", "rgb(40, 167, 69)")
                 .clickOnSignUpForOurAppButton()
                 .checkIsRedirectOnHomePage()
                 .isButtonSignOutVisible();
